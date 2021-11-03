@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<task task_id="7" real_activity="fitness.smartwatch.montblanc.com.fitness/fitness.smartwatch.montblanc.stress_new.ui.activity.main.StressActivity" real_activity_suspended="false" affinity=".stress" root_has_reset="true" auto_remove_recents="false" asked_compat_mode="false" user_id="0" user_setup_complete="true" effective_uid="10030" last_time_moved="1635882522815" never_relinquish_identity="true" task_description_color="ff808080" task_description_colorBackground="ff000000" task_affiliation_color="-8355712" task_affiliation="7" prev_affiliation="-1" next_affiliation="-1" calling_uid="10049" calling_package="com.google.android.wearable.app" resize_mode="1" supports_picture_in_picture="false" min_width="-1" min_height="-1" persist_task_version="1">
+<intent action="android.intent.action.MAIN" component="fitness.smartwatch.montblanc.com.fitness/fitness.smartwatch.montblanc.stress_new.ui.activity.main.StressActivity" flags="10200000">
+<categories category="android.intent.category.LAUNCHER" />
+</intent>
+</task>
+

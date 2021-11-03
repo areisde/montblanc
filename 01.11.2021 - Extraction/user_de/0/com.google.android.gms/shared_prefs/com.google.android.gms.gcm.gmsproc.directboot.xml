@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="gcm_local_directboot_token">fS2-1u8mgm4:APA91bHNxraWOOO0gBUA-nRDKvECs6o2ZNVPDMZ1uoEJt_C6zdLu5TB934jGlWQ-9Ji5hJYs2V4NwD6wcSKjlUzUpbnvcnk3K2SoPE4Oa0IfjDDa5VsPHmwgGAz-1D4kSTDPk181AChQ</string>
+    <long name="gcm_local_directboot_time" value="1635868753254" />
+</map>

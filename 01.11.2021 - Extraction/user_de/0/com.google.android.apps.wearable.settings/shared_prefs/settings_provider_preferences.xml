@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="setup_locale">fr-FR</string>
+    <int name="wear_companion_os_version" value="29" />
+    <int name="custom_background_color" value="-16777216" />
+    <int name="oem_setup_version" value="1" />
+    <int name="wifi_power_save" value="360000" />
+    <boolean name="clockwork_24hr_time" value="true" />
+    <int name="wireless_debug_mode" value="2" />
+    <boolean name="pay_on_stem" value="false" />
+    <boolean name="button_set" value="true" />
+    <string name="companion_address">14:3C:C3:AD:3D:53</string>
+    <boolean name="current_watchface_decomposable" value="true" />
+    <int name="bluetooth_mode" value="1" />
+    <int name="play_store_availability" value="1" />
+    <int name="gms_checkin_timeout_min" value="6" />
+    <string name="wear_os_version_string">2.23</string>
+</map>

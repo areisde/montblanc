@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="last-scheduling-timestamp" value="0" />
+    <int name="dfe-entries-expected-last-successful-sync" value="0" />
+    <long name="jittering-window-end-timestamp" value="0" />
+    <int name="last-volley-cache-cleared-reason" value="18" />
+    <int name="last-dfe-sync-state" value="1" />
+    <int name="last-images-sync-state" value="1" />
+    <int name="dfe-entries-synced-last-successful-sync" value="0" />
+    <int name="last-cache-state" value="1" />
+    <long name="last-successful-sync-completed-timestamp" value="0" />
+    <long name="last-volley-cache-cleared-timestamp" value="1635968292843" />
+    <int name="current-sync-schedule-state" value="1" />
+</map>

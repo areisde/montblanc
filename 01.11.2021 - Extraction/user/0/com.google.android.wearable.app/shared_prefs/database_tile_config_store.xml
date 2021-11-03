@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="tile_id_auto_increment" value="3" />
+    <long name="tile_config_last_modified_ms" value="1635967985889" />
+</map>

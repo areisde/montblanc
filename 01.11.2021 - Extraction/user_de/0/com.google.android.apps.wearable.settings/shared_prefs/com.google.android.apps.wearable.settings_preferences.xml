@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="pref_logdSize">1048576</string>
+    <boolean name="show_wifi_bluetooth_alert" value="false" />
+    <boolean name="pref_wifi_toggle" value="true" />
+    <string name="window_animation_scale">1</string>
+    <string name="last_used_wifi_ssid">Salt_2GHz_411349</string>
+    <int name="com.google.android.clockwork.settings.bluetooth.companion_connect_state" value="0" />
+    <string name="com.google.android.clockwork.settings.bluetooth.companion_address">14:3C:C3:AD:3D:53</string>
+    <boolean name="last_used_wifi_secure" value="true" />
+    <string name="transition_animation_scale">1</string>
+    <string name="animator_duration_scale">1</string>
+</map>

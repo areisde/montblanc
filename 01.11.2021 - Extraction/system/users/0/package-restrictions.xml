@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<package-restrictions>
+    <pkg name="com.montblanc.smartwatch.watchfaces.urban" ceDataInode="-4294966074" />
+    <pkg name="com.montblanc.smartwatch.chargingscreen" ceDataInode="-4294966071" />
+    <pkg name="com.android.cts.priv.ctsshim" ceDataInode="-4294966067" />
+    <pkg name="com.google.android.ext.services" ceDataInode="-4294966063" />
+    <pkg name="com.android.providers.telephony" ceDataInode="-4294966060" />
+    <pkg name="com.google.android.googlequicksearchbox" ceDataInode="-4294966056" />
+    <pkg name="com.android.providers.calendar" ceDataInode="-4294966052" />
+    <pkg name="com.android.providers.media" ceDataInode="-4294966049" />
+    <pkg name="com.montblanc.heartrate" ceDataInode="-4294966046" />
+    <pkg name="com.google.android.ext.shared" ceDataInode="-4294966043" />
+    <pkg name="com.google.android.clockwork.flashlight" ceDataInode="-4294966040" />
+    <pkg name="com.montblanc.smartwatch.configurator.chrono390" ceDataInode="-4294966037" />
+    <pkg name="com.google.clockwork.wearqxdm" ceDataInode="-4294966034" />
+    <pkg name="com.android.mms.service" ceDataInode="-4294966021" />
+    <pkg name="com.jeremysteckling.facerrel" ceDataInode="-4294966013">
+        <enabled-components>
+            <item name="androidx.work.impl.background.systemjob.SystemJobService" />
+        </enabled-components>
+    </pkg>
+    <pkg name="com.google.android.wearable.setupwizard" ceDataInode="-4294966009">
+        <disabled-components>
+            <item name="com.google.android.wearable.setupwizard.core.SetupWizardActivity" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.providers.downloads" ceDataInode="-4294966006" />
+    <pkg name="com.google.android.apps.messaging" ceDataInode="-4294966003">
+        <enabled-components>
+            <item name="com.google.android.apps.messaging.send.SendToProxyActivity" />
+            <item name="com.google.android.apps.messaging.shared.receiver.TelephonyChangeReceiver" />
+            <item name="androidx.work.impl.background.systemalarm.RescheduleReceiver" />
+            <item name="androidx.work.impl.background.systemjob.SystemJobService" />
+            <item name="com.google.android.apps.messaging.shared.receiver.DefaultSmsPackageChangedReceiver" />
+        </enabled-components>
+        <disabled-components>
+            <item name="com.google.android.apps.messaging.shared.receiver.SmsReceiver" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.qualcomm.qti.telephonyservice" ceDataInode="-4294965999" />
+    <pkg name="com.android.defcontainer" ceDataInode="-4294965995" />
+    <pkg name="com.android.vending" ceDataInode="-4294965991">
+        <enabled-components>
+            <item name="com.google.android.finsky.protect.impl.PlayProtectHomeDeepLinkActivity" />
+            <item name="com.google.android.finsky.prewarmservice.PrewarmService" />
+            <item name="com.android.vending.AssetBrowserActivity" />
+        </enabled-components>
+        <disabled-components>
+            <item name="com.google.android.finsky.protect.ExternalPlayProtectHomeEntryPoint" />
+            <item name="com.google.android.finsky.setupui.VpaSelectionOptionalStepActivity" />
+            <item name="com.google.android.finsky.activities.DebugActivity" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.montblanc.smartwatch.configurator.s3.activity" ceDataInode="-4294965987" />
+    <pkg name="com.google.android.wearable.batteryservices" ceDataInode="-4294965984" />
+    <pkg name="com.google.android.clockwork.nfc" ceDataInode="-4294965981" />
+    <pkg name="com.android.certinstaller" ceDataInode="-4294965978" />
+    <pkg name="com.android.carrierconfig" ceDataInode="-4294965975" />
+    <pkg name="com.google.android.marvin.talkback" ceDataInode="-4294965972" />
+    <pkg name="com.montblanc.smartwatch.alarmclock" ceDataInode="-4294965969" />
+    <pkg name="fitness.smartwatch.montblanc.com.fitness" ceDataInode="-4294965966" />
+    <pkg name="android" ceDataInode="-4294965960" />
+    <pkg name="com.google.android.apps.wearable.settings" ceDataInode="-4294965954">
+        <disabled-components>
+            <item name="com.google.android.clockwork.settings.SetupSettingsActivity" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.nfc" ceDataInode="-4294965948">
+        <enabled-components>
+            <item name="com.android.nfc.BeamShareActivity" />
+        </enabled-components>
+    </pkg>
+    <pkg name="com.android.backupconfirm" ceDataInode="-4294965941" />
+    <pkg name="com.montblanc.smartwatch.configurator.energy" ceDataInode="-4294965938" />
+    <pkg name="org.codeaurora.ims" ceDataInode="-4294965935" />
+    <pkg name="com.android.statementservice" ceDataInode="-4294965931" />
+    <pkg name="com.montblanc.smart.watch.sportswatchface" ceDataInode="-4294965928">
+        <enabled-components>
+            <item name="com.montblanc.smartwatch.sportswatchface.GetAccountActivity" />
+        </enabled-components>
+    </pkg>
+    <pkg name="com.qualcomm.qcrilmsgtunnel" ceDataInode="-4294965925" />
+    <pkg name="com.android.providers.settings" ceDataInode="-4294965920" />
+    <pkg name="com.google.android.apps.wearable.bluetooth" ceDataInode="-4294965916" />
+    <pkg name="com.timeshifter.timeshifter.wear" ceDataInode="-4294965912" />
+    <pkg name="com.montblanc.smartwatch.configurator.summit" ceDataInode="-4294965909" />
+    <pkg name="com.google.android.apps.wearable.systemui" ceDataInode="-4294965906" />
+    <pkg name="com.google.android.clockwork.gestures.tutorial" ceDataInode="-4294965903" />
+    <pkg name="com.android.se" ceDataInode="-4294965900" />
+    <pkg name="com.android.inputdevices" ceDataInode="-4294965897" />
+    <pkg name="com.oma.sub" ceDataInode="-4294965893" />
+    <pkg name="com.android.cellbroadcastreceiver" ceDataInode="-4294965889" />
+    <pkg name="com.google.android.apps.fitness" ceDataInode="-4294965886">
+        <enabled-components>
+            <item name="com.google.android.wearable.fitness.tile.workout.WorkoutTileProviderService" />
+            <item name="com.google.android.wearable.fitness.tile.hr.HeartRateTileProviderService" />
+            <item name="com.google.android.wearable.fitness.realtime.breathe.BreatheLauncherActivity" />
+            <item name="com.google.android.wearable.fitness.watchfaces.halo.GoogleFitWatchFace" />
+            <item name="com.google.android.wearable.fitness.tile.breathe.BreatheTileProviderService" />
+            <item name="com.google.android.wearable.fitness.realtime.RealtimeLauncherActivity" />
+            <item name="com.google.android.wearable.fitness.application.monitors.AppMonitorsReceiver" />
+            <item name="com.google.android.wearable.fitness.realtime.RealtimeActivity" />
+            <item name="androidx.work.impl.background.systemalarm.RescheduleReceiver" />
+            <item name="androidx.work.impl.background.systemjob.SystemJobService" />
+        </enabled-components>
+        <disabled-components>
+            <item name="com.google.android.wearable.fitness.passive.sensoralgorithms.SensorAlgorithmsService" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.montblanc.smartwatch.toolbox" ceDataInode="-4294965882" />
+    <pkg name="com.android.server.telecom" ceDataInode="-4294965879" />
+    <pkg name="com.android.keychain" ceDataInode="-4294965875" />
+    <pkg name="com.google.android.packageinstaller" ceDataInode="-4294965871" />
+    <pkg name="com.google.android.gms" ceDataInode="-4294965868">
+        <enabled-components>
+            <item name="com.google.android.gms.auth.account.mdm.GcmReceiverService" />
+            <item name="com.google.android.gms.auth.managed.ui.PhoneskyDpcInstallActivity" />
+            <item name="com.google.android.gms.auth.account.visibility.RequestAccountsAccessActivity" />
+            <item name="com.google.android.gms.backup.component.BackupOptInActivity" />
+            <item name="com.google.android.gms.mdm.services.GcmReceiverService" />
+            <item name="com.google.android.gms.mdm.MdmSettingsActivityPermissionTrampoline" />
+            <item name="com.google.android.gms.tapandpay.hce.service.TpHceService" />
+            <item name="com.google.android.gms.subscribedfeeds.GcmReceiverService" />
+            <item name="com.google.android.gms.auth.managed.ui.SetNewPasswordActivity" />
+            <item name="com.google.android.location.util.LocationAccuracyInjectorService" />
+            <item name="com.google.android.gms.mdm.receivers.RetryAfterAlarmReceiver" />
+            <item name="com.google.android.gms.measurement.PackageMeasurementReceiver" />
+            <item name="com.google.android.gms.auth.uiflows.addaccount.UncertifiedNotificationActivity" />
+            <item name="com.google.android.gms.auth.account.authenticator.WearableAuthDelegateService" />
+            <item name="com.google.android.gms.clearcut.debug.ClearcutDebugDumpService" />
+            <item name="com.google.android.gms.stats.eastworld.EastworldService" />
+            <item name="com.google.android.gms.mdm.RingMyPhoneActivity" />
+            <item name="com.google.android.gms.backup.component.NoBackupNotificationService" />
+            <item name="com.google.android.gms.mdm.services.LockscreenMessageService" />
+            <item name="com.google.android.gms.analytics.service.AnalyticsService" />
+            <item name="com.google.android.gms.backup.mms.MmsBackupService" />
+            <item name="com.google.android.gms.common.account.WearableAccountChooserActivity" />
+            <item name="com.google.android.gms.smartdevice.d2d.ui.SourceDirectTransferActivity" />
+            <item name="com.google.android.location.fused.FusedLocationService" />
+            <item name="com.google.android.gms.backup.component.BackupSettingsActivity" />
+            <item name="com.google.android.gms.people.sync.coreui.ContactsSyncCoreActivity" />
+            <item name="com.google.android.gms.security.settings.SecuritySettingsActivity" />
+            <item name="com.google.android.gms.gcm.nts.SchedulerService" />
+            <item name="com.google.android.gms.smartdevice.d2d.ui.ForwardingActivity" />
+            <item name="com.google.android.gms.smartdevice.setup.ui.AccountChallengeActivity" />
+            <item name="com.google.android.gms.contactinteractions.service.ContactInteractionsTaskService" />
+            <item name="com.google.android.gms.auth.account.accounttransfer.AccountTransferReceiver" />
+            <item name="com.google.android.gms.mdm.LockscreenActivityPermissionTrampoline" />
+            <item name="com.google.android.location.reporting.service.UploadGcmTaskService" />
+            <item name="com.google.android.gms.smartdevice.magicwand.MagicWandActivity" />
+            <item name="com.google.android.gms.droidguard.DroidGuardGcmTaskService" />
+            <item name="com.google.android.location.internal.LocationContentProvider" />
+            <item name="com.google.android.gms.mdm.LockscreenActivity" />
+            <item name="com.google.android.gms.backup.component.SetBackupAccountFlowActivity" />
+            <item name="com.google.android.gms.mdm.receivers.MdmDeviceAdminReceiver" />
+            <item name="com.google.android.gms.subscribedfeeds.GmsFeedsSyncService" />
+            <item name="com.google.android.gms.lockbox.LockboxAlarmReceiver" />
+            <item name="com.google.android.gms.backup.mms.MmsRestoreService" />
+            <item name="com.google.android.gms.measurement.PackageMeasurementTaskService" />
+            <item name="com.google.android.gms.location.persistent.LocationPersistentService" />
+            <item name="com.google.android.gms.auth.uiflows.addaccount.DmSetScreenlockActivity" />
+            <item name="com.google.android.gms.analytics.AnalyticsTaskService" />
+            <item name="com.google.android.gms.auth.managed.ui.EmmActivity" />
+            <item name="com.google.android.gms.mdm.services.DeviceManagerApiService" />
+            <item name="com.google.android.gms.backup.component.GmsBackupSchedulerService" />
+            <item name="com.google.android.gms.backup.component.FullBackupJobLoggerService" />
+            <item name="com.google.android.gms.mdm.services.RingService" />
+            <item name="com.google.android.gms.romanesco.settings.ContactsRestoreDialogActivity" />
+            <item name="com.google.android.gms.setupservices.GoogleServicesActivity" />
+            <item name="com.google.android.gms.auth.setup.devicesignals.LockScreenReceiver" />
+            <item name="com.google.android.gms.romanesco.settings.ContactsRestoreContactsActivity" />
+            <item name="com.google.android.gms.audit.upload.AuditGcmTaskService" />
+            <item name="com.google.android.gms.backup.component.MmsBackupSchedulerService" />
+            <item name="com.google.android.gms.smartdevice.d2d.ui.TargetDirectTransferActivity" />
+            <item name="com.google.android.gms.lockbox.service.LockboxBrokerService" />
+            <item name="com.google.android.gms.auth.account.data.WorkAccountStoreReceiver" />
+            <item name="com.google.android.gms.mdm.services.MdmWearableListenerService" />
+            <item name="com.google.android.gms.auth.uiflows.addaccount.FinishSessionActivity" />
+            <item name="com.google.android.location.settings.NlpConsentFooterReceiver" />
+            <item name="com.google.android.gms.romanesco.settings.ContactsRestoreSettingsActivity" />
+            <item name="com.google.android.gms.signin.activity.ConsentActivity" />
+            <item name="com.google.android.gms.auth.account.uiflows.consent.WearableGrantCredentialsActivity" />
+            <item name="com.google.android.gms.wallet.service.WalletGcmTaskService" />
+            <item name="com.google.android.gms.subscribedfeeds.GmsSubscribedFeedsProvider" />
+            <item name="com.google.android.gms.lockbox.LockboxService" />
+            <item name="com.google.android.gms.auth.managed.ui.SetupWorkProfileActivity" />
+            <item name="com.google.android.gms.common.account.WearableAccountTypePickerActivity" />
+            <item name="com.google.android.gms.tapandpay.admin.TpDeviceAdminReceiver" />
+            <item name="com.google.android.gms.auth.uiflows.consent.BrowserConsentActivity" />
+            <item name="com.google.android.gms.auth.managed.admin.DeviceAdminReceiver" />
+            <item name="com.google.android.gms.auth.uiflows.removeaccount.GetAccountRemovalAllowedActivity" />
+            <item name="com.google.android.gms.auth.uiflows.factoryreset.PreFactoryResetActivity" />
+            <item name="com.google.android.gms.auth.account.uiflows.gettoken.WearableTokenRetrievalWorkflowActivity" />
+            <item name="com.google.android.gms.subscribedfeeds.SyncService" />
+            <item name="com.google.android.gms.phenotype.service.FlagOverrideReceiver" />
+        </enabled-components>
+        <disabled-components>
+            <item name="com.google.android.gms.auth.uiflows.addaccount.DmDownloadInstallActivity" />
+            <item name="com.google.android.gms.people.sync.focus.ContactsSyncAdapterService" />
+            <item name="com.google.android.gms.auth.account.authenticator.WorkAccountAuthenticatorService" />
+            <item name="com.google.android.gms.auth.managed.ui.SettingsSecurityDeviceOwnerActivity" />
+            <item name="com.google.android.gms.auth.uiflows.addaccount.GoogleServicesActivity" />
+            <item name="com.google.android.location.reporting.service.LocationHistoryInjectorService" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.google.android.gsf" ceDataInode="-4294965864">
+        <disabled-components>
+            <item name="com.google.android.gsf.loginservice.MigrateToAccountManagerBroadcastReceiver" />
+            <item name="com.google.android.gsf.subscribedfeeds.SubscribedFeedsSyncAdapterService" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.google.android.tts" ceDataInode="-4294965860" />
+    <pkg name="com.google.android.apps.walletnfcrel" ceDataInode="-4294965856" enabled="1">
+        <disabled-components>
+            <item name="com.google.commerce.tapandpay.android.wearable.cardlist.WearPayActivity" />
+            <item name="com.google.commerce.tapandpay.android.wearable.complications.PayProviderService" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.google.android.partnersetup" ceDataInode="-4294965853">
+        <enabled-components>
+            <item name="com.google.android.partnersetup.PhoneStateReceiver" />
+        </enabled-components>
+    </pkg>
+    <pkg name="com.wearos.lc.setupdefault" ceDataInode="-4294965850" />
+    <pkg name="com.google.android.wearable.ambient" ceDataInode="-4294965847" />
+    <pkg name="com.montblanc.smartwatch.worldtimer" ceDataInode="-4294965843" />
+    <pkg name="travel.smartwatch.montblanc.com.travelapp" ceDataInode="-4294965840" />
+    <pkg name="com.montblanc.smartwatch.stopwatch" ceDataInode="-4294965837" />
+    <pkg name="com.android.managedprovisioning" ceDataInode="-4294965834" />
+    <pkg name="com.montblanc.smartwatch.cities" ceDataInode="-4294965831" />
+    <pkg name="com.google.android.apps.wearable.certifier" ceDataInode="-4294965828" />
+    <pkg name="com.google.android.wearable.reminders" ceDataInode="-4294965824" />
+    <pkg name="com.google.android.clockworkicons" ceDataInode="-4294965821" />
+    <pkg name="com.google.android.euicc.wear" ceDataInode="-4294965818" />
+    <pkg name="com.google.android.apps.wearable.retailattractloop" ceDataInode="-4294965815" />
+    <pkg name="com.google.android.apps.wearable.phone" ceDataInode="-4294965812" />
+    <pkg name="com.google.android.wearable.assistant" ceDataInode="-4294965809" />
+    <pkg name="com.oma.dm.omatest" ceDataInode="-4294965806" />
+    <pkg name="com.google.android.apps.translate" ceDataInode="-4294965802" />
+    <pkg name="com.oma.dm" ceDataInode="-4294965798" />
+    <pkg name="com.montblanc.smartwatch.configurator.s3.modern" ceDataInode="-4294965789" />
+    <pkg name="com.montblanc.smartwatch.timer" ceDataInode="-4294965786" />
+    <pkg name="com.montblanc.smartwatch.configurator.boheme.date" ceDataInode="-4294965783" />
+    <pkg name="com.google.android.wearable.app" ceDataInode="-4294965780">
+        <enabled-components>
+            <item name="com.google.android.clockwork.home.complications.providers.MostRecentAppProviderService" />
+            <item name="com.google.android.clockwork.home.pay.complications.FastPayComplicationService" />
+            <item name="com.google.android.clockwork.home.flagtoggler.CommonFlagTogglerActivity" />
+            <item name="com.google.android.clockwork.home.retail.splash.RetailMediaControlActivity" />
+            <item name="com.google.android.clockwork.wcs.bugreport.TakeReportActivity" />
+            <item name="com.google.android.clockwork.home.flagtoggler.HomeFlagTogglerActivity" />
+            <item name="com.google.android.clockwork.wcs.media.thirdpartyapi.ThirdPartyMediaControlService" />
+            <item name="com.google.android.clockwork.home.tiles.providers.news.NewsTileProviderService" />
+            <item name="com.google.android.clockwork.home.flagtoggler.FlagTogglerListActivity" />
+            <item name="com.google.android.clockwork.home.pay.FastPayActivity" />
+            <item name="com.google.android.clockwork.home.module.oobe.OobeLauncherActivity" />
+            <item name="com.google.android.clockwork.wcs.notification.complication.TopNotificationProviderService" />
+            <item name="com.google.android.clockwork.sysui.experiences.media.MediaControlActivity" />
+        </enabled-components>
+        <disabled-components>
+            <item name="com.google.android.clockwork.home.phonebattery.PhoneBatteryProviderService" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.cts.ctsshim" ceDataInode="-4294965776" />
+    <pkg name="com.google.android.apps.handwriting.ime" ceDataInode="-4294965773" />
+    <pkg name="com.qti.diagservices" ceDataInode="-4294965769" />
+    <pkg name="com.montblanc.smartwatch.configurator.boheme.classic" ceDataInode="-4294965765" />
+    <pkg name="com.android.phone" ceDataInode="-4294965762" />
+    <pkg name="com.android.shell" ceDataInode="-4294965758">
+        <enabled-components>
+            <item name="com.android.shell.BugreportStorageProvider" />
+        </enabled-components>
+    </pkg>
+    <pkg name="com.android.wallpaperbackup" ceDataInode="-4294965755" />
+    <pkg name="com.android.providers.blockednumber" ceDataInode="-4294965751" />
+    <pkg name="com.android.providers.userdictionary" ceDataInode="-4294965748" />
+    <pkg name="com.qualcomm.qti.sidekickmetrics" ceDataInode="-4294965745" />
+    <pkg name="com.qualcomm.qti.usta" ceDataInode="-4294965741" />
+    <pkg name="com.android.location.fused" ceDataInode="-4294965737" />
+    <pkg name="com.qualcomm.qti.operationmeasurement" ceDataInode="-4294965733" />
+    <pkg name="com.google.android.wearable.app.overlay.coralia" ceDataInode="-4294965729" />
+    <pkg name="com.android.bluetooth" ceDataInode="-4294965726" />
+    <pkg name="com.qualcomm.timeservice" ceDataInode="-4294965722" />
+    <pkg name="com.qualcomm.atfwd" ceDataInode="-4294965719" />
+    <pkg name="com.android.providers.contacts" ceDataInode="-4294965716" />
+    <pkg name="com.google.android.wearable.frameworkpackagestubs" ceDataInode="-4294965713" />
+    <pkg name="com.android.connectivity.metrics" ceDataInode="-4294965710" />
+    <pkg name="com.google.android.inputmethod.latin" ceDataInode="-4294965707">
+        <disabled-components>
+            <item name="com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" />
+        </disabled-components>
+    </pkg>
+    <preferred-activities>
+        <item name="com.google.android.apps.messaging/.send.SendToProxyActivity" match="200000" always="true" set="1">
+            <set name="com.google.android.apps.messaging/.send.SendToProxyActivity" />
+            <filter>
+                <action name="android.intent.action.SENDTO" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="mmsto" />
+            </filter>
+        </item>
+        <item name="com.google.android.apps.messaging/.send.SendToProxyActivity" match="200000" always="true" set="1">
+            <set name="com.google.android.apps.messaging/.send.SendToProxyActivity" />
+            <filter>
+                <action name="android.intent.action.SENDTO" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="smsto" />
+            </filter>
+        </item>
+        <item name="com.google.android.apps.messaging/.send.SendToProxyActivity" match="200000" always="true" set="1">
+            <set name="com.google.android.apps.messaging/.send.SendToProxyActivity" />
+            <filter>
+                <action name="android.intent.action.SENDTO" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="mms" />
+            </filter>
+        </item>
+        <item name="com.google.android.apps.messaging/.send.SendToProxyActivity" match="200000" always="true" set="1">
+            <set name="com.google.android.apps.messaging/.send.SendToProxyActivity" />
+            <filter>
+                <action name="android.intent.action.SENDTO" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="sms" />
+            </filter>
+        </item>
+    </preferred-activities>
+    <persistent-preferred-activities />
+    <crossProfile-intent-filters />
+    <default-apps />
+</package-restrictions>

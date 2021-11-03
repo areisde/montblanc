@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name=":requiresCharging" value="true" />
+    <long name=":lastRunMsec" value="1635968013178" />
+    <long name=":recordIntervalSecs" value="86400" />
+</map>

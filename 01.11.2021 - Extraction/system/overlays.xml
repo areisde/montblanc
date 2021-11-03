@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<overlays version="3">
+    <item packageName="com.google.android.wearable.app.overlay.coralia" userId="0" targetPackageName="com.google.android.wearable.app" baseCodePath="/vendor/overlay/HomeRRO.apk" state="6" isEnabled="true" isStatic="true" priority="0" />
+</overlays>

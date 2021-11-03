@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="CheckinService_logUploadPolicy">UPLOAD_ALL</string>
+    <long name="key_scheduled_checkin_time" value="7303500" />
+    <int name="CheckinService_onStart_checkinReason" value="1" />
+    <boolean name="CheckinService_fetchSystemUpdates" value="false" />
+    <string name="checkin_source_package">unspecified</string>
+    <boolean name="CheckinService_forceCheckin" value="false" />
+    <string name="checkin_source_class"></string>
+    <boolean name="checkin_source_force" value="false" />
+    <string name="checkin_task_tag">PeriodicTaskTag</string>
+</map>

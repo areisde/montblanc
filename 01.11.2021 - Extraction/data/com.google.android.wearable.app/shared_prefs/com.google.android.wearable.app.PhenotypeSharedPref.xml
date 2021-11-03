@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="44" value="true" />
+    <boolean name="45" value="false" />
+    <boolean name="48" value="true" />
+    <boolean name="90" value="false" />
+    <boolean name="53" value="true" />
+    <boolean name="54" value="false" />
+    <long name="11" value="5" />
+    <boolean name="aa" value="true" />
+    <long name="12" value="60" />
+    <boolean name="56" value="true" />
+    <boolean name="13" value="true" />
+    <boolean name="ac" value="true" />
+    <boolean name="14" value="false" />
+    <boolean name="ad" value="true" />
+    <boolean name="15" value="false" />
+    <long name="16" value="0" />
+    <boolean name="17" value="false" />
+    <long name="18" value="0" />
+    <boolean name="19" value="false" />
+    <boolean name="ao" value="true" />
+    <string name="ap">androidwearjovi-pa.googleapis.com</string>
+    <long name="aq" value="30000" />
+    <boolean name="1" value="true" />
+    <boolean name="2" value="true" />
+    <boolean name="as" value="true" />
+    <long name="at" value="2" />
+    <long name="au" value="120000" />
+    <boolean name="5" value="false" />
+    <long name="av" value="3600000" />
+    <float name="aw" value="2.0" />
+    <boolean name="7" value="true" />
+    <boolean name="8" value="true" />
+    <boolean name="ay" value="true" />
+    <string name="9"></string>
+    <long name="__phenotype_configuration_version" value="1635867600" />
+    <long name="63" value="86400" />
+    <boolean name="20" value="false" />
+    <long name="64" value="10" />
+    <long name="21" value="0" />
+    <boolean name="65" value="true" />
+    <boolean name="ba" value="true" />
+    <boolean name="22" value="false" />
+    <boolean name="23" value="false" />
+    <boolean name="24" value="false" />
+    <boolean name="68" value="true" />
+    <boolean name="25" value="false" />
+    <boolean name="be" value="true" />
+    <boolean name="27" value="false" />
+    <boolean name="bg" value="false" />
+    <string name="__phenotype_server_token">CAESSQDyi0h8P0SqlvmRpk5I0p8Lp4o7yrVadR4kr22USPDFLfCeBdfcxEUm_HyhEhHI7moWl1undxJaGNaWPlu6_IEzsSX3mqkCfPo</string>
+    <float name="28" value="0.0" />
+    <boolean name="bh" value="true" />
+    <long name="29" value="5000" />
+    <string name="bi"></string>
+    <boolean name="bk" value="true" />
+    <boolean name="bm" value="false" />
+    <boolean name="bn" value="false" />
+    <long name="bo" value="4" />
+    <long name="bp" value="120" />
+    <boolean name="bq" value="false" />
+    <boolean name="br" value="true" />
+    <boolean name="bs" value="true" />
+    <string name="__phenotype_snapshot_token"> com.google.android.wearable.app 782433232 1 -1581326191 com.google.android.wearable.app -1581326191 1</string>
+    <long name="30" value="10000" />
+    <boolean name="31" value="false" />
+    <boolean name="32" value="false" />
+    <boolean name="a" value="false" />
+    <boolean name="ControlContactsCloudSync__cloud_sync_disabled" value="false" />
+    <boolean name="37" value="true" />
+    <long name="38" value="1" />
+    <boolean name="39" value="true" />
+    <boolean name="f" value="true" />
+    <boolean name="i" value="false" />
+    <boolean name="r" value="false" />
+    <boolean name="s" value="true" />
+    <long name="u" value="100" />
+    <long name="80" value="12" />
+    <boolean name="y" value="true" />
+    <boolean name="41" value="false" />
+    <boolean name="43" value="true" />
+</map>

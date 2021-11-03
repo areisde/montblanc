@@ -1,0 +1,766 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="bugle_phenotype__enable_unblock_banner" value="true" />
+    <boolean name="bugle_phenotype__enable_reverse_telephony_sync_on_upgrade" value="false" />
+    <string name="bugle_phenotype__super_sort_control_survey_site_id"></string>
+    <boolean name="bugle_phenotype__enable_zero_connectivity_settings_panel" value="false" />
+    <boolean name="bugle_phenotype__bug_144116439" value="true" />
+    <boolean name="bugle_phenotype__enable_fallback_during_outgoing_complete" value="true" />
+    <string name="bugle_phenotype__sticker_service_host_and_port">sticker-pa.googleapis.com:443</string>
+    <boolean name="bugle_phenotype__enable_conversation_rcs_capability_data_source_v2" value="false" />
+    <float name="bugle_phenotype__processed_messages_threshold" value="0.7" />
+    <float name="bugle_phenotype__mms_video_compression_fudge_factor" value="0.72" />
+    <boolean name="bugle_phenotype__enable_image_compression_v2" value="true" />
+    <boolean name="bugle_phenotype__bug_161865896" value="true" />
+    <boolean name="bugle_phenotype__disable_money_attachments" value="true" />
+    <boolean name="bugle_phenotype__enable_material_fab" value="false" />
+    <boolean name="ProvisioningEngineV2__enabled2" value="true" />
+    <boolean name="bugle_phenotype__enable_txt_file_preview" value="true" />
+    <boolean name="bugle_phenotype__guest_cloud_beta" value="true" />
+    <boolean name="bugle_phenotype__enable_experiment_carrier_config_override" value="false" />
+    <long name="RcsFlags__otp_length" value="6" />
+    <string name="bugle_phenotype__rich_cards_opt_in_consent_banner_help_center_topic"></string>
+    <float name="Happiness__smart_reply_survey_ratio" value="0.1" />
+    <boolean name="bugle_phenotype__bug_147369025" value="true" />
+    <boolean name="bugle_phenotype__bug_172027493" value="false" />
+    <boolean name="bugle_phenotype__bug_168904372_update_message_with_tombstones_after_action" value="false" />
+    <boolean name="bugle_phenotype__enable_simplified_conversation_open_rcs_refresh" value="false" />
+    <float name="bugle_phenotype__d26r_query_logger_unknown_query_uma_upload_ratio" value="1.0E-4" />
+    <boolean name="bugle_phenotype__enable_silent_suggestion_fa_logging" value="false" />
+    <boolean name="bugle_phenotype__force_show_rcs_upsell" value="false" />
+    <long name="bugle_phenotype__expressive_stickers_c2o_toggle_button_landing_page" value="1" />
+    <long name="bugle_phenotype__reranker_model_type" value="1" />
+    <boolean name="bugle_phenotype__bug_173194234" value="false" />
+    <boolean name="bugle_phenotype__enable_phase_one_supported_file_share" value="true" />
+    <boolean name="bugle_phenotype__enable_ditto_bugle_media_decryption" value="true" />
+    <boolean name="bugle_phenotype__enable_home_search_bar" value="true" />
+    <boolean name="bugle_phenotype__enable_highlight_undelivered_messages" value="true" />
+    <boolean name="RcsFlags__rcs_enabled" value="false" />
+    <boolean name="bugle_phenotype__enable_feedback_location_data" value="false" />
+    <boolean name="bugle_phenotype__use_hmac_participant_hash" value="false" />
+    <boolean name="bugle_phenotype__enable_reranker_type_balancing" value="true" />
+    <boolean name="bugle_phenotype__enable_inbox_archive_animation" value="false" />
+    <float name="bugle_phenotype__shake_detection_gravity_threshold" value="10.0" />
+    <boolean name="bugle_phenotype__enable_duo_video_icon" value="true" />
+    <boolean name="bugle_phenotype__enable_smart_linkify_flag" value="true" />
+    <boolean name="bugle_phenotype__auto_archive_unengaged_spam" value="true" />
+    <boolean name="bugle_phenotype__show_otp_chip_in_conversation_list" value="true" />
+    <long name="bugle_phenotype__verified_sms_max_senders_count_supported" value="2500" />
+    <boolean name="bugle_phenotype__bug_153821865_broadcast_tachygram_information" value="false" />
+    <long name="bugle_phenotype__report_issue_message_stuck_in_sending_threshold_seconds" value="30" />
+    <long name="bugle_phenotype__super_sort_trigger_days_since" value="12" />
+    <string name="bugle_phenotype__fi_transfer_to_messages_learn_more_url">https://support.google.com/fi/?p=hangouts_transition</string>
+    <boolean name="bugle_phenotype__rcs_settings_redesign" value="true" />
+    <boolean name="bugle_phenotype__enable_logging_send_failure_country_code" value="false" />
+    <boolean name="bugle_phenotype__open_media_editor_directly_from_mini_camera" value="false" />
+    <string name="bugle_phenotype__smart_actions_appointment_grammar_group"></string>
+    <string name="bugle_phenotype__p2p_suggestion_model_based_providers_config_file_specs_with_backoff"></string>
+    <boolean name="bugle_phenotype__keep_rcs_engine_connection" value="true" />
+    <boolean name="bugle_phenotype__enable_additional_annotation_logging" value="false" />
+    <long name="Happiness__cycle_length" value="435" />
+    <boolean name="bugle_phenotype__enable_default_notification_channel_rename" value="true" />
+    <boolean name="bugle_phenotype__enable_model_based_reranker" value="false" />
+    <boolean name="bugle_phenotype__enable_multi_delete_messages" value="true" />
+    <boolean name="bugle_phenotype__thread_id_duplicate_conversations" value="false" />
+    <boolean name="bugle_phenotype__enable_location_v2_rcs_attachment" value="true" />
+    <long name="bugle_phenotype__smart_compose_context_messages_count" value="10" />
+    <string name="bugle_phenotype__smarts_expressive_content_file_group"></string>
+    <string name="RcsFlags__otp_pattern"></string>
+    <boolean name="bugle_phenotype__enable_annotations_indexing" value="false" />
+    <boolean name="bugle_phenotype__enable_detailed_mi_format_type" value="true" />
+    <string name="bugle_phenotype__text_classifier_core_model"></string>
+    <boolean name="bugle_phenotype__enable_cs_lib_psd" value="true" />
+    <boolean name="bugle_phenotype__enable_unread_status_sync_from_cms_conversations_opaque_data" value="true" />
+    <long name="bugle_phenotype__p2p_conversation_suggestions_limit" value="4" />
+    <string name="bugle_phenotype__sms_bug_report_category">com.google.android.apps.messaging.SHAKE_TO_REPORT_SMS_ISSUE</string>
+    <boolean name="bugle_phenotype__bug_160756473" value="false" />
+    <boolean name="bugle_phenotype__vsms_suppress_unverified_ui" value="true" />
+    <string name="bugle_phenotype__assistant_message_card_id_patterns">\/ac\/([A-Za-z0-9]+),\/c\/([A-Za-z0-9]+),amsc=([A-Za-z0-9]+)</string>
+    <long name="bugle_phenotype__rcs_upsell_cooldown_first_millis" value="2592000000" />
+    <boolean name="bugle_phenotype__supersort_enable_update_donation_banner" value="false" />
+    <boolean name="bugle_phenotype__bug_154122139" value="true" />
+    <boolean name="bugle_phenotype__enable_multidevice_dialog_for_rcs" value="true" />
+    <long name="RcsFlags__max_thumbnail_download_size_bytes" value="102400" />
+    <float name="bugle_phenotype__reranker_filter_threshold" value="0.0" />
+    <boolean name="bugle_phenotype__enable_non_dds_mms_popup" value="false" />
+    <boolean name="bugle_phenotype__enable_link_preview" value="true" />
+    <boolean name="bugle_phenotype__bug_155646747" value="true" />
+    <boolean name="bugle_phenotype__enable_new_vcard_preview" value="true" />
+    <boolean name="bugle_phenotype__enable_zero_state_contact_search" value="true" />
+    <float name="Happiness__rcs_group_message_hats_ratio" value="0.05" />
+    <string name="Happiness__smart_reply_hats_site_id">ixr6mtaug7tpnk4wt3dfbmb5ce</string>
+    <string name="RcsFlags__mcc_url_format"></string>
+    <boolean name="bugle_phenotype__hide_rcs_not_yet_delivered_indicator" value="true" />
+    <boolean name="bugle_phenotype__text_classifier_use_mddlib_webref_model" value="false" />
+    <boolean name="RcsFlags__enable_analytics" value="true" />
+    <boolean name="bugle_phenotype__enable_link_preview_request_debug" value="false" />
+    <boolean name="bugle_phenotype__enable_report_issue_notification_for_stuck_messages" value="false" />
+    <boolean name="bugle_phenotype__sticker_suggestions_tooltip_enabled" value="true" />
+    <string name="bugle_phenotype__rcs_bug_report_category">com.google.android.apps.messaging.SHAKE_TO_REPORT_RCS_ISSUE</string>
+    <boolean name="bugle_phenotype__bug_147147939" value="false" />
+    <string name="bugle_phenotype__grammar_file_group"></string>
+    <boolean name="bugle_phenotype__enable_unredacted_phone_numbers_feedback_data" value="false" />
+    <boolean name="bugle_phenotype__enable_rcs_multisim_v0" value="true" />
+    <boolean name="bugle_phenotype__verify_thread_ids_cache" value="false" />
+    <boolean name="bugle_phenotype__enable_p2p_conversation_continuation_suggestions" value="false" />
+    <boolean name="bugle_phenotype__enable_tooltip_for_growthkit_flow" value="true" />
+    <boolean name="Etouffee__enable_etouffee" value="false" />
+    <string name="bugle_phenotype__suggestion_reranker_models_file_group"></string>
+    <long name="bugle_phenotype__shake_detection_time_window" value="1000" />
+    <boolean name="bugle_phenotype__enable_camera_2018" value="true" />
+    <boolean name="bugle_phenotype__enable_foreground_notification_send_feedback_action" value="false" />
+    <boolean name="bugle_phenotype__enable_growthkit_flow" value="true" />
+    <string name="bugle_phenotype__emotive_model_file_group"></string>
+    <boolean name="bugle_phenotype__enable_unsupported_file_preview" value="true" />
+    <boolean name="bugle_phenotype__get_msisdn_from_bugle_shared_prefs" value="false" />
+    <string name="RcsFlags__mcc_mnc">00101</string>
+    <boolean name="bugle_phenotype__enable_c2o_expressive_stickers" value="true" />
+    <boolean name="bugle_phenotype__enable_custom_notification_settings" value="false" />
+    <boolean name="RcsFlags__allow_manual_phone_number_input" value="false" />
+    <boolean name="bugle_phenotype__enable_maestro_demo" value="false" />
+    <string name="bugle_phenotype__p13n_file_group"></string>
+    <long name="bugle_phenotype__xms_fallback_deliver_notification_timeout_ms" value="36000000" />
+    <boolean name="bugle_phenotype__enable_rcs_flags_psd" value="true" />
+    <long name="RcsFlags__provisioning_imei_format" value="3" />
+    <string name="bugle_phenotype__brella_trainer_configs"></string>
+    <boolean name="bugle_phenotype__skip_signature_check_for_g1_restore" value="false" />
+    <boolean name="bugle_phenotype__enable_gmdc_snackbar" value="false" />
+    <boolean name="bugle_phenotype__bug_152309766" value="true" />
+    <long name="bugle_phenotype__link_preview_manual_preview_trust_threshold" value="3" />
+    <boolean name="bugle_phenotype__enable_ditto_fcm_new_token" value="true" />
+    <boolean name="bugle_phenotype__enable_tachystick_setup_invite" value="false" />
+    <boolean name="bugle_phenotype__verify_participant_in_conversation" value="false" />
+    <boolean name="bugle_phenotype__enable_rcs_engine_tickle" value="true" />
+    <boolean name="bugle_phenotype__enable_fi_settings" value="true" />
+    <boolean name="bugle_phenotype__new_media_viewer_in_chat" value="true" />
+    <boolean name="bugle_phenotype__use_cslib_flag_for_tos_and_black_list" value="true" />
+    <long name="bugle_phenotype__database_query_perf_logging" value="9223372036854775806" />
+    <boolean name="bugle_phenotype__enable_show_original_media_in_conversation" value="true" />
+    <boolean name="bugle_phenotype__enable_spam_banner" value="true" />
+    <boolean name="bugle_phenotype__conversation_starters_enabled" value="false" />
+    <boolean name="bugle_phenotype__bug_154727295" value="true" />
+    <boolean name="bugle_phenotype__enable_verified_sms_key_rotation" value="true" />
+    <boolean name="bugle_phenotype__enable_log_session_or_thread_id_duplicate" value="false" />
+    <string name="bugle_phenotype__p2p_conversation_suggestion_types_reply"></string>
+    <boolean name="bugle_phenotype__enable_first_run_experience_experiment_default_app_blocking" value="true" />
+    <string name="bugle_phenotype__tachyon_phone_host_and_port">instantmessaging-pa-us.googleapis.com:443</string>
+    <long name="bugle_phenotype__user_report_notification_backoff_ms" value="6311390400000" />
+    <boolean name="bugle_phenotype__suggestion_feedback_enabled" value="false" />
+    <boolean name="Etouffee__notification_on_insert_etouffee_to_rcs_tombstone_enabled" value="false" />
+    <boolean name="bugle_phenotype__bug_157652581" value="false" />
+    <boolean name="bugle_phenotype__enable_assistant_on_demand_popup" value="false" />
+    <string name="bugle_phenotype__p2p_conversation_suggestions_sensitive_classifier_mdd_group_name"></string>
+    <boolean name="bugle_phenotype__enable_c2o_animated_stickers" value="false" />
+    <boolean name="bugle_phenotype__enable_participant_empty_destination_exception" value="false" />
+    <boolean name="RcsFlags__always_provision_through_mobile_network" value="false" />
+    <boolean name="bugle_phenotype__enable_cms_pwq" value="true" />
+    <boolean name="bugle_phenotype__bug_15934962_consolidate_a11y_conversation_message_view" value="true" />
+    <boolean name="bugle_phenotype__enable_cms_notifications" value="true" />
+    <boolean name="bugle_phenotype__open_edit_mode_directly_from_camera" value="true" />
+    <boolean name="bugle_phenotype__use_bugle_shared_prefs_for_terms_and_conditions" value="false" />
+    <boolean name="RcsFlags__show_rcs_enabled_by_carrier_in_settings" value="false" />
+    <boolean name="bugle_phenotype__enable_supersort_annotators" value="false" />
+    <boolean name="bugle_phenotype__enable_zero_connectivity_banner" value="false" />
+    <boolean name="bugle_phenotype__enable_reverse_telephony_sync_on_upgrade_2" value="false" />
+    <boolean name="bugle_phenotype__enable_cms_primary_device_enforcement" value="true" />
+    <boolean name="bugle_phenotype__enable_rcs_video_compression" value="false" />
+    <boolean name="bugle_phenotype__precheck_spam_report_checkbox" value="false" />
+    <boolean name="bugle_phenotype__bug_148881571" value="false" />
+    <boolean name="bugle_phenotype__p2p_enable_entity_telemetry" value="false" />
+    <string name="bugle_phenotype__tachyon_media_path">https://instantmessaging-pa.googleapis.com/upload</string>
+    <boolean name="RcsFlags__is_carrier_authorized_for_reject_message" value="false" />
+    <boolean name="bugle_phenotype__bug_159661755_example_iterator_add_root_traces" value="false" />
+    <string name="RcsFlags__sms_ignore_pattern">Google is verifying your number for Chat features \d+|Google Chat features code [a-zA-Z0-9]+ \d+</string>
+    <boolean name="bugle_phenotype__use_android_messages_auth_scope_in_tachyon_rpc" value="true" />
+    <boolean name="bugle_phenotype__enable_verified_sms_c11n_verification" value="true" />
+    <boolean name="bugle_phenotype__enable_suggestion_example_list" value="true" />
+    <boolean name="RcsFlags__allow_seamless_authorized_provisioning" value="false" />
+    <boolean name="bugle_phenotype__enable_conversation_id" value="true" />
+    <string name="bugle_phenotype__mdd_lib_period_overrides"></string>
+    <long name="RcsFlags__sip_register_retry_min_delay_in_seconds" value="5" />
+    <string name="bugle_phenotype__p2p_conversation_suggestions_hobbes_mdd_file_id"></string>
+    <boolean name="bugle_phenotype__enable_primes_tiktok_tracing" value="true" />
+    <boolean name="bugle_phenotype__enable_duo_kit" value="true" />
+    <string name="bugle_phenotype__data_donation_learn_more_url"></string>
+    <long name="RcsFlags__min_bugler_version_for_rcs" value="0" />
+    <string name="Happiness__xms_group_message_hats_site_id">nly6y43ef65kshrz4t6vwr5wyy</string>
+    <boolean name="bugle_phenotype__enable_smart_actions_in_notifications" value="false" />
+    <boolean name="bugle_phenotype__enable_is_possible_e164_phone_number_lookup" value="true" />
+    <boolean name="bugle_phenotype__enable_home_screen_go_to_top" value="true" />
+    <boolean name="bugle_phenotype__bug_183634973_use_account_controller_in_conversation_activity" value="false" />
+    <string name="bugle_phenotype__otp_message_annotations_grammar">Ct4JCqkJKD9pKSgoKF58YWNjZXNzfGFjdGl2YXRpb258YXV0aGVudGljYXRpb258YXV0aG9yaXphdGlvbnxhdXRvKC18XHMrKT92ZXJpZnl8Y2hlY2t8Y29uZmlybWF0aW9ufGRlbGl2ZXJ5fGlkZW50aWZpY2F0aW9ufGxpYmJ5fGxvZ2lufG5ldHNlY3VyZXxvbmUoLXxccyspP3RpbWV8b24oLXxccyspP2RlbWFuZHxvdHB8cGFzc3dvcmRccytyZXNldHxyZWdpc3RyYXRpb258c2FmZXBhc3N8c2VjcmV0fHNlY3VyZXxzZWN1cml0eXxzaWduXHNpbnxzaWdudXB8c2luZ2xlLXVzZShccytbXlxzXSspP3xzbXN8c3RlYW18dW5pcXVlXHMraWR8dmFsaWRhdGlvbnx2ZXJpZmljYXRpb258dGVtcG9yYXJ5fHRydWVjYWxsZXJ8dHdvXHMrZmFjdG9yfHdoYXRzYXBwKFxzK2J1c2luZXNzKT98d3lua3wyZmEpXHMrKXsxLDN9KHBhc3N8dG9rZW4pPyhjb2RlfHBpbil8KG9uZSgtfFxzKyk/dGltZSgtfFxzKyk/fHB1YmxpY1xzK3dpcmVsZXNzXHMrbGFuZFxzKylwYXNzd29yZHxvdHAoXHMrcmVnaXN0cmF0aW9uKT98di1hdXRoZW50aWNhdGlvblxzK2tleSkoXHM/XCgob3RwfG9uZSgtfFxzKyk/dGltZSgtfFxzKylwYXNzd29yZClcKSk/KFxzK3RvKFxzKyhjb21wbGV0ZXxjb25maXJtfGNvbnRpbnVlfGluaXRpYXRlfGZpbmlzaHxsaW5rfGxvZ1xzKmlufHNpZ24oLXxccyspP2lufHJlc2V0fHN0YXJ0fHVwZGF0ZXx1cGdyYWRlfHZhbGlkYXRlfHZlcmlmeSkpPyhccytbXlxzXSspezEsNX18XHMrZm9yKFxzK1teXHNdKyl7MCwzfVxzKyhhY2Nlc3N8YXdifCh3ZWJccyspP2FwcHxhdXRoZW50aWNhdGlvbnxjb21wbGV0aW5nfGNvbm5lY3Rpb258Y291cmllclxzK2l0ZW18Y3JlYXRpbmd8KChjcmVkaXR8ZGViaXQpXHMrKT9jYXJkfGVucm9sbGVtZW50fGlkfGxpbmtpbmd8bG9naW58bmV3fG9ubGluZVxzK2Jhbmtpbmd8cG9ydGFsfHBhc3N3b3JkfHJlY292ZXJpbmd8c2lnbmluZ3x0cmFuc2FjdGlvbnx1cGRhdGV8dmFsaWRhdGlvbnx2ZWVccytrbm93fHZlcmlmaWNhdGlvbnx5b3VyfChub1wuXHMrKT9bMC05XSpbeFwqXStbMC05XSspKFxzK1teXHNdKyl7MCw0fXxccyt5b3VccytyZXF1ZXN0ZWQpezAsMn0oXHMraXN8XHMqOlxzKikoXHMqWzo9XVxzKnxccyspPyg/LWkpKFthLXpBLVpdLXxbIidcKF0pPyhbQS1aMC05XXs0LDl9fFthLXpBLVowLTldK1swLTldW2EtekEtWjAtOV17Miw3fSlbIidcKV0/KFxzfFwufCx8JCkQIiIuWzAtOWEtekEtWl0rWy18XHNdP1tBLVowLTldWy18XHNdP1swLTlhLXpBLVpdKwrHBQqSBShefFxzK3xbOiwuPi1dKShbYS16QS1aXS18KFsiJ1woXVxzKikpPyhbQS1aMC05XXs0LDh9fFthLXpBLVowLTldK1swLTldW2EtekEtWjAtOS1dezIsN318KFswLTldezN9KFxzK3wtKVswLTldezN9KSkoXHMqWyInXClcLl0pPyg/aSlccytbaWFdcyhccyt5b3VyfFxzK3RoZSk/KFxzK1teXHNdKyl7MCwzfVxzKygoKGFjY2Vzc3xhY3RpdmF0aW9ufGF1dGhlbnRpY2F0aW9ufGF1dGhvcml6YXRpb258YXV0bygtfFxzKyk/dmVyaWZ5fGNoZWNrfGNvbmZpcm1hdGlvbnxpZGVudGlmaWNhdGlvbnxsb2dpbnxuZXRzZWN1cmV8b25lKC18XHMrKT90aW1lfG9uKC18XHMrKT9kZW1hbmR8b3RwfHBhc3N3b3JkXHMrcmVzZXR8cmVnaXN0cmF0aW9ufHNhZmVwYXNzfHNlY3JldHxzZWN1cmV8c2VjdXJpdHl8c2lnblxzaW58c2lnbnVwfHNpbmdsZS11c2UoXHMrW15cc10rKT98c21zfHN0ZWFtfHVuaXF1ZVxzK2lkfHZhbGlkYXRpb258dmVyaWZpY2F0aW9ufHRlbXBvcmFyeXx0d29ccytmYWN0b3J8d3lua3wyZmEpXHMrKXsxLDN9KHBhc3N8dG9rZW4pPyhjb2RlfHBpbnx0b2tlbil8KG9uZSgtfFxzKyk/dGltZSgtfFxzKyk/fHB1YmxpY1xzK3dpcmVsZXNzXHMrbGFuZFxzKylwYXNzd29yZHxvdHAoXHMrcmVnaXN0cmF0aW9uKT98di1hdXRoZW50aWNhdGlvblxzK2tleSkQBCIuWzAtOWEtekEtWl0rWy18XHNdP1swLTlBLVpdWy18XHNdP1swLTlhLXpBLVpdKwqYAgqTAig/aSkoY29kZXxvdHB8b25lKC18XHMrKT90aW1lXHMrcGFzc3dvcmQpXHMrKHRvXHMrKGNvbmZpcm18YXBwcm92ZSl8Zm9yKFxzK3lvdXIpPykoXHMrW15cc10rKXswLDR9XHMrKHRyYW5zYWN0aW9ufHRyZikoXHMrb2YpPyhccytbXlxzXSspezAsNH1ccysoZnJvbShccyt5b3VyKT8oXHMrW15cc10rKXswLDR9XHMrdG98dGhyb3VnaHxhdCkoXHMrW15cc10rKXswLDh9KFxzK2lzKShccyo6XHMqfFxzKykoPy1pKShbYS16QS1aXS18WyInXChdKT8oW0EtWjAtOV17NCw4fSlbIidcKV0/EBEKqgIKigJeKD8taSkoW15cc10rXHMrKXswLDN9KFthLXpBLVpdLXxbIidcKF0pPyhbQS1aMC05LV17NCw5fSlbIidcKV0/KD9pKVxzKyh1c2Vccyt0aGlzfGlzXHMrKHlvdXJ8dGhlKSlccysoW15cc10rXHMrKXswLDR9KCgoc2VjdXJlfHNlY3VyaXR5fGF1dGhvcml6YXRpb258YXV0aG9yaXNhdGlvbnxhdXRoZW50aWNhdGlvbnxhY2Nlc3N8bG9naW58dmVyaWZpY2F0aW9ufGNvbmZpcm1hdGlvbilccyspP2NvZGV8YWNjb3VudFxzK2tleXxvdHApKFwufFxzK2Zvcnxccyt0b3wkKRADIhlbMC05QS1aLV0qWzAtOV1bMC05QS1aLV0qCqkFCogFXig/aSkoKFteXHNdK1xzKyl7MCwyfSh3ZWxjb21lfGRlYXIpXHMrKT8oW15cc10rXHMrKXswLDN9KGhlcmVccytpc1xzK3xoZXJlJ3MpPyh5b3VyfHRoZXwoYWNjZXNzfGFjdGl2YXRpb258YXV0aGVudGljYXRpb258YXV0aG9yaXphdGlvbnxhdXRvKC18XHMrKT92ZXJpZnl8Y2hlY2t8Y29uZmlybWF0aW9ufGRlbGl2ZXJ5fGlkZW50aWZpY2F0aW9ufGxpYmJ5fGxvZ2lufG5ldHNlY3VyZXxvbmUoLXxccyspP3RpbWV8b24oLXxccyspP2RlbWFuZHxvdHB8cGFzc3dvcmRccytyZXNldHxyZWdpc3RyYXRpb258c2FmZXBhc3N8c2VjcmV0fHNlY3VyZXxzZWN1cml0eXxzaWduXHNpbnxzaWdudXB8c2luZ2xlLXVzZShccytbXlxzXSspP3xzbXN8c3RlYW18dW5pcXVlXHMraWR8dmFsaWRhdGlvbnx2ZXJpZmljYXRpb258dGVtcG9yYXJ5fHRydWVjYWxsZXJ8dHdvXHMrZmFjdG9yfHdoYXRzYXBwKFxzK2J1c2luZXNzKT98d3lua3wyZmEpKVxzKyhbXlxzXStccyspezAsM30oY29kZXxvbmUoLXxccyspP3RpbWUoLXxccyspP3Bhc3N3b3JkfG90cCkoXHMrW15cc10rKXswLDN9KFxzKls6PV1ccyp8XHMrKSg/LWkpKFthLXpBLVpdLXxbIidcKF0pPyhbQS1aMC05XXszLDh9fChbMC05XXszfShccyt8LSlbMC05XXszfSkpWyInXCldPyhcc3xcLnwsfCQpEBQiGlswLTlBLVpdKlswLTldWzAtOUEtWlxzLV0qCpICCvEBXihbXlxzXStccyspezAsM30oW2EtekEtWl0tfChbIidcKF1ccyopKT8oW0EtWjAtOV1bQS1aMC05LV17Myw4fXwoWzAtOV17M30oXHMrfC0pWzAtOV17M30pKShccypbIidcKVwuXSk/KD9pKShccytbaXxhXXMoXHMreW91cnxccyt0aGUpPyk/KFxzK1teXHNdKyl7MCw0fVxzKygob25lKC18XHMrKT90aW1lKC18XHMrKSk/KG90cHxjb2RlKXxvbmUoLXxccyspP3RpbWUoXHMrW15cc10rKXswLDN9KC18XHMrKXBhc3N3b3JkKRAEIhpbMC05QS1aXSpbMC05XVswLTlBLVpccy1dKgqGAgroASg/aSkoY29kZXxvdHB8b25lKC18XHMrKT90aW1lXHMrcGFzc3dvcmQpXHMrKHRvfGZvcilccysoYWRkfGNvbmZpcm18Y29uZmlybWluZ3xjcmVhdGV8Y3JlYXRpbmd8bGlua3xsaW5raW5nfHJlc2V0KShccytbXlxzXSspezEsNH0oXHMrKGF0fG9ufGlufHRvKShccytbXlxzXSspezEsNH0pPyhccytpcyk/KFxzKjpccyp8XHMrKSg/LWkpKFthLXpBLVpdLXxbIidcKF0pPyhbQS1aMC05XXs0LDh9KVsiJ1wpXT8QDCIXWzAtOUEtWl0qWzAtOV1bMC05QS1aXSoKqgEKjAEoP2kpdXNlXHMrKD8taSkoW0EtWjAtOV17NCw4fSkoP2kpXHMrYXMoXHMrKHlvdXJ8dGhlKSk/KFxzK21pY3Jvc29mdFxzK2FjY291bnR8XHMraW5zdGFncmFtfFxzK2xvZ2luKT8oXHMrW15cc10rKXswLDJ9XHMrKGNvZGV8b3RwfHBhc3N3b3JkKRABIhdbMC05QS1aXSpbMC05XVswLTlBLVpdKgqnAQqiASg/aSkoc2hhcmV8cHJvdmlkZSlccysoKHRoaXN8eW91cilccyspPyhbXlxzXStccyspezAsNX0ob3RwfGNvZGUpXHMqLT9ccysoPy1pKShbMC05XXs0LDh9fFswLTldezN9XHNbMC05XXszfXxbQS1aYS16XXs0fS1bMC05XXs0fSkoP2kpXHMrKFteXHNdK1xzKyl7MCwzfSh3aXRofHRvKRAGClwKPyg/aSkoc25hcGNoYXR8cGF5cGFsXHMrW15cc10rKVxzK2NvZGU6XHMrKD8taSkoW0EtWjAtOV17NCw4fSlcLhACIhdbMC05QS1aXSpbMC05XVswLTlBLVpdKgqQAwqLAyg/aSkoKHRvfGZvcilccysoY29tcGxldGV8Y29uZmlybXxjb250aW51ZXxsaW5rfGxvZ1xzKmlufHJlc2V0fHNpZ25pbmd8c2lnbigtfFxzKyk/aW58c3RhcnR8dXBkYXRlfHZhbGlkYXRlfHZlcmlmeSl8Zm9yXHMrdHdvLWZhY3RvclxzK2F1dGhlbnRpY2F0aW9ufGFmdGVyXHMrcmVhZGluZ1xzK2luc3RydWN0aW9ucykoXHMrW15cc10rKXswLDN9KCxccyp8XHMrKShwbGVhc2VccyspPyhlbnRlcnx1c2V8c2hhcmUpKFxzKyh0aGVccyt8dGhpc1xzKyk/KGZvbGxvd2luZ1xzKyk/KFteXHNdK1xzKyl7MCw0fShjb2RlfG90cCkpPyg6fCwpP1xzKig/LWkpKFthLXpBLVpdLXxbIidcKF0pPyhbQS1aMC05XXs0LDh9fFswLTldezN9XHNbMC05XXszfXxbQS1aYS16XXs0fS1bMC05XXs0fSlbIidcKV0/EBAKvgQKuQQoP2kpKF58XHMrfFs6LC4+LV0pKGVudGVyfHVzZXxzaGFyZXxjb2RlKVxzKyh0aGVccyt8dGhpc1xzKyk/KGZvbGxvd2luZ1xzKyk/KFteXHNdK1xzKyl7MCw0fShjb2RlfG9uZSgtfFxzKyk/dGltZSgtfFxzKyk/cGFzc3dvcmR8b3RwKT8oXHMrbm9cLik/KDp8LHwtKT9ccyooPy1pKShbYS16QS1aXS18WyInXChdKT8oWzAtOV1bQS1aMC05XXszLDd9fFswLTldezN9XHNbMC05XXszfXxbQS1aYS16XXs0fS1bMC05XXs0fSlbIidcKV0/KCR8LD8oP2kpKFxzK1teXHNdKyl7MCw2fVxzKygodG98Zm9yKFxzK1teXHNdKyl7MCwzfSlccysoYWNjZXNzfGNvbXBsZXRlfGNvbmZpcm18Y29udGludWV8ZmluaXNofGxpbmt8bG9nXHMqaW58b25saW5lfHByb2NlZWR8cmVzZXR8c2lnbigtfFxzKyk/aW58c2lnbmluZ3xzdGFydHx0cmFuc2FjdGlvbnx1cGRhdGV8dmVyaWZ5KXxpblxzK3lvdXIoXHMrW15cc10rKXswLDJ9XHMrYWNjb3VudHxmb3Jccyt0d28tZmFjdG9yXHMrYXV0aGVudGljYXRpb258YWZ0ZXJccytyZWFkaW5nXHMraW5zdHJ1Y3Rpb25zfGF0XHMrdGhlXHMrdGltZVxzK29mXHMrZGVsaXZlcnkpKRAMCqQBCp8BXig/aSkoW15cc10rXHMrKXswLDJ9KHZlcmlmaWNhdGlvblxzKyk/KHBhc3N3b3JkfGNvZGV8cGFzc2NvZGV8b3RwfHBpbikoXHMrZm9yKFxzK1teXHNdKyl7MSwzfSk/KFxzK2lzKT8oXHMqWzotXVxzKnxccyspWyInXChcW10/KD8taSkoWzAtOV17NCw4fSlbIidcKFxdXT8oP2kpEAgK/AEK9wEoP2kpKGNvZGV8b3RwfChvbmUoLXxccyspP3RpbWUoLXxccyspP3Bhc3N3b3JkKSkoXHMqXChvdHBcKSk/XHMrKGZvcnx0bykoXHMrW15cc10rKStccysoY2FyZHxhY2NvdW50fGVuZGluZylccysoWzAtOV0qW3hcKl0qWzAtOV0rKVxzKygoZm9yfHRvfGF0KVxzKyhbXlxzXStccyspezAsNH0pezAsM31pcyhccyo6XHMqfFxzKykoW2EtekEtWl0rLXxbIidcKF0pPyhbQS1aMC05XXs0LDh9fChbMC05XXszfShccyt8LSlbMC05XXszfSkpEA8K9AIK7wIoP2kpKGNvZGV8b3RwfChvbmUoLXxccyspP3RpbWUoLXxccyspP3Bhc3N3b3JkKSkoXHMqXCgob3RwfG9uZSgtfFxzKyk/dGltZSgtfFxzKyk/cGFzc3dvcmQpXCkpPyhccytbXlxzXSspezAsMn1ccysoZm9yfHRvKShccytbXlxzXSspezAsNX1ccysocmVmZXJlbmNlfHJlZnxyZXF1ZXN0fHlvdXIpXHMrKG5vfGlkKShccytbXlxzXSspezAsM31bMC05XSsoXHMrW15cc10rKXswLDN9XHMrKChjb2RlfG90cHwob25lKC18XHMrKT90aW1lKC18XHMrKT9wYXNzd29yZCkpKFxzKlwob3RwXCkpP3xpcykoXHMqOlxzKnxccyspKD8taSkoW2EtekEtWl0tfFsiJ1woXSk/KFtBLVowLTldezQsOH18KFswLTldezN9KFxzK3wtKVswLTldezN9KSlbIidcKV0/EBgKkAIKiwIoP2kpKGNvZGV8b3RwfChvbmUoLXxccyspP3RpbWUoLXxccyspP3Bhc3N3b3JkKSkoXHMqXChvdHBcKSk/KFxzK1teXHNdKyl7MCwyfVxzKyhmb3J8dG8pKFxzK1teXHNdKyl7MCw1fVxzKyh3aXRoZHJhd2FsXHMrcmVxdWVzdHx0cmFuc2FjdGlvbikoXHMrW15cc10rKXswLDN9XHMrWzAtOV0rKFwuWzAtOV0rKT9ccytpcyhccyo6XHMqfFxzKykoPy1pKShbYS16QS1aXS18WyInXChdKT8oW0EtWjAtOV17NCw4fXwoWzAtOV17M30oXHMrfC0pWzAtOV17M30pKVsiJ1wpXT8QDgqoAQqjASg/aSkoZG9ccytub3R8bmV2ZXIpXHMrc2hhcmVccyt0aGlzKFxzK1teXHNdKyl7MCwyfVxzK2NvZGVcLj8oXHMrW15cc10rKXswLDIwfVxzK2NvZGU6P1xzKyhbYS16QS1aXS18WyInXChdKT8oW0EtWjAtOV17NCw4fXwoWzAtOV17M30oXHMrfC0pWzAtOV17M30pKVsiJ1wpXT8oXC58JCkQBQqnAQqiASg/aSl3aWxsXHMrbmV2ZXJccysoY2FsbHxhc2t8cmVxdWVzdClccyt5b3VccysoZm9yXHMrKT90aGlzKFxzK1teXHNdKyl7MCwyfVxzK2NvZGU6P1xzKyhbYS16QS1aXS18WyInXChdKT8oW0EtWjAtOV17NCw4fXwoWzAtOV17M30oXHMrfC0pWzAtOV17M30pKVsiJ1wpXT8oXC58LHwkKRAFClIKTig/aSlvdHBccysoW2EtekEtWl0tfFsiJ1woXSk/KFtBLVowLTldezQsOH18KFswLTldezN9KFxzK3wtKVswLTldezN9KSlbIidcKV0/JBACCoIBCn4oP2kpY29uZmlybVxzK2FkZGluZ1xzK2FccytzdGVhbVxzK2F1dGhlbnRpY2F0b3Jccyt3aXRoXHMrKFthLXpBLVpdLXxbIidcKF0pPyhbQS1aMC05XXs0LDh9fChbMC05XXszfShccyt8LSlbMC05XXszfSkpWyInXCldPyQQAg</string>
+    <boolean name="bugle_phenotype__enable_c2o_contact_share" value="true" />
+    <boolean name="bugle_phenotype__enable_message_reactions_sending_from_ditto" value="true" />
+    <boolean name="bugle_phenotype__enable_p2p_conversation_training" value="false" />
+    <boolean name="bugle_phenotype__enable_verbose_bug_reports" value="false" />
+    <string name="bugle_phenotype__data_donation_learn_more_help_and_feedback_topic"></string>
+    <boolean name="bugle_phenotype__enable_cache_rcs_availability_map_to_disk" value="true" />
+    <boolean name="bugle_phenotype__enabled_testopenbeta_feature" value="false" />
+    <string name="bugle_phenotype__supersort_intent_label_mapping"></string>
+    <boolean name="bugle_phenotype__enable_ditto_cms_pairing" value="false" />
+    <boolean name="bugle_phenotype__spam_report_auto_reply_number" value="true" />
+    <boolean name="bugle_phenotype__enable_clear_primary_device_id_during_opt_out" value="true" />
+    <string name="bugle_phenotype__mdd_download_config"></string>
+    <string name="bugle_phenotype__nudge_lingua_model_group"></string>
+    <boolean name="bugle_phenotype__enable_uithreadless_update_rcs_availability" value="true" />
+    <string name="bugle_phenotype__sticker_service_api_key">AIzaSyAkWhIAqrvhP55i3bzu35WWXPN4P-fVjo8</string>
+    <boolean name="bugle_phenotype__colored_suggestions_enabled" value="false" />
+    <boolean name="bugle_phenotype__disable_notifications_for_auto_downloading_messages" value="true" />
+    <boolean name="bugle_phenotype__bug_159911759_fetch" value="false" />
+    <boolean name="bugle_phenotype__enable_broadcast_receiver_foreground_notification_timeout" value="true" />
+    <boolean name="bugle_phenotype__enable_url_only_location_attachment" value="true" />
+    <string name="bugle_phenotype__mms_bug_report_category">com.google.android.apps.messaging.SHAKE_TO_REPORT_MMS_ISSUE</string>
+    <boolean name="bugle_phenotype__enable_groups_breakout" value="true" />
+    <long name="bugle_phenotype__telephony_db_recreated_notification_back_off_ms" value="604800000" />
+    <boolean name="bugle_phenotype__enable_miniature_contact_message_annotations" value="false" />
+    <string name="bugle_phenotype__super_sort_survey_site_id"></string>
+    <boolean name="bugle_phenotype__mdd_lib_use_webref_populator" value="false" />
+    <boolean name="bugle_phenotype__bug_168221060" value="false" />
+    <long name="bugle_phenotype__additional_mms_payload_size" value="0" />
+    <boolean name="bugle_phenotype__thread_id_mismatch_recover" value="false" />
+    <boolean name="bugle_phenotype__disable_thread_id_dependency" value="false" />
+    <long name="RcsFlags__sip_register_retry_max_delay_in_seconds" value="1800" />
+    <boolean name="bugle_phenotype__enable_recording_via_drishti" value="false" />
+    <boolean name="bugle_phenotype__enable_p2p_conversation_in_app_training" value="false" />
+    <string name="bugle_phenotype__uma_upload_ratio_map">DataModel.Action.DeferBackgroundWork.ExecuteAction.Latency:0.01,Async.BugleApplication.onTrimMemory.Duration:0.02,Async.RcsPromoActivity.updateAvailability.Duration:0.06,Async.Compose.updateMessageTextStats.Duration:0.06,Async.MmsConfig.loadAsync.Duration:0.07,DataModel.Action.GenericWorkerQueueAction.ExecuteAction.Latency:0.08,DataModel.Action.CountryCodeDetector.ExecuteAction.Latency:0.13,Telephony.Query.Threads.Latency:0.13,DataModel.Action.SelfParticipantsRefresh.ExecuteAction.Latency:0.16,Async.ConversationFragment.LinkifyMessages.Duration:0.17,DataModel.Action.CommitPhenotype.ExecuteAction.Latency:0.18,DataModel.Action.ProcessPendingMessages.ExecuteAction.Latency:0.21,Search.Icing.Indexing.Outcome:0.22,DataModel.Action.FixupMessageStatusOnStartup.ExecuteAction.Latency:0.24,Telephony.Update.FieldBulk.Latency:0.27,Telephony.Query.Count.Latency:0.28,Async.ConversationFragment.acceptReplySuggestion.Duration:0.33,App.OnCreate.Duration:0.35,App.ClassLoad.Duration:0.4,App.InitializeAsync.Duration:0.48,DataModel.Action.RefreshNotificationsAction.ExecuteAction.Latency:0.5,DataModel.Action.RebuildShortCuts.ExecuteAction.Latency:0.6,DataModel.Action.UpdateConversationArchiveStatus.ExecuteAction.Latency:0.68,DataModel.Action.WriteDraftMessage.ExecuteAction.Latency:0.73,Async.ConversationData.SearchUtils.SearchCallback.onSearchComplete.Duration:0.74,DataModel.Action.SyncMessages.ExecuteAction.Latency:0.74,DataModel.Action.SendReport.ExecuteAction.Latency:0.81,DataModel.Action.RequestLinkPreview.ExecuteAction.Latency:0.81,DataModel.Action.EnsureConnectivityStabilized.ExecuteAction.Latency:0.82,Async.ConversationFragment.onConversationParticipantDataLoaded.Duration:0.84,DataModel.Action.MarkAsRead.ExecuteAction.Latency:0.84,Telephony.Update.Field.Latency:0.84,DataModel.Action.MarkAsNotified.ExecuteAction.Latency:0.96</string>
+    <boolean name="bugle_phenotype__enable_c2o_dynamic_input" value="true" />
+    <boolean name="bugle_phenotype__propagate_archive_status_to_cms_conversation_status" value="true" />
+    <string name="bugle_phenotype__p2p_suggestion_type_combinations_config_string_v2">CALENDAR|[1:1],SCRIPTED_REPLY|[1:3];SCRIPTED_REPLY|[1:3];RECENT_IMAGE|[1:1];CATEGORY_TEXT|[3:3],ASSISTANT_QUERY|[1:1];CATEGORY_TEXT|[2:2],ASSISTANT_QUERY|[2:2];CATEGORY_TEXT|[2:2],ASSISTANT_QUERY|[1:1];CATEGORY_TEXT|[1:1],ASSISTANT_QUERY|[1:];CATEGORY_TEXT|[2:2],CATEGORY_EMOTIVE|[1:2];CATEGORY_TEXT|[3:3],CATEGORY_EMOTIVE|[1:1];EMOTION|[2:3];CATEGORY_ACTION|[1:],CATEGORY_TEXT|[:];CATEGORY_EMOTIVE|[2:];CATEGORY_TEXT|[2:];</string>
+    <boolean name="bugle_phenotype__reranker_enable_type_sorting" value="false" />
+    <boolean name="bugle_phenotype__enable_expressive_camera_effects" value="false" />
+    <boolean name="bugle_phenotype__enable_andromeda_mde" value="false" />
+    <boolean name="bugle_phenotype__enable_location_attachment_picker_v2" value="true" />
+    <boolean name="bugle_phenotype__enable_tombstone_v2" value="true" />
+    <boolean name="bugle_phenotype__enable_tachystick" value="true" />
+    <string name="bugle_phenotype__p2p_suggestion_expressive_content_pack_file_spec"></string>
+    <long name="bugle_phenotype__pagination_loading_buffer_size" value="100" />
+    <boolean name="bugle_phenotype__enable_lg_default_sim_switch" value="false" />
+    <long name="bugle_phenotype__smart_compose_context_messages_age_millis" value="604800000" />
+    <boolean name="bugle_phenotype__enable_primes_tracing" value="false" />
+    <boolean name="bugle_phenotype__prefer_duo_over_vilte" value="true" />
+    <boolean name="bugle_phenotype__enable_send_status_foreground_service" value="false" />
+    <boolean name="bugle_phenotype__google_tos_popup_learn_more" value="true" />
+    <boolean name="bugle_phenotype__bug_171976905_use_rcs_group_creation_in_progress_join_state" value="false" />
+    <boolean name="bugle_phenotype__enable_cms_init" value="true" />
+    <string name="bugle_phenotype__phone_number_import_black_list"></string>
+    <boolean name="bugle_phenotype__spam_stranger_danger_with_verdict" value="true" />
+    <long name="bugle_phenotype__smart_compose_min_chars" value="0" />
+    <string name="bugle_phenotype__supersort_grammar_group"></string>
+    <boolean name="bugle_phenotype__enable_reactions_configurable_logging" value="false" />
+    <long name="bugle_phenotype__xms_fallback_send_notification_timeout_ms" value="900000" />
+    <string name="bugle_phenotype__p2p_conversation_suggestions_assistant_blacklist">(?i)the jews</string>
+    <float name="Happiness__expressive_content_hats_ratio" value="0.01" />
+    <string name="bugle_phenotype__p13n_model_file_spec"></string>
+    <boolean name="bugle_phenotype__pwq_for_connection_alert" value="true" />
+    <long name="RcsFlags__sms_port" value="-1" />
+    <boolean name="bugle_phenotype__enforce_verified_sms_key_expiration" value="true" />
+    <string name="bugle_phenotype__smart_actions_duo_grammar_group"></string>
+    <boolean name="bugle_phenotype__use_bugle_shared_prefs_for_rcs_welcome_message" value="false" />
+    <long name="bugle_phenotype__ditto_keep_alive_time_ms" value="30000" />
+    <long name="Happiness__versions_between_prompts" value="3" />
+    <boolean name="bugle_phenotype__enable_conversation_rename" value="true" />
+    <boolean name="bugle_phenotype__enable_error_if_e164_phone_number_lookup_failed" value="false" />
+    <boolean name="bugle_phenotype__enable_share_contact_by_text" value="false" />
+    <boolean name="bugle_phenotype__bug_169938930_signature_manager_integration" value="false" />
+    <boolean name="bugle_phenotype__enable_g1_backup_restore" value="true" />
+    <boolean name="RcsFlags__enable_rcs_config_logging" value="false" />
+    <boolean name="bugle_phenotype__enable_p2p_conversation_suggestions_non_fi" value="false" />
+    <long name="bugle_phenotype__cms_backup_queue_attempt_threshold" value="1" />
+    <long name="bugle_phenotype__p2p_share_recent_image_age_limit_millis" value="60000" />
+    <float name="bugle_phenotype__super_sort_control_frequency" value="0.0" />
+    <boolean name="bugle_phenotype__enable_c2o_customization" value="false" />
+    <boolean name="bugle_phenotype__enable_rbm_sort_messages_by_sent_timestamp" value="true" />
+    <boolean name="bugle_phenotype__install_deeplink_support" value="true" />
+    <long name="bugle_phenotype__recent_image_suggestion_age_limit_millis" value="60000" />
+    <boolean name="bugle_phenotype__enable_voice_messages_up_leveling_ui" value="true" />
+    <boolean name="bugle_phenotype__enable_media_editor_from_mini_camera" value="true" />
+    <long name="bugle_phenotype__p2p_conversation_suggestions_num_messages_to_stick" value="0" />
+    <boolean name="bugle_phenotype__remove_gallery_from_camera" value="true" />
+    <boolean name="bugle_phenotype__sanity_check_thread_ids" value="false" />
+    <string name="bugle_phenotype__mdd_ph_populator_flag">CiMKIWJ1Z2xlX3BoZW5vdHlwZV9fbWRkX3dlYnJlZl9pbmRleAolCiNidWdsZV9waGVub3R5cGVfX2dyYW1tYXJfZmlsZV9ncm91cAotCitidWdsZV9waGVub3R5cGVfX211bHRpdGFza19tb2RlbF9maWxlX2dyb3VwCi0KK2J1Z2xlX3BoZW5vdHlwZV9fdGV4dF9jbGFzc2lmaWVyX2NvcmVfbW9kZWwKMAouYnVnbGVfcGhlbm90eXBlX190ZXh0X2NsYXNzaWZpZXJfYWN0aW9uc19tb2RlbAorCilidWdsZV9waGVub3R5cGVfX2Vtb3RpdmVfbW9kZWxfZmlsZV9ncm91cAo3CjVidWdsZV9waGVub3R5cGVfX3NtYXJ0c19leHByZXNzaXZlX2NvbnRlbnRfZmlsZV9ncm91cAo5CjdidWdsZV9waGVub3R5cGVfX3NlbnNpdGl2ZV9jbGFzc2lmaWVyX21vZGVsc19maWxlX2dyb3VwCioKKGJ1Z2xlX3BoZW5vdHlwZV9fc2lsZW50X21vZGVsX2ZpbGVfZ3JvdXAKOAo2YnVnbGVfcGhlbm90eXBlX19zZW5zaXRpdmVfaW1hZ2VfY2xhc3NpZmllcl9maWxlX2dyb3VwCiwKKmJ1Z2xlX3BoZW5vdHlwZV9fc2NyaXB0ZWRfcmVwbHlfZmlsZV9ncm91cAovCi1idWdsZV9waGVub3R5cGVfX211bHRpdGFza19leHBlcmltZW50YWxfbW9kZWwKNAoyYnVnbGVfcGhlbm90eXBlX19tdWx0aXRhc2tfaTE4bl9leHBlcmltZW50YWxfbW9kZWwKRApCYnVnbGVfcGhlbm90eXBlX19zcGFtX3ZlcmRpY3RfZW5mb3JjZW1lbnRfcG9saWN5X2NvbmZpZ19maWxlX2dyb3VwCjgKNmJ1Z2xlX3BoZW5vdHlwZV9fc3VnZ2VzdGlvbl9yZXJhbmtlcl9tb2RlbHNfZmlsZV9ncm91cAoxCi9idWdsZV9waGVub3R5cGVfX2Fzc2lzdGFudF9oZWFsdGhfZ3JhbW1hcl9ncm91cAoqCihidWdsZV9waGVub3R5cGVfX3N1cGVyc29ydF9ncmFtbWFyX2dyb3VwCi8KLWJ1Z2xlX3BoZW5vdHlwZV9fc3VwZXJzb3J0X2xpbmd1YV9tb2RlbF9ncm91cAorCilidWdsZV9waGVub3R5cGVfX251ZGdlX2xpbmd1YV9tb2RlbF9ncm91cAoyCjBidWdsZV9waGVub3R5cGVfX3NtYXJ0X2FjdGlvbnNfZHVvX2dyYW1tYXJfZ3JvdXAKMQovYnVnbGVfcGhlbm90eXBlX19zbWFydF9jb21wb3NlX21vZGVsX2ZpbGVfZ3JvdXAKIgogYnVnbGVfcGhlbm90eXBlX19wMTNuX2ZpbGVfZ3JvdXAKOgo4YnVnbGVfcGhlbm90eXBlX19zbWFydF9hY3Rpb25zX2FwcG9pbnRtZW50X2dyYW1tYXJfZ3JvdXAKOQo3YnVnbGVfcGhlbm90eXBlX19zbWFydF9jb252ZXJzYXRpb25fc3RhcnRlcnNfZmlsZV9ncm91cAo0CjJidWdsZV9waGVub3R5cGVfX3NtYXJ0X2Fzc2lzdGFudF9zdWdnZXN0aW9uc19ncm91cAoqCihidWdsZV9waGVub3R5cGVfX2FuZHJvaWRfc2hhcmluZ19ncm91cF8xCioKKGJ1Z2xlX3BoZW5vdHlwZV9fYW5kcm9pZF9zaGFyaW5nX2dyb3VwXzI</string>
+    <string name="bugle_phenotype__assistant_message_base_url">messages.google.com/, assistant.google.com/</string>
+    <boolean name="bugle_phenotype__mdd_lib_use_webref_filtering_populator" value="true" />
+    <boolean name="bugle_phenotype__sanity_check_sms_count" value="false" />
+    <float name="bugle_phenotype__collapse_attach_buttons_text_threshold" value="0.75" />
+    <boolean name="bugle_phenotype__enable_tflite_sensitive_classifier" value="false" />
+    <long name="bugle_phenotype__expressive_stickers_c2o_overflow_button_landing_page" value="1" />
+    <string name="Etouffee__etouffee_failure_to_decrypt_dialog_learn_more_destination">https://support.google.com/messages?p=messages_e2ee</string>
+    <string name="Happiness__rcs_group_message_hats_site_id">yle37mo4bsmmvfjyekyf5ceqgi</string>
+    <long name="bugle_phenotype__cms_update_multi_device_max_retry" value="50" />
+    <long name="bugle_phenotype__ditto_max_hours_before_challenge" value="2" />
+    <boolean name="bugle_phenotype__enable_otp_auto_deletion" value="false" />
+    <string name="bugle_phenotype__supersort_mapping_strategy">contactsToPersonalDefaultToMore</string>
+    <boolean name="bugle_phenotype__report_spam_content_to_scooby_server" value="true" />
+    <long name="bugle_phenotype__remote_instance_refresh_interval_ms" value="1800000" />
+    <boolean name="bugle_phenotype__show_on_device_intelligence_notice" value="true" />
+    <string name="bugle_phenotype__scripted_reply_file_group"></string>
+    <boolean name="bugle_phenotype__bug_170762622_skip_data_listener_in_wearable_service" value="false" />
+    <long name="bugle_phenotype__flogger_logs_file_size_limit" value="262144" />
+    <long name="bugle_phenotype__verified_sms_valid_key_duration_ms" value="2592000000" />
+    <boolean name="bugle_phenotype__enable_zero_connectivity_status" value="true" />
+    <boolean name="bugle_phenotype__executor_callbacks_always_crash" value="false" />
+    <boolean name="bugle_phenotype__enable_silent_crash_issue_notification" value="false" />
+    <boolean name="bugle_phenotype__p2p_enable_click_x_telemetry" value="true" />
+    <boolean name="bugle_phenotype__use_bugle_silent_feedback" value="true" />
+    <string name="bugle_phenotype__p2p_conversation_suggestions_sensitive_classifier_mdd_file_id"></string>
+    <string name="bugle_phenotype__block_and_spam_learn_more_url">https://support.google.com/messages/?p=block_report_spam</string>
+    <boolean name="bugle_phenotype__enable_phenotype_override" value="false" />
+    <boolean name="bugle_phenotype__enable_tiktok_accounts" value="true" />
+    <boolean name="bugle_phenotype__enable_home_screen_banner" value="false" />
+    <string name="bugle_phenotype__in_apk_multitask_config"></string>
+    <long name="bugle_phenotype__telephony_db_recreated_notification" value="0" />
+    <string name="bugle_phenotype__rich_cards_help_center_link">https://support.google.com/messages/?p=automaticpreviews</string>
+    <boolean name="bugle_phenotype__enable_message_reminder" value="false" />
+    <boolean name="bugle_phenotype__enabled_verified_sms" value="false" />
+    <string name="bugle_phenotype__suggestion_file_configs_list"></string>
+    <boolean name="bugle_phenotype__enable_error_message_logging_for_icing_search" value="false" />
+    <boolean name="bugle_phenotype__enable_revamp_xms_fallback" value="true" />
+    <string name="Etouffee__etouffee_tombstone_learn_more_destination">https://support.google.com/messages?p=messages_e2ee</string>
+    <boolean name="bugle_phenotype__bug_149059866_phenotype_listener" value="false" />
+    <boolean name="bugle_phenotype__bug_154660302_enable_reclaiming_memory" value="false" />
+    <boolean name="bugle_phenotype__enable_cms_click_to_download" value="true" />
+    <boolean name="bugle_phenotype__enable_expressive_stickers_c2o_my_stickers_button" value="true" />
+    <boolean name="bugle_phenotype__enable_multisim_google_tos" value="true" />
+    <boolean name="bugle_phenotype__enable_cms_encryption" value="true" />
+    <boolean name="bugle_phenotype__bug_173814047_test_not_is_installed" value="true" />
+    <string name="bugle_phenotype__p2p_conversation_suggestions_accepted_languages"></string>
+    <boolean name="bugle_phenotype__bug_159662717_new_rcs_token_resets_otp_backoff" value="false" />
+    <boolean name="bugle_phenotype__enable_message_status_ui" value="false" />
+    <long name="bugle_phenotype__flogger_logs_file_minimum_log_level" value="800" />
+    <boolean name="bugle_phenotype__p2p_conversation_suggestions_fail_fast" value="false" />
+    <boolean name="bugle_phenotype__enable_sending_heif_images" value="true" />
+    <boolean name="bugle_phenotype__enable_reminder_growth_kit_popup" value="false" />
+    <boolean name="bugle_phenotype__enable_text_classifier_actions_in_notifications" value="false" />
+    <boolean name="bugle_phenotype__cms_enable_conversation_create_notifications" value="true" />
+    <string name="bugle_phenotype__p2p_conversation_suggestions_model_source">hobbes-on-device</string>
+    <boolean name="bugle_phenotype__enable_all_contact_directories_search_by_name" value="false" />
+    <string name="bugle_phenotype__p2p_conversation_suggestions_blacklist">(?i)lmao,(?i)you welcome!,(?i)Love you to :\),😘,😙,😚,💍,Okay Great. thanks!,(?i)i'm good and you,^$,(?i).*(\b)man\p{Punct}*(\Z|\s.*),(?i).*(\b)woman\p{Punct}*(\Z|\s.*),(?i).*(\b)men\p{Punct}*(\Z|\s.*),(?i).*(\b)women\p{Punct}*(\Z|\s.*),(?i).*(\b)boy\p{Punct}*(\Z|\s.*),(?i).*(\b)girl\p{Punct}*(\Z|\s.*),(?i).*(\b)babe\p{Punct}*(\Z|\s.*),(?i).*(\b)baby\p{Punct}*(\Z|\s.*),(?i).*(\b)sir\p{Punct}*(\Z|\s.*),(?i).*(\b)he\p{Punct}*(\Z|\s.*),(?i).*(\b)she\p{Punct}*(\Z|\s.*),(?i).*(\b)him\p{Punct}*(\Z|\s.*),(?i).*(\b)her\p{Punct}*(\Z|\s.*)</string>
+    <boolean name="bugle_phenotype__enable_attachment_content_refactor" value="false" />
+    <boolean name="bugle_phenotype__enable_verified_sms_dynamic_sender_list" value="true" />
+    <boolean name="FastTrackCslib__enable_fast_track" value="false" />
+    <string name="bugle_phenotype__tachyon_cms_environment">prod</string>
+    <string name="bugle_phenotype__spam_verdict_enforcement_policy_config_target_id">spam_verdict_enforcement_policy_config_prod_2021_05_27_00_tachyon_allow</string>
+    <boolean name="RcsFlags__enable_instance_id_in_provisioning" value="false" />
+    <boolean name="bugle_phenotype__enable_p2p_conversation_suggestions_in_notifications" value="true" />
+    <boolean name="bugle_phenotype__enable_large_p2p_emoji_suggestions" value="true" />
+    <string name="bugle_phenotype__spam_verdict_enforcement_policy_config_mdd_file">spam_verdict_enforcement_policy_config_prod_2021_05_27_00_tachyon_allow</string>
+    <boolean name="bugle_phenotype__append_debug_info_message_details" value="false" />
+    <boolean name="bugle_phenotype__bug_159720439_enable_is_composing_ditto_sender_default_callback" value="false" />
+    <boolean name="bugle_phenotype__enable_media_editor_from_camera" value="true" />
+    <long name="bugle_phenotype__conversation_default_label" value="6" />
+    <string name="bugle_phenotype__mdd_owner_package">com.google.android.apps.messaging#com.google.android.apps.messaging</string>
+    <string name="bugle_phenotype__supersort_model_id">2021020800</string>
+    <boolean name="bugle_phenotype__enable_delete_associated_reactions" value="true" />
+    <long name="bugle_phenotype__ditto_upload_thread_count" value="3" />
+    <boolean name="bugle_phenotype__part_table_based_heuristic_ignored" value="false" />
+    <boolean name="bugle_phenotype__display_consent_with_cost" value="false" />
+    <boolean name="bugle_phenotype__enable_jibe_tos_link" value="true" />
+    <boolean name="bugle_phenotype__enable_record_high_quality_media" value="true" />
+    <long name="bugle_phenotype__database_query_perf_warning" value="9223372036854775806" />
+    <long name="bugle_phenotype__conversation_starters_expiration_duration_ms" value="0" />
+    <string name="bugle_phenotype__multitask_experimental_model"></string>
+    <long name="bugle_phenotype__rcs_upsell_maximum_prompt_count" value="2" />
+    <boolean name="bugle_phenotype__enable_tclib_smart_linkify" value="false" />
+    <boolean name="bugle_phenotype__enable_write_ahead_logging" value="true" />
+    <boolean name="bugle_phenotype__bug_160756473_tag_grpc_traffic" value="false" />
+    <float name="bugle_phenotype__p2p_conversations_suggestions_hobbes_diversification_distance_threshold" value="0.25" />
+    <boolean name="bugle_phenotype__disable_marking_messages_as_notified_on_home" value="false" />
+    <boolean name="bugle_phenotype__enable_availability_check_for_draft_protocol_selection" value="true" />
+    <boolean name="bugle_phenotype__enable_fallback_via_bottom_sheet" value="true" />
+    <boolean name="bugle_phenotype__enable_non_blocking_initial_restore" value="true" />
+    <boolean name="bugle_phenotype__new_media_viewer_in_search" value="true" />
+    <long name="Happiness__min_time_since_install_millis" value="604800000" />
+    <boolean name="bugle_phenotype__enable_rbm_trigger_missing_rich_card_thumbnail_download_from_ui" value="true" />
+    <boolean name="bugle_phenotype__enable_paged_adapter" value="true" />
+    <string name="bugle_phenotype__block_and_spam_learn_more_help_and_feedback_topic">block_report_spam</string>
+    <boolean name="RcsFlags__udp_support_enabled" value="false" />
+    <boolean name="bugle_phenotype__enable_hangouts_conversation_snackbar" value="true" />
+    <boolean name="bugle_phenotype__enable_smart_reply_lib_creation_memory_diff" value="false" />
+    <boolean name="bugle_phenotype__enable_sms_deliver_foreground_service" value="false" />
+    <long name="bugle_phenotype__pagination_loading_initial_load_chunk_size" value="50" />
+    <float name="bugle_phenotype__primes_tiktok_tracing_probability" value="5.0E-4" />
+    <boolean name="bugle_phenotype__enable_broadcast_receiver_foreground_notification_extra_info" value="false" />
+    <boolean name="bugle_phenotype__enable_link_preview_animations" value="true" />
+    <boolean name="bugle_phenotype__sync_timer_improvement" value="false" />
+    <boolean name="bugle_phenotype__bug_161489454_enable_sequential_restore" value="false" />
+    <boolean name="bugle_phenotype__ditto_enable_link_preview" value="true" />
+    <boolean name="bugle_phenotype__enable_regex_message_annotations" value="false" />
+    <boolean name="bugle_phenotype__enable_federated_analytics_logging" value="false" />
+    <boolean name="bugle_phenotype__enables_safe_url_check" value="true" />
+    <boolean name="bugle_phenotype__enable_camera_gallery_roll" value="true" />
+    <string name="RcsFlags__provisioning_rcs_profile">UP_T</string>
+    <boolean name="bugle_phenotype__new_media_viewer_in_draft" value="true" />
+    <boolean name="bugle_phenotype__bug_145026720" value="true" />
+    <boolean name="bugle_phenotype__enable_add_contact_banner" value="true" />
+    <boolean name="RcsFlags__sim_operator_from_tel_man" value="true" />
+    <boolean name="bugle_phenotype__enable_new_file_preview" value="true" />
+    <boolean name="bugle_phenotype__bug_191287092_enable_preferred_suggestion_score" value="false" />
+    <long name="bugle_phenotype__tachyon_otp_retry_multiplier_in_millis" value="7200000" />
+    <boolean name="bugle_phenotype__extract_mms_metadata_on_receiving_exp" value="false" />
+    <long name="bugle_phenotype__c2o_ui_flag" value="1" />
+    <boolean name="bugle_phenotype__mdd_lib_enable_downloads_only" value="false" />
+    <long name="bugle_phenotype__max_video_record_duration_seconds" value="30" />
+    <boolean name="bugle_phenotype__enable_text_classifier_address_message_annotations" value="false" />
+    <boolean name="bugle_phenotype__tachyon_fail_invalid_rcs_token" value="true" />
+    <boolean name="bugle_phenotype__enable_media_editor_from_draft" value="true" />
+    <boolean name="bugle_phenotype__enable_remove_ready_to_send_and_receive_cache" value="true" />
+    <float name="bugle_phenotype__shake_detection_flip_threshold" value="-0.6" />
+    <long name="RcsFlags__testing_device_id" value="-1" />
+    <float name="bugle_phenotype__p2p_emoji_suggestion_text_size_sp" value="20.0" />
+    <string name="bugle_phenotype__regex_message_annotations_mdd_file"></string>
+    <boolean name="bugle_phenotype__bug_173814047_test_is_installed" value="false" />
+    <boolean name="bugle_phenotype__enable_smart_compose" value="false" />
+    <long name="bugle_phenotype__federated_analytics_suggestion_context_fetch_period_millis" value="2419200000" />
+    <boolean name="bugle_phenotype__p2p_conversation_suggestions_disable_apk_model" value="true" />
+    <boolean name="bugle_phenotype__enable_in_app_video_player" value="true" />
+    <boolean name="bugle_phenotype__enable_incoming_rcs_event_foreground_service" value="false" />
+    <boolean name="bugle_phenotype__enable_p2p_smart_assistant_suggestions" value="false" />
+    <boolean name="bugle_phenotype__enable_business_messaging_anonymous_logging" value="true" />
+    <boolean name="Happiness__enable_share_and_connect_hats" value="true" />
+    <boolean name="bugle_phenotype__report_messages_from_non_spammer" value="true" />
+    <boolean name="bugle_phenotype__reranker_enable_rerank_by_score" value="true" />
+    <boolean name="bugle_phenotype__enable_recover_disabled_rcs_group" value="true" />
+    <float name="bugle_phenotype__action_breakdown_timer_percent" value="0.001" />
+    <float name="Happiness__survey_ratio" value="0.5" />
+    <boolean name="bugle_phenotype__enable_check_rcs_ready_in_update_draft" value="false" />
+    <string name="bugle_phenotype__multitask_i18n_experimental_model"></string>
+    <boolean name="bugle_phenotype__enable_non_contact_participant_indexing" value="false" />
+    <long name="bugle_phenotype__xms_fallback_deliver_ui_timeout_ms" value="1800000" />
+    <string name="bugle_phenotype__p2p_suggestion_type_combinations_config_string_applicaple_types">FULL_MESSAGE,LOCATION,PAYMENT,GIF,CONTACT,ASSISTANT_QUERY,SPAM,RECENT_IMAGE,CONTEXT,REMINDER,EMOTION,DUO_CALL,SCRIPTED_REPLY,EMOJI,COPY_OTP,CALENDAR,CATEGORY_TEXT,CATEGORY_ACTION,CATEGORY_EMOTIVE</string>
+    <boolean name="bugle_phenotype__bug_137326709" value="false" />
+    <boolean name="bugle_phenotype__enable_sms_rejected_receiver" value="false" />
+    <boolean name="bugle_phenotype__enable_spam_without_block" value="true" />
+    <string name="bugle_phenotype__smart_compose_model_file_group"></string>
+    <string name="bugle_phenotype__p2p_conversation_suggestions_input_blacklist">(?i).*http.*|.*www.*,(?i).*amber alert.*</string>
+    <float name="bugle_phenotype__text_classifier_entity_confidence_threshold" value="0.3" />
+    <boolean name="bugle_phenotype__enable_emoji_gallery_category_update" value="true" />
+    <string name="bugle_phenotype__conversation_starters_file_specs"></string>
+    <boolean name="bugle_phenotype__enable_suggestion_combination_producer_v2" value="true" />
+    <long name="bugle_phenotype__verified_sms_fetch_senders_frequency_ms" value="172800001" />
+    <boolean name="bugle_phenotype__fi_turn_off_rcs_button_disables_rcs" value="true" />
+    <boolean name="RcsFlags__show_google_tos" value="false" />
+    <boolean name="bugle_phenotype__enable_rbm_generalized_verifier_ui" value="true" />
+    <boolean name="bugle_phenotype__enable_remove_dup_call_to_get_last_message" value="false" />
+    <string name="RcsFlags__acs_url"></string>
+    <long name="bugle_phenotype__guest_cloud_onboarding_layout_type_id" value="4" />
+    <string name="bugle_phenotype__smart_compose_config_file_spec"></string>
+    <float name="bugle_phenotype__smart_compose_text_suggestion_min_score" value="0.4" />
+    <boolean name="bugle_phenotype__enable_silent_feedback_hashed_zwieback" value="true" />
+    <boolean name="PhenotypeRcsFlags__enabled" value="true" />
+    <string name="bugle_phenotype__s_white_list"></string>
+    <long name="RcsFlags__provisioning_imsi_format" value="3" />
+    <boolean name="bugle_phenotype__verify_unique_session_ids" value="false" />
+    <long name="bugle_phenotype__ditto_bind_retry_times" value="2" />
+    <long name="bugle_phenotype__rcs_upsell_cooldown_subsequent_millis" value="2592000000" />
+    <string name="bugle_phenotype__spam_settings_learn_more_help_and_feedback_topic">spamdetection</string>
+    <boolean name="bugle_phenotype__enable_pdf_file_preview" value="true" />
+    <string name="bugle_phenotype__p2p_suggestion_template_file_spec"></string>
+    <boolean name="bugle_phenotype__bug_149049432_use_special_name_in_chats_where_everyone_else_left" value="false" />
+    <string name="bugle_phenotype__smart_assistant_suggestions_group"></string>
+    <boolean name="bugle_phenotype__enable_p2p_conversation_suggestions" value="false" />
+    <boolean name="bugle_phenotype__bug_161735941" value="false" />
+    <boolean name="bugle_phenotype__enable_bug_report_capture" value="false" />
+    <boolean name="bugle_phenotype__enable_custodian_clearcut_reporter" value="false" />
+    <boolean name="bugle_phenotype__bug_164486593_use_attachment_to_blobstore_uploader_worker" value="false" />
+    <boolean name="bugle_phenotype__enable_periodic_corp_contacts_refresh" value="false" />
+    <boolean name="bugle_phenotype__enable_emoji_button_uplevel" value="true" />
+    <boolean name="bugle_phenotype__enable_icing_index_rebuild_with_spwq" value="true" />
+    <boolean name="bugle_phenotype__force_system_mms_api" value="true" />
+    <boolean name="bugle_phenotype__bug_151368201" value="false" />
+    <string name="bugle_phenotype__spam_settings_learn_more_url">https://support.google.com/messages?p=spamdetection</string>
+    <long name="bugle_phenotype__video_recording_quality" value="4" />
+    <boolean name="bugle_phenotype__enable_flat_home_screen_layout" value="false" />
+    <string name="bugle_phenotype__regex_message_annotations_mdd_group"></string>
+    <boolean name="bugle_phenotype__enable_recurring_conversation_stats_logging" value="true" />
+    <boolean name="bugle_phenotype__enable_remove_automatic_xms_fallback" value="false" />
+    <string name="bugle_phenotype__tachyon_meda_debug_path">https://instantmessaging-pa.googleapis.com/upload</string>
+    <long name="bugle_phenotype__compose_entry_point_icons_version" value="1" />
+    <string name="Etouffee__identity_details_learn_more_destination">https://support.google.com/messages/answer/10252671#verify</string>
+    <boolean name="RcsFlags__allow_xms_latching" value="true" />
+    <string name="bugle_phenotype__experiment_carrier_config_override"></string>
+    <long name="bugle_phenotype__p2p_conversation_suggestions_num_predictions_multiplier" value="2" />
+    <string name="bugle_phenotype__spam_verdict_enforcement_policy_config_file_group">CiZzcGFtX3ZlcmRpY3RfZW5mb3JjZW1lbnRfcG9saWN5X2NvbmZpZxL9ARKEAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21lc3NhZ2VzL3NwYW0vc3BhbV92ZXJkaWN0X2VuZm9yY2VtZW50X3BvbGljeV9jb25maWcvc3BhbV92ZXJkaWN0X2VuZm9yY2VtZW50X3BvbGljeV9jb25maWcucGJfMTYyMjEzNjk0MzIwMCDgASooYzViNmJkOGQzOWRlYmIyZWUzODM0N2RkMTJiYjA1NTk2NDBhNmRlYjpHc3BhbV92ZXJkaWN0X2VuZm9yY2VtZW50X3BvbGljeV9jb25maWdfcHJvZF8yMDIxXzA1XzI3XzAwX3RhY2h5b25fYWxsb3cYgMYKMiFjb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5tZXNzYWdpbmdQnKLbwwdqBRACILBU</string>
+    <boolean name="bugle_phenotype__p2p_conversation_suggestions_force_use_server" value="false" />
+    <string name="bugle_phenotype__mdd_lib_slicing_webref_populator_index_group"></string>
+    <long name="bugle_phenotype__reranker_max_suggestions_per_impression" value="4" />
+    <boolean name="bugle_phenotype__enable_cms_change_primary_device_confirmation_dialog" value="true" />
+    <string name="bugle_phenotype__cms_environment">prod</string>
+    <boolean name="bugle_phenotype__enable_mini_camera_media_viewer" value="true" />
+    <boolean name="bugle_phenotype__enable_sent_timestamp_for_rcs_reports" value="true" />
+    <boolean name="bugle_phenotype__bug_147950485" value="false" />
+    <boolean name="bugle_phenotype__bug_155051225_enable_timeout_in_bugle_for_rcs" value="true" />
+    <boolean name="bugle_phenotype__enable_multidevice_skin" value="true" />
+    <boolean name="bugle_phenotype__enable_unblock_unspam_banner" value="true" />
+    <boolean name="bugle_phenotype__bug_147950486" value="false" />
+    <long name="RcsFlags__provisioning_retry_min_delay_in_millis" value="900000" />
+    <boolean name="bugle_phenotype__bug_169537566_trigger_rcs_availability_update_on_demand" value="false" />
+    <long name="bugle_phenotype__link_preview_grpc_deadline_seconds" value="10" />
+    <float name="bugle_phenotype__d26r_query_logger_uma_upload_ratio" value="0.01" />
+    <long name="bugle_phenotype__flogger_client_logging_minimum_log_level" value="900" />
+    <boolean name="bugle_phenotype__enable_smsc_editing_feature" value="true" />
+    <string name="bugle_phenotype__text_classifier_actions_model"></string>
+    <boolean name="bugle_phenotype__bug_170154814" value="false" />
+    <boolean name="bugle_phenotype__bug_173139137_enable_capabilities_retry" value="true" />
+    <boolean name="bugle_phenotype__enable_growthkit" value="true" />
+    <long name="bugle_phenotype__seconds_between_rcs_engine_tickles" value="300" />
+    <boolean name="RcsFlags__is_carrier_authorized_for_welcome_message" value="true" />
+    <boolean name="bugle_phenotype__enable_contacts_p1_enhancements" value="true" />
+    <boolean name="bugle_phenotype__enable_reminders_banner" value="true" />
+    <long name="bugle_phenotype__orphan_raw_sms_expiration_age_ms" value="0" />
+    <boolean name="bugle_phenotype__enable_notification_suppression" value="false" />
+    <boolean name="bugle_phenotype__mdd_lib_enable_load_from_local" value="true" />
+    <boolean name="bugle_phenotype__enable_wap_push_deliver_foreground_service" value="false" />
+    <long name="bugle_phenotype__ditto_max_conversations_per_request" value="25" />
+    <boolean name="bugle_phenotype__enable_emoji_picker_update" value="true" />
+    <string name="RcsFlags__phone_number_import_black_list"></string>
+    <boolean name="bugle_phenotype__enable_glide_rendering" value="true" />
+    <long name="bugle_phenotype__verified_sms_c11n_check_interval" value="604800000" />
+    <long name="bugle_phenotype__broadcast_receiver_foreground_notification_timeout_seconds" value="20" />
+    <boolean name="RcsFlags__is_dogfood" value="false" />
+    <boolean name="bugle_phenotype__enable_unspam_banner" value="true" />
+    <long name="bugle_phenotype__spam_auto_reply_time_seconds" value="600" />
+    <string name="bugle_phenotype__model_based_reranker_config"></string>
+    <string name="bugle_phenotype__smart_compose_trigger_characters"> </string>
+    <string name="bugle_phenotype__assistant_privacy_tour_context_string">use_assistant</string>
+    <boolean name="bugle_phenotype__enabled_assistant_advanced_logging" value="true" />
+    <boolean name="bugle_phenotype__enable_no_latch_on_rcs_send_failure" value="false" />
+    <boolean name="bugle_phenotype__bug_150675965" value="false" />
+    <boolean name="bugle_phenotype__bug_168900878_refresh_when_no_longer_default" value="true" />
+    <boolean name="bugle_phenotype__enable_zero_connectivity_timeout" value="true" />
+    <long name="bugle_phenotype__ditto_session_timeout_milliseconds" value="120000" />
+    <boolean name="bugle_phenotype__enable_c2o_gallery_before_stickers" value="true" />
+    <boolean name="bugle_phenotype__disable_set_conversation_bubble_long_clickable" value="true" />
+    <boolean name="bugle_phenotype__enables_spam_detection_content_on_device" value="true" />
+    <boolean name="bugle_phenotype__bug_193922789_use_self_id_to_send" value="true" />
+    <string name="bugle_phenotype__p2p_conversation_suggestions_help_center_link">https://support.google.com/messages/?p=smart_reply</string>
+    <boolean name="bugle_phenotype__bug_192260484" value="true" />
+    <boolean name="bugle_phenotype__enable_phone_free_cms_sign_out" value="true" />
+    <long name="bugle_phenotype__reranker_filter_strategy" value="0" />
+    <boolean name="bugle_phenotype__enable_ditto_bugle_media_encryption" value="true" />
+    <boolean name="bugle_phenotype__enable_prime_jank_metrics" value="false" />
+    <boolean name="bugle_phenotype__bug_154291488" value="true" />
+    <boolean name="bugle_phenotype__enable_link_preview_untrusted_senders" value="true" />
+    <string name="Etouffee__scytale_experiment_config"></string>
+    <string name="bugle_phenotype__reactions_configurable_log_level">FINEST</string>
+    <boolean name="bugle_phenotype__enable_moirai_spam_protection" value="false" />
+    <boolean name="bugle_phenotype__enable_conversation_id_check_crash" value="true" />
+    <boolean name="bugle_phenotype__enable_mark_all_messages_as_read" value="true" />
+    <boolean name="bugle_phenotype__enable_home_search_bar_hint_cycling" value="false" />
+    <string name="bugle_phenotype__tachyon_host_and_port">instantmessaging-pa.googleapis.com:443</string>
+    <long name="bugle_phenotype__min_interval_reporting_shake_event" value="5000" />
+    <boolean name="bugle_phenotype__show_emoji_variant_selector_on_first_tap" value="false" />
+    <string name="RcsFlags__client_vendor">Google</string>
+    <boolean name="bugle_phenotype__enable_standalone_datetime_picker" value="true" />
+    <string name="bugle_phenotype__silent_model_file_group"></string>
+    <string name="bugle_phenotype__assistant_health_grammar_group"></string>
+    <long name="bugle_phenotype__flogger_logs_file_rotation_set_size" value="4" />
+    <boolean name="bugle_phenotype__enable_emotion_fa_logging" value="false" />
+    <boolean name="RcsFlags__allow_overrides" value="true" />
+    <boolean name="bugle_phenotype__national_emergency_intent" value="false" />
+    <boolean name="bugle_phenotype__enable_scoped_storage_save_media" value="true" />
+    <long name="bugle_phenotype__pagination_loading_scroll_load_chunk_size" value="200" />
+    <boolean name="bugle_phenotype__enable_message_reactions_selection_dialog_refactor" value="true" />
+    <boolean name="bugle_phenotype__enable_incoming_message_notification_reminder" value="false" />
+    <long name="bugle_phenotype__broadcast_receiver_foreground_service_delay_millis" value="3000" />
+    <boolean name="bugle_phenotype__enable_unsupported_file_detail" value="true" />
+    <boolean name="bugle_phenotype__sticker_suggestions_setting_enabled" value="false" />
+    <boolean name="bugle_phenotype__use_hats_next" value="false" />
+    <long name="bugle_phenotype__ditto_foreground_service_duration_milliseconds" value="120000" />
+    <boolean name="bugle_phenotype__choose_theme" value="true" />
+    <boolean name="bugle_phenotype__enable_dasher_accounts" value="true" />
+    <string name="bugle_phenotype__rich_cards_opt_in_consent_banner_learn_more_link">https://support.google.com/messages/?p=automaticpreviews</string>
+    <boolean name="bugle_phenotype__allow_q_text_classifier_actions_in_notifications" value="false" />
+    <string name="bugle_phenotype__spam_promo_popup_learn_more_help_and_feedback_topic">spamdetection</string>
+    <boolean name="bugle_phenotype__enable_failure_for_sending_reports_to_non_normalized_numbers" value="false" />
+    <boolean name="bugle_phenotype__enable_c2o_file_picker" value="true" />
+    <boolean name="bugle_phenotype__enable_ditto_screen_during_multidevice_flow" value="false" />
+    <boolean name="bugle_phenotype__enable_signal_strength_logging" value="true" />
+    <boolean name="bugle_phenotype__mdd_lib_use_phfilegroup_populator" value="false" />
+    <boolean name="bugle_phenotype__enable_bubbles" value="false" />
+    <boolean name="bugle_phenotype__enable_chrome_tab" value="false" />
+    <boolean name="bugle_phenotype__enable_rcs_contextual_prompt" value="false" />
+    <boolean name="bugle_phenotype__tachyon_phone_registration" value="false" />
+    <boolean name="bugle_phenotype__include_mms_metadata_on_sending_exp" value="false" />
+    <boolean name="bugle_phenotype__enable_non_qr_code_on_ditto_welcome_page" value="true" />
+    <boolean name="bugle_phenotype__remove_attach_service_in_message_flagger" value="false" />
+    <boolean name="bugle_phenotype__enable_unread_badge" value="false" />
+    <string name="bugle_phenotype__p2p_suggestion_rewriter_mdd_file_spec"></string>
+    <long name="bugle_phenotype__recent_expressive_stickers_limit" value="12" />
+    <boolean name="bugle_phenotype__bug_173814047_test_not_is_cs_apk_installed" value="true" />
+    <boolean name="bugle_phenotype__debug_heterodyne_is_new_locale_capitalization" value="false" />
+    <string name="bugle_phenotype__p2p_suggestion_type_combinations_config_string">FULL_MESSAGE:3=0.91</string>
+    <boolean name="bugle_phenotype__rcs_upsell_reprompting_enabled" value="false" />
+    <float name="bugle_phenotype__p2p_conversations_suggestions_hobbes_emoji_factor" value="1.0" />
+    <long name="bugle_phenotype__tachyon_otp_retry_max_exponent" value="9" />
+    <boolean name="bugle_phenotype__action_exceptions_crash" value="false" />
+    <string name="bugle_phenotype__expressive_stickers_metadata_version">20210823</string>
+    <boolean name="bugle_phenotype__enable_debug_toast_for_icing" value="false" />
+    <boolean name="bugle_phenotype__enable_silent_assert_feedback" value="false" />
+    <boolean name="bugle_phenotype__enable_p2p_conversation_training_simple_setting" value="false" />
+    <boolean name="bugle_phenotype__p2p_conversation_suggestions_force_use_on_device" value="true" />
+    <boolean name="bugle_phenotype__bug_183634973_use_account_controller_in_main_activity" value="false" />
+    <boolean name="bugle_phenotype__enable_problematic_messages_or_conversations_feedback_data" value="false" />
+    <string name="bugle_phenotype__mdd_webref_index"></string>
+    <string name="bugle_phenotype__text_classifier_mdd_webref_model_group">webref-model-local</string>
+    <string name="bugle_phenotype__p2p_conversation_suggestions_context_blacklist"></string>
+    <boolean name="bugle_phenotype__drop_incoming_mms_if_mms_disabled" value="false" />
+    <boolean name="RcsFlags__display_consent_with_cost" value="false" />
+    <boolean name="bugle_phenotype__enable_parsing_emoji_suggestions" value="false" />
+    <boolean name="bugle_phenotype__enable_p2p_payments_suggestion" value="false" />
+    <boolean name="bugle_phenotype__enable_rcs_uptime_metrics" value="false" />
+    <string name="bugle_phenotype__tachyon_ditto_host_and_port">instantmessaging-pa.googleapis.com:443</string>
+    <boolean name="bugle_phenotype__bug_154360866" value="false" />
+    <boolean name="RcsFlags__allow_reconfiguration_on_upgrade" value="false" />
+    <boolean name="bugle_phenotype__enable_reclaim_sqlite_memory" value="false" />
+    <string name="bugle_phenotype__p2p_conversation_suggestions_hobbes_mdd_group_name"></string>
+    <boolean name="bugle_phenotype__bug_168737211_cms_triggers_delete_conversation_on_delete_timestamp_update" value="false" />
+    <boolean name="bugle_phenotype__enable_banner2o_conversation_search" value="true" />
+    <string name="RcsFlags__provisioning_rcs_version">5.1B</string>
+    <boolean name="bugle_phenotype__enable_c2o_visual_refinements" value="true" />
+    <string name="bugle_phenotype__sensitive_classifier_models_file_group"></string>
+    <boolean name="bugle_phenotype__enable_text_classifier_webref_message_annotations" value="false" />
+    <boolean name="bugle_phenotype__enable_conference_info_migration_into_bugle_db" value="false" />
+    <boolean name="bugle_phenotype__enable_growthkit_migration" value="true" />
+    <boolean name="bugle_phenotype__enable_unverified_sms_banner" value="true" />
+    <long name="bugle_phenotype__minimum_conversation_number" value="3" />
+    <boolean name="Etouffee__add_message_prefix" value="true" />
+    <string name="bugle_phenotype__sensitive_image_classifier_file_group"></string>
+    <long name="bugle_phenotype__xms_fallback_send_ui_timeout_ms" value="300000" />
+    <boolean name="bugle_phenotype__enable_participants_destination_validation" value="false" />
+    <boolean name="bugle_phenotype__enable_rcs_send_timeout_ui_indicator" value="false" />
+    <boolean name="bugle_phenotype__enable_new_full_screen_gallery" value="true" />
+    <string name="bugle_phenotype__supersort_lingua_model_group"></string>
+    <long name="RcsFlags__keep_alives_min_value" value="-1" />
+    <boolean name="bugle_phenotype__enable_availability_hints" value="true" />
+    <boolean name="bugle_phenotype__text_classifier_use_mddlib_actions_model" value="false" />
+    <boolean name="bugle_phenotype__rcs_should_processes_sim_removal" value="false" />
+    <boolean name="bugle_phenotype__conversation_labels_enabled" value="false" />
+    <boolean name="RcsFlags__clear_sip_register_auth_digest" value="true" />
+    <string name="Etouffee__message_prefix">Encrypted message. Learn more https://support.google.com/messages?p=messages_e2ee</string>
+    <float name="Happiness__xms_group_message_hats_ratio" value="0.01" />
+    <string name="Happiness__general_happiness_site_id"></string>
+    <string name="bugle_phenotype__spam_promo_popup_learn_more_url">https://support.google.com/messages?p=spamdetection</string>
+    <boolean name="bugle_phenotype__enable_in_app_example_store" value="false" />
+    <boolean name="bugle_phenotype__bug_169423881_retry_menu_rewrite" value="false" />
+    <string name="bugle_phenotype__p13n_token_indices_map_file_spec"></string>
+    <float name="bugle_phenotype__p2p_conversations_suggestions_hobbes_emp_prob_factor" value="-0.35" />
+    <boolean name="bugle_phenotype__enable_report_issue_action_for_message_failure_notification" value="false" />
+    <boolean name="bugle_phenotype__enable_media_editor_from_chat" value="true" />
+    <string name="bugle_phenotype__p2p_suggestion_model_based_providers_config_file_specs"></string>
+    <long name="bugle_phenotype__p2p_conversation_suggestions_limit_per_type" value="4" />
+    <string name="bugle_phenotype__server_side_carrier_config_override"></string>
+    <boolean name="bugle_phenotype__p13n_enabled" value="false" />
+    <boolean name="bugle_phenotype__enable_advanced_feedback_flow" value="false" />
+    <string name="bugle_phenotype__smart_conversation_starters_file_group"></string>
+    <boolean name="bugle_phenotype__enable_scheduled_send" value="false" />
+    <long name="bugle_phenotype__report_issue_global_backoff_time_ms" value="604800000" />
+    <boolean name="bugle_phenotype__enable_warn_of_exceeding_sms_message_length_to_emergency_number_dialog" value="false" />
+    <boolean name="bugle_phenotype__use_cached_current_popup_index" value="true" />
+    <boolean name="bugle_phenotype__enable_shake_to_report" value="false" />
+    <boolean name="bugle_phenotype__mdd_lib_use_for_file_access" value="false" />
+    <boolean name="bugle_phenotype__enable_input_manager_refactor" value="false" />
+    <boolean name="bugle_phenotype__enable_unread_status_sync_to_cms_conversations_opaque_data" value="true" />
+    <long name="RcsFlags__initial_message_revocation_delay_in_millis" value="10000" />
+    <boolean name="bugle_phenotype__enable_tenor_api" value="true" />
+    <boolean name="bugle_phenotype__auto_archive_spam_report" value="true" />
+    <boolean name="bugle_phenotype__enable_conversation_scope_check_crash" value="true" />
+    <long name="bugle_phenotype__shake_detection_min_trigger_times" value="10" />
+    <boolean name="bugle_phenotype__bug_150410370" value="true" />
+    <boolean name="bugle_phenotype__enable_cms_triggers" value="true" />
+    <boolean name="bugle_phenotype__enable_broadcast_receiver_foreground_notification_text_v2" value="false" />
+    <long name="bugle_phenotype__supersort_handler_max_messages_per_run" value="1" />
+    <boolean name="bugle_phenotype__enable_most_recent_read_message_time_trigger" value="true" />
+    <long name="bugle_phenotype__rcs_mark_send_failed_timeout_ms" value="900000" />
+    <boolean name="bugle_phenotype__bug_142142014" value="false" />
+    <long name="ProvisioningEngineV2__min_csapk_version" value="30126910" />
+    <long name="RcsFlags__max_message_revocation_delay_in_millis" value="1200000" />
+    <string name="Happiness__expressive_content_hats_site_id">sf4spospr63lpa2dxww7ralvaa</string>
+    <string name="bugle_phenotype__spam_verdict_enforcement_policy_config_mdd_group">spam_verdict_enforcement_policy_config</string>
+    <boolean name="bugle_phenotype__bug_153082962" value="false" />
+    <long name="bugle_phenotype__ditto_foreground_service_min_duration_milliseconds" value="8000" />
+    <boolean name="bugle_phenotype__enable_contact_picker_refactor" value="false" />
+    <string name="bugle_phenotype__ditto_display_url">https://messages.google.com/web</string>
+    <boolean name="bugle_phenotype__fi_hangouts_confirmation_screen_enabled" value="true" />
+    <boolean name="bugle_phenotype__bug_159720439_enable_is_composing_ditto_sender" value="false" />
+    <boolean name="bugle_phenotype__bug_147894457" value="true" />
+    <boolean name="bugle_phenotype__enable_fix_primes_global_timer" value="true" />
+    <float name="bugle_phenotype__p2p_conversations_suggestions_hobbes_confidence_threshold" value="0.038" />
+    <boolean name="bugle_phenotype__bug_170882924_abandon_conversation_delete_on_failed_precondition" value="false" />
+    <boolean name="bugle_phenotype__enable_c2o_device_camera" value="false" />
+    <boolean name="bugle_phenotype__enable_text_classifier_datetime_message_annotations" value="false" />
+    <boolean name="bugle_phenotype__enable_message_status_logging" value="false" />
+    <boolean name="bugle_phenotype__verified_sms_c11n_use_new_imsi_resolver" value="true" />
+    <boolean name="bugle_phenotype__bug_185831101_supersort_enable_primary_view_banner" value="false" />
+    <boolean name="bugle_phenotype__bug_160329913" value="true" />
+    <boolean name="bugle_phenotype__use_new_block_spam_dialog" value="false" />
+    <boolean name="bugle_phenotype__bug_140735319_show_rcs_participant_count_in_title" value="false" />
+    <string name="bugle_phenotype__assistant_privacy_tour_learn_more_link">https://support.google.com/messages/answer/9053541#assistant</string>
+    <boolean name="bugle_phenotype__enable_cms_opt_in_pwq" value="true" />
+    <boolean name="bugle_phenotype__bug_173814047_test_is_cs_apk_installed" value="false" />
+    <boolean name="bugle_phenotype__enable_d26r_query_logger" value="true" />
+    <boolean name="bugle_phenotype__enable_gif_staggered_grid_layout" value="true" />
+    <string name="bugle_phenotype__expressive_stickers_market_config">IgxwYWNrcy83MzA3MDMiDHBhY2tzLzEwMDAwMSIMcGFja3MvNzMwNzAyIghwYWNrcy8xMCIMcGFja3MvNDI5Njk5OhdwYWNrcy84ODA4MDMvc3RpY2tlcnMvOToXcGFja3MvODgwODAyL3N0aWNrZXJzLzk6F3BhY2tzLzg4MDgwNC9zdGlja2Vycy83OhhwYWNrcy84ODA4MTAvc3RpY2tlcnMvMTg6GHBhY2tzLzg4MDgwNy9zdGlja2Vycy8xMToYcGFja3MvODgwODA4L3N0aWNrZXJzLzExOhhwYWNrcy84ODA4MDQvc3RpY2tlcnMvMTU6GHBhY2tzLzg4MDgwMy9zdGlja2Vycy8yMDoYcGFja3MvODgwODEwL3N0aWNrZXJzLzE0OhhwYWNrcy84ODA4MDgvc3RpY2tlcnMvMTI6F3BhY2tzLzg4MDgwOS9zdGlja2Vycy80OhdwYWNrcy84ODA4MDkvc3RpY2tlcnMvNg</string>
+    <boolean name="RcsFlags__rcs_provisioning_enabled" value="true" />
+    <boolean name="bugle_phenotype__future_callbacks_always_crash" value="false" />
+    <string name="bugle_phenotype__other_bug_report_category">com.google.android.apps.messaging.SHAKE_TO_REPORT_OTHER_ISSUE</string>
+    <boolean name="bugle_phenotype__draft_checks_rcs_availability" value="true" />
+    <boolean name="bugle_phenotype__text_classifier_use_mddlib_core_model" value="false" />
+    <boolean name="bugle_phenotype__enable_fallback_during_sending" value="true" />
+    <boolean name="bugle_phenotype__ditto_revoke_messages_when_needed" value="true" />
+    <boolean name="bugle_phenotype__enable_conversation_scope" value="true" />
+    <boolean name="bugle_phenotype__enable_server_side_carrier_config_override" value="true" />
+    <boolean name="bugle_phenotype__refresh_attachment_queue_when_pending_attachment_loads" value="true" />
+    <boolean name="ProvisioningEngineV2__enabled" value="false" />
+    <boolean name="bugle_phenotype__enable_calendar_file_preview" value="true" />
+    <boolean name="bugle_phenotype__enable_c2o_compose_message" value="true" />
+    <boolean name="bugle_phenotype__enable_send_conversation_id_to_gboard" value="false" />
+    <long name="Happiness__delay_between_prompts_millis" value="7776000000" />
+    <string name="RcsFlags__header_enrichment_url_proxy"></string>
+    <long name="RcsFlags__provisioning_retry_max_delay_in_millis" value="86400000" />
+    <long name="bugle_phenotype__cms_list_objects_page_size" value="25" />
+    <boolean name="bugle_phenotype__enable_imessage_banner" value="false" />
+    <boolean name="bugle_phenotype__request_p2p_suggestions_use_only_visible_messages" value="false" />
+    <long name="bugle_phenotype__p2p_conversations_sensitive_classifier_num_messages" value="3" />
+    <long name="bugle_phenotype__reranker_target_impression_size" value="0" />
+    <boolean name="bugle_phenotype__enable_disregard_connectivity_for_draft_protocol_selection" value="true" />
+    <string name="bugle_phenotype__google_regional_privacy_policy_pattern">http://www.google.com/intl/%1$s_%2$s/policies/privacy/</string>
+    <boolean name="bugle_phenotype__disable_sf_notifications" value="true" />
+    <float name="bugle_phenotype__spam_detection_content_on_device_threshold" value="0.24" />
+    <float name="bugle_phenotype__super_sort_frequency" value="0.0" />
+    <string name="bugle_phenotype__multitask_model_file_group"></string>
+    <boolean name="bugle_phenotype__enable_new_image_compression" value="false" />
+    <boolean name="bugle_phenotype__force_enable_lightbringer" value="true" />
+    <boolean name="bugle_phenotype__enable_message_reactions_display_for_ditto" value="true" />
+    <string name="bugle_phenotype__p2p_conversation_suggestion_types_continuation"></string>
+    <long name="RcsFlags__otp_wait_timeout_ms" value="10000" />
+    <boolean name="bugle_phenotype__enable_message_revocation_supported_per_session" value="true" />
+    <boolean name="bugle_phenotype__enable_banners2o" value="false" />
+    <boolean name="bugle_phenotype__enable_media_editor_from_search" value="true" />
+    <boolean name="bugle_phenotype__enable_silent_suggestions_by_default" value="true" />
+    <boolean name="bugle_phenotype__enable_c2o_gif_search_recents" value="true" />
+    <boolean name="bugle_phenotype__bug_161420308" value="false" />
+    <boolean name="bugle_phenotype__enable_message_reactions" value="true" />
+    <boolean name="bugle_phenotype__cms_enable_participants_notifications" value="true" />
+    <string name="bugle_phenotype__listnr_feedback_category"></string>
+    <long name="bugle_phenotype__supersort_hide_category_scheme" value="0" />
+    <boolean name="bugle_phenotype__bug_183634973_use_account_controller_in_home_activity" value="false" />
+    <float name="bugle_phenotype__primes_latency_probability" value="0.5" />
+    <boolean name="bugle_phenotype__enable_p2p_share_location_suggestion" value="false" />
+    <string name="bugle_phenotype__android_sharing_group_2"></string>
+    <boolean name="bugle_phenotype__enable_too_many_1on1_participants_check" value="true" />
+    <string name="bugle_phenotype__android_sharing_group_1"></string>
+    <boolean name="bugle_phenotype__bug_169439511_change_default_filter" value="false" />
+    <boolean name="bugle_phenotype__new_media_viewer_in_camera" value="true" />
+    <boolean name="bugle_phenotype__enable_text_classifier_contact_message_annotations" value="false" />
+    <boolean name="bugle_phenotype__enable_participants_table_destination_check" value="false" />
+    <boolean name="bugle_phenotype__debug_menu_default_available" value="false" />
+    <boolean name="bugle_phenotype__tachyon_anonymous_data_migration" value="true" />
+    <boolean name="bugle_phenotype__bug_145257547_use_media_action_sound" value="false" />
+    <boolean name="bugle_phenotype__enable_c2o_gif_search" value="true" />
+    <boolean name="bugle_phenotype__enable_multi_device" value="true" />
+    <boolean name="bugle_phenotype__bug_170631427_run_reverse_sync_in_oobe_permissions_handler" value="false" />
+    <boolean name="bugle_phenotype__enable_federated_analytics_suggestion_text_logging" value="false" />
+    <boolean name="bugle_phenotype__enable_attach_button_in_fullscreen_gallery" value="true" />
+    <boolean name="bugle_phenotype__enable_video_calling_button" value="true" />
+    <boolean name="bugle_phenotype__enable_sms_rejected_receiver_to_post_notification" value="false" />
+</map>

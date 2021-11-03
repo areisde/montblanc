@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="com.google.android.clockwork.home_preferences_editing" value="0" />
+    <int name="favprefs_editing" value="1" />
+    <int name="battery_saver_prefs_editing" value="1" />
+    <int name="friendly_app_names_editing" value="0" />
+    <string name="phone_language_code">fr</string>
+    <string name="phone_country_code">FR</string>
+    <int name="launcherprefs_editing" value="-2" />
+    <boolean name="delete_unused_files_migrated" value="true" />
+    <boolean name="bridge-mode-check-preinstalled-apps" value="true" />
+    <string name="last_watch_face">com.montblanc.smartwatch.configurator.chrono390/com.montblanc.smartwatch.configurator.watchface.ConfiguratorWatchfaceService</string>
+    <boolean name="notification_policy_migrated_pref" value="true" />
+    <boolean name="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.home.contacts.ContactsComplicationProviderService}ToComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.wcs.contacts.ContactsComplicationProviderService}" value="true" />
+    <string name="STEM_1_DEFAULT_DATA">com.montblanc.smartwatch.toolbox/com.montblanc.smartwatch.toolbox.MainActivity</string>
+    <string name="STEM_2_DEFAULT_DATA">fitness.smartwatch.montblanc.com.fitness/fitness.smartwatch.montblanc.activities.MainActivity</string>
+    <string name="last_lang_req">fr</string>
+    <int name="com.google.android.clockwork.home.license.License_editing" value="0" />
+    <boolean name="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.home.complications.providers.TopNotificationProviderService}ToComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.wcs.notification.complication.TopNotificationProviderService}" value="true" />
+    <set name="companion_features">
+        <string>android.hardware.telephony</string>
+        <string>START_QUERY</string>
+    </set>
+    <string name="STEM_3_DEFAULT_DATA">com.google.android.wearable.reminders/com.google.android.wearable.reminders.MainActivity</string>
+    <int name="database_tile_config_store_editing" value="0" />
+    <int name="tom_prefs_editing" value="1" />
+</map>

@@ -1,0 +1,45 @@
+Process: com.android.nfc
+PID: 2314
+Flags: 0x10c8be4d
+Package: com.android.nfc v28 (9)
+Build: mbs/coralia/coralia:9/PXEB.210208.001/7132669:userdebug/dev-keys
+System-App: true
+Uptime-Millis: 46086
+Loop-Violation-Number: 1
+Duration-Millis: 401
+
+android.os.strictmode.ResourceMismatchViolation: TypedValue{t=0x1/d=0x103003f a=1 r=0x103003f}
+	at android.os.StrictMode$AndroidBlockGuardPolicy.onResourceMismatch(StrictMode.java:1482)
+	at android.os.StrictMode.noteResourceMismatch(StrictMode.java:2341)
+	at android.content.res.TypedArray.getBoolean(TypedArray.java:343)
+	at com.android.internal.widget.SwipeDismissLayout.init(SwipeDismissLayout.java:117)
+	at com.android.internal.widget.SwipeDismissLayout.<init>(SwipeDismissLayout.java:103)
+	at java.lang.reflect.Constructor.newInstance0(Native Method)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:343)
+	at android.view.LayoutInflater.createView(LayoutInflater.java:647)
+	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:790)
+	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:730)
+	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+	at android.view.LayoutInflater.inflate(LayoutInflater.java:423)
+	at android.view.LayoutInflater.inflate(LayoutInflater.java:374)
+	at com.android.internal.policy.DecorView.onResourcesLoaded(DecorView.java:1885)
+	at com.android.internal.policy.PhoneWindow.generateLayout(PhoneWindow.java:2599)
+	at com.android.internal.policy.PhoneWindow.installDecor(PhoneWindow.java:2672)
+	at com.android.internal.policy.PhoneWindow.getDecorView(PhoneWindow.java:2071)
+	at com.android.nfc.beam.SendUi.<init>(SendUi.java:310)
+	at com.android.nfc.P2pEventManager.<init>(P2pEventManager.java:65)
+	at com.android.nfc.P2pLinkManager.<init>(P2pLinkManager.java:273)
+	at com.android.nfc.NfcService.<init>(NfcService.java:432)
+	at com.android.nfc.NfcApplication.onCreate(NfcApplication.java:66)
+	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1154)
+	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:5882)
+	at android.app.ActivityThread.access$1100(ActivityThread.java:200)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1651)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loop(Looper.java:193)
+	at android.app.ActivityThread.main(ActivityThread.java:6680)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:493)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:858)
+
+TypedValue{t=0x1/d=0x103003f a=1 r=0x103003f}

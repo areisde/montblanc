@@ -1,0 +1,21 @@
+Process: unknown
+Build: mbs/coralia/coralia:9/PXEB.210208.001/7132669:userdebug/dev-keys
+System-App: true
+Uptime-Millis: 54223
+Loop-Violation-Number: 2
+Duration-Millis: 21774
+
+android.os.strictmode.DiskReadViolation
+	at android.os.StrictMode$AndroidBlockGuardPolicy.onReadFromDisk(StrictMode.java:1504)
+	at java.io.UnixFileSystem.getLastModifiedTime(UnixFileSystem.java:258)
+	at java.io.File.lastModified(File.java:939)
+	at com.android.server.am.ActivityManagerService.maybePruneOldTraces(ActivityManagerService.java:6283)
+	at com.android.server.am.ActivityManagerService.dumpStackTraces(ActivityManagerService.java:6227)
+	at com.android.server.am.AppErrors.appNotResponding(AppErrors.java:1033)
+	at com.android.server.am.ActivityManagerService$16.run(ActivityManagerService.java:14021)
+	at android.os.Handler.handleCallback(Handler.java:873)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loop(Looper.java:193)
+	at android.os.HandlerThread.run(HandlerThread.java:65)
+	at com.android.server.ServiceThread.run(ServiceThread.java:44)
+

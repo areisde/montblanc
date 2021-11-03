@@ -1,0 +1,25 @@
+Process: com.montblanc.smartwatch.stopwatch
+PID: 4648
+Flags: 0x20c8be45
+Package: com.montblanc.smartwatch.stopwatch v44 (2.1.18)
+Foreground: No
+Build: mbs/coralia/coralia:9/PXEB.210208.001/7132669:userdebug/dev-keys
+
+java.lang.RuntimeException: Unable to start receiver de.zuhanden.smartwatch.stopwatch.DataTimeChangedBroadcastReceiver: java.lang.IllegalStateException: Not allowed to start service Intent { act=DOSINGLEUPDATE cmp=com.montblanc.smartwatch.stopwatch/de.zuhanden.smartwatch.stopwatch.StopwatchProvider }: app is in background uid UidRecord{131a1ab u0a20 RCVR idle change:uncached procs:1 seq(0,0,0)}
+	at android.app.ActivityThread.handleReceiver(ActivityThread.java:3389)
+	at android.app.ActivityThread.access$1200(ActivityThread.java:200)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1662)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loop(Looper.java:193)
+	at android.app.ActivityThread.main(ActivityThread.java:6680)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:493)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:858)
+Caused by: java.lang.IllegalStateException: Not allowed to start service Intent { act=DOSINGLEUPDATE cmp=com.montblanc.smartwatch.stopwatch/de.zuhanden.smartwatch.stopwatch.StopwatchProvider }: app is in background uid UidRecord{131a1ab u0a20 RCVR idle change:uncached procs:1 seq(0,0,0)}
+	at android.app.ContextImpl.startServiceCommon(ContextImpl.java:1577)
+	at android.app.ContextImpl.startService(ContextImpl.java:1532)
+	at android.content.ContextWrapper.startService(ContextWrapper.java:664)
+	at android.content.ContextWrapper.startService(ContextWrapper.java:664)
+	at de.zuhanden.smartwatch.stopwatch.DataTimeChangedBroadcastReceiver.onReceive(Unknown Source:61)
+	at android.app.ActivityThread.handleReceiver(ActivityThread.java:3380)
+	... 8 more

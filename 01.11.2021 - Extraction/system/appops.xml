@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<app-ops v="1">
+<uid n="1001">
+<op n="15" m="0" />
+</uid>
+<pkg n="com.android.phone">
+<uid n="0" p="false">
+<op n="75" m="0" />
+</uid>
+</pkg>
+<pkg n="android">
+<uid n="1000" p="true">
+<op n="0" tp="1635967924339" pu="0" />
+<op n="1" tp="1635889353578" pu="0" />
+<op n="8" tp="1635868645337" pu="0" pp="com.android.providers.calendar" />
+<op n="24" tp="1635925261958" d="4383172" />
+<op n="40" tp="1635967928817" d="15" />
+<op n="41" tp="1612819237790" d="70891795" />
+<op n="43" rp="1635967924758" />
+<op n="61" tp="1635939471619" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.apps.wearable.settings">
+<uid n="1000" p="true">
+<op n="27" tp="1612819223322" pu="0" />
+<op n="59" tp="1635967924507" pu="0" />
+<op n="60" tp="1635967924507" pu="0" />
+<op n="63" tp="1635967927786" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.apps.wearable.bluetooth">
+<uid n="1000" p="true">
+<op n="59" tp="1635869215919" pu="0" />
+<op n="60" tp="1635869215919" pu="0" />
+<op n="63" tp="1635939472904" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.oma.sub">
+<uid n="1000" p="true">
+<op n="59" tp="1612819256743" pu="0" />
+<op n="60" tp="1612819256743" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.server.telecom">
+<uid n="1000" p="true">
+<op n="6" tp="1612819266859" pu="0" pp="com.android.providers.userdictionary" />
+</uid>
+</pkg>
+<pkg n="com.android.keychain">
+<uid n="1000" p="false">
+<op n="59" tp="1612819243215" pu="0" />
+<op n="60" tp="1612819243215" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.wearable.ambient">
+<uid n="1000" p="true">
+<op n="40" tp="1635931568406" d="1201" />
+<op n="61" tp="1635939464541" pu="0" />
+<op n="63" tp="1635868682974" pu="0" />
+<op n="76" tp="1612819242312" d="70887277" />
+</uid>
+</pkg>
+<pkg n="com.oma.dm">
+<uid n="1000" p="true">
+<op n="59" tp="1635891673893" pu="0" />
+<op n="60" tp="1635891673893" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.qti.diagservices">
+<uid n="1000" p="false">
+<op n="59" tp="1612819265999" pu="0" />
+<op n="60" tp="1612819265999" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.qualcomm.qti.sidekickmetrics">
+<uid n="1000" p="true">
+<op n="59" tp="1635967924470" pu="0" />
+<op n="60" tp="1635967924470" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.qualcomm.qti.operationmeasurement">
+<uid n="1000" p="true">
+<op n="27" tp="1635967923642" pu="0" />
+<op n="59" tp="1635868683869" pu="0" />
+<op n="60" tp="1635868683869" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.providers.telephony">
+<uid n="1001" p="true">
+<op n="15" m="0" />
+</uid>
+</pkg>
+<pkg n="com.android.mms.service">
+<uid n="1001" p="true">
+<op n="15" m="0" />
+</uid>
+</pkg>
+<pkg n="com.qualcomm.qti.telephonyservice">
+<uid n="1001" p="false">
+<op n="59" tc="1635967924467" pu="0" />
+<op n="60" tc="1635967924467" pu="0" />
+</uid>
+</pkg>
+<pkg n="org.codeaurora.ims">
+<uid n="1001" p="false">
+<op n="40" tp="1635967927528" d="16" />
+</uid>
+</pkg>
+<pkg n="com.qualcomm.qcrilmsgtunnel">
+<uid n="1001" p="true">
+<op n="59" tp="1612819238522" pu="0" />
+<op n="60" tp="1612819238522" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.phone">
+<uid n="1001" p="true">
+<op n="14" tp="1635868792687" />
+<op n="15" m="0" tp="1635967928871" pu="0" />
+<op n="40" tp="1635967929438" d="9" />
+<op n="59" tc="1635967924469" pu="0" />
+<op n="60" tc="1635967924469" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.bluetooth">
+<uid n="1002" p="false">
+<op n="15" m="0" />
+<op n="40" tp="1635967926651" tb="1635917321057" d="4" />
+<op n="43" rp="1635967926596" />
+<op n="59" tp="1635920856587" tc="1635967923935" pu="0" />
+<op n="60" tp="1635920856587" tc="1635967923935" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.nfc">
+<uid n="1027" p="false">
+<op n="40" tp="1635939471725" d="7" />
+<op n="59" tp="1612819240646" tc="1612819239882" pu="0" />
+<op n="60" tp="1612819240646" tc="1612819239882" pu="0" />
+</uid>
+</pkg>
+<pkg n="audioserver">
+<uid n="1041" p="false">
+<op n="40" tc="1635967929525" d="3001" />
+</uid>
+</pkg>
+<pkg n="com.android.se">
+<uid n="1068" p="false">
+<op n="59" tc="1612819239891" pu="0" />
+<op n="60" tc="1612819239891" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.montblanc.smartwatch.configurator.boheme.date">
+<uid n="10001" p="true">
+<op n="59" tc="1635868985746" pu="0" />
+<op n="60" tc="1635868985746" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.partnersetup">
+<uid n="10002" p="true">
+<op n="59" tc="1635872287279" pu="0" />
+<op n="60" tc="1635872287279" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.montblanc.smart.watch.sportswatchface">
+<uid n="10004" p="true">
+<op n="59" tc="1635931421821" pu="0" />
+<op n="60" tc="1635931421821" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.ext.services">
+<uid n="10005" p="true">
+<op n="59" tc="1612819237830" pu="0" />
+<op n="60" tc="1612819237830" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.montblanc.smartwatch.cities">
+<uid n="10007" p="true">
+<op n="59" tc="1635869242489" pu="0" />
+<op n="60" tc="1635869242489" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.connectivity.metrics">
+<uid n="10008" p="true">
+<op n="59" tc="1635868703812" pu="0" />
+<op n="60" tc="1635868703812" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.apps.wearable.systemui">
+<uid n="10009" p="true">
+<op n="59" tc="1635967924125" pu="0" />
+<op n="60" tc="1635967924125" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.vending">
+<uid n="10010" p="true">
+<op n="40" tb="1635868780886" d="3313" />
+<op n="51" tt="1635868727651" tf="1635882465914" pu="0" />
+<op n="59" tt="1635868735687" tfs="1612819259969" tf="1635882466155" tc="1635882475522" pu="0" />
+<op n="60" tt="1635868735687" tfs="1612819259969" tf="1635882466155" tc="1635882475522" pu="0" />
+<op n="63" tt="1635868701876" tf="1635882466723" tb="1635868750968" pu="0" />
+<op n="76" tt="1635868711700" tfs="1635868712055" tf="1635868711702" d="355" />
+</uid>
+</pkg>
+<pkg n="com.google.android.apps.fitness">
+<uid n="10012" p="true">
+<op n="59" tc="1612819256075" pu="0" />
+<op n="60" tc="1612819256076" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.providers.media">
+<uid n="10014" p="true">
+<op n="23" rb="1612819294567" />
+<op n="40" tb="1635868658867" d="39032" />
+</uid>
+</pkg>
+<pkg n="com.android.providers.downloads">
+<uid n="10014" p="true">
+<op n="59" tfs="1612819265794" tb="1635882466640" tc="1635882466232" pu="0" />
+<op n="60" tfs="1612819265794" tb="1635882466640" tc="1635882466232" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.packageinstaller">
+<uid n="10016" p="true">
+<op n="59" tc="1635882524350" pu="0" />
+<op n="60" tc="1635882524350" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.providers.userdictionary">
+<uid n="10017" p="true">
+<op n="4" tc="1612819252830" />
+<op n="6" tf="1612819266859" tc="1612819248413" />
+<op n="7" tc="1612819248630" />
+<op n="59" tc="1612819245203" pu="0" />
+<op n="60" tc="1612819245203" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.providers.contacts">
+<uid n="10017" p="true">
+<op n="4" tb="1635868812185" tc="1635868823385" />
+<op n="6" tb="1635869227314" />
+<op n="7" tb="1635869227350" />
+<op n="59" tc="1635869226818" pu="0" />
+<op n="60" tc="1635869226818" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.managedprovisioning">
+<uid n="10018" p="true">
+<op n="59" tc="1612819256595" pu="0" />
+<op n="60" tc="1612819256595" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.euicc.wear">
+<uid n="10019" p="true">
+<op n="59" tc="1612819240196" pu="0" />
+<op n="60" tc="1612819240196" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.montblanc.smartwatch.stopwatch">
+<uid n="10020" p="true">
+<op n="59" tc="1635868695260" pu="0" />
+<op n="60" tc="1635868695260" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.googlequicksearchbox">
+<uid n="10021" p="true">
+<op n="59" tc="1612819264366" pu="0" />
+<op n="60" tc="1612819264366" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.apps.walletnfcrel">
+<uid n="10023" p="true">
+<op n="40" tb="1635868768182" tc="1635868751673" d="20" />
+<op n="59" tc="1635868672016" pu="0" />
+<op n="60" tc="1635868672016" pu="0" />
+<op n="63" tb="1635868768152" tc="1635869202289" pu="0" />
+</uid>
+</pkg>
+<pkg n="travel.smartwatch.montblanc.com.travelapp">
+<uid n="10024" p="true">
+<op n="59" tc="1612819270658" pu="0" />
+<op n="60" tc="1612819270658" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.providers.calendar">
+<uid n="10025" p="true">
+<op n="8" tf="1635868645337" tb="1635933410817" tc="1612819260504" />
+<op n="9" tb="1612819275168" />
+<op n="40" tb="1612819275305" tc="1612819275304" d="317" />
+<op n="59" tc="1635890387138" pu="0" />
+<op n="60" tc="1635890387138" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.montblanc.smartwatch.configurator.summit">
+<uid n="10027" p="true">
+<op n="59" tc="1635868687077" pu="0" />
+<op n="60" tc="1635868687077" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.jeremysteckling.facerrel">
+<uid n="10029" p="true">
+<op n="40" tb="1635868694106" tc="1635868694105" d="4536" />
+<op n="59" tc="1635868687091" pu="0" />
+<op n="60" tc="1635868687091" pu="0" />
+</uid>
+</pkg>
+<pkg n="fitness.smartwatch.montblanc.com.fitness">
+<uid n="10030" p="true">
+<op n="59" tc="1612819267617" pu="0" />
+<op n="60" tc="1612819267617" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.wearable.setupwizard">
+<uid n="10032" p="true">
+<op n="35" tt="1612819240303" pu="0" />
+<op n="36" tt="1612819240244" pu="0" />
+<op n="37" tt="1612819240274" pu="0" />
+<op n="40" tt="1635868715806" d="1" />
+<op n="59" tc="1612819225026" pu="0" />
+<op n="60" tc="1612819225026" pu="0" />
+<op n="61" tt="1635868692962" pu="0" />
+<op n="76" tt="1635868712100" d="1666" />
+</uid>
+</pkg>
+<pkg n="com.montblanc.smartwatch.alarmclock">
+<uid n="10033" p="true">
+<op n="59" tc="1635894001177" pu="0" />
+<op n="60" tc="1635894001177" pu="0" />
+<op n="63" tb="1635868695229" tc="1635894001175" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.gms">
+<uid n="10034" p="true">
+<op n="0" tt="1635868810400" tfs="1612819261984" tf="1635889353227" pu="0" />
+<op n="1" tt="1635868820742" pu="0" />
+<op n="4" tt="1635868812186" tfs="1612819257654" pu="0" pp="com.android.providers.contacts" />
+<op n="10" tt="1635868810400" tf="1635889353227" pu="0" />
+<op n="40" tt="1635868813720" tfs="1635889353382" tf="1635889353312" d="159" />
+<op n="43" rt="1635934239363" rfs="1635889884637" rf="1635939472937" />
+<op n="59" tt="1635931425058" tf="1635868679005" tc="1635967925681" pu="0" />
+<op n="60" tt="1635931425058" tf="1635868679005" tc="1635967925681" pu="0" />
+<op n="71" tt="1635868666838" tf="1635868729512" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.gsf">
+<uid n="10034" p="true">
+<op n="59" tt="1612819249994" pu="0" />
+<op n="60" tt="1612819249994" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.apps.wearable.phone">
+<uid n="10036" p="true">
+<op n="59" tc="1635869227371" pu="0" />
+<op n="60" tc="1635869227371" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.android.cellbroadcastreceiver">
+<uid n="10037" p="true">
+<op n="59" tc="1612819251464" pu="0" />
+<op n="60" tc="1612819251464" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.montblanc.smartwatch.toolbox">
+<uid n="10038" p="true">
+<op n="40" tt="1635882462797" tfs="1635925263513" d="16" />
+<op n="59" tfs="1635925262886" tc="1635882460600" pu="0" />
+<op n="60" tfs="1635925262886" tc="1635882460600" pu="0" />
+<op n="76" tt="1635882484038" tfs="1635925263373" tb="1635882484043" tc="1635925262981" d="42779336" />
+</uid>
+</pkg>
+<pkg n="com.montblanc.smartwatch.configurator.chrono390">
+<uid n="10044" p="true">
+<op n="59" tc="1635869143505" pu="0" />
+<op n="60" tc="1635869143505" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.wearos.lc.setupdefault">
+<uid n="10045" p="true">
+<op n="59" tc="1635868685962" pu="0" />
+<op n="60" tc="1635868685962" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.montblanc.smartwatch.configurator.energy">
+<uid n="10046" p="true">
+<op n="59" tc="1635868742201" pu="0" />
+<op n="60" tc="1635868742201" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.wearable.app">
+<uid n="10049" p="true">
+<op n="0" />
+<op n="1" tt="1635938879229" pu="0" />
+<op n="2" tt="1635938884218" tf="1635917290526" d="4962" />
+<op n="3" tt="1635932333308" d="34" />
+<op n="4" tf="1612819252830" pu="0" pp="com.android.providers.userdictionary" />
+<op n="24" tt="1635932341202" d="1347" />
+<op n="40" tt="1635939470593" tf="1635903477290" d="2647" />
+<op n="41" tt="1635920855809" tf="1635920855809" d="70747727" />
+<op n="45" tt="1635869074808" d="4043" />
+<op n="59" tt="1635894912690" tc="1612819240209" pu="0" />
+<op n="60" tt="1635894912690" tc="1612819240209" pu="0" />
+<op n="61" tt="1635938841345" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.tts">
+<uid n="10053" p="false">
+<op n="59" tc="1612819241964" pu="0" />
+<op n="60" tc="1612819241964" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.qualcomm.atfwd">
+<uid n="10058" p="false">
+<op n="59" tc="1635868683479" pu="0" />
+<op n="60" tc="1635868683479" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.marvin.talkback">
+<uid n="10062" p="false">
+<op n="59" tc="1612819237869" pu="0" />
+<op n="60" tc="1612819237869" pu="0" />
+<op n="73" tc="1635967925968" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.inputmethod.latin">
+<uid n="10063" p="false">
+<op n="59" tc="1635967924096" pu="0" />
+<op n="60" tc="1635967924096" pu="0" />
+<op n="63" tb="1635868679860" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.google.android.apps.messaging">
+<uid n="10064" p="false">
+<op n="4" tb="1635868823385" pu="0" pp="com.android.providers.contacts" />
+<op n="14" tb="1635868792687" pu="0" pp="com.android.phone" />
+<op n="15" m="0" />
+<op n="40" tf="1635868676972" tb="1635869226716" d="411" />
+<op n="43" rb="1635868788167" />
+<op n="51" tb="1635868706835" pu="0" />
+<op n="59" tc="1612819277057" pu="0" />
+<op n="60" tc="1612819277057" pu="0" />
+</uid>
+</pkg>
+<pkg n="com.qualcomm.timeservice">
+<uid n="10066" p="false">
+<op n="40" tb="1635868696342" d="61" />
+<op n="59" tc="1635868695823" pu="0" />
+<op n="60" tc="1635868695823" pu="0" />
+</uid>
+</pkg>
+</app-ops>

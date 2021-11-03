@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="battery_low_postpone_update" value="false" />
+    <boolean name="is_sync_persist_data" value="true" />
+    <long name="DI_SDM_ALARM_TIME" value="1635968289898" />
+    <string name="server_auth_name">com.vzwdmserver</string>
+    <string name="server_port">443</string>
+    <string name="server_id">com.vzwdmserver</string>
+    <string name="server_addr">https://4g2.vzwdm.com</string>
+    <string name="DM_CONN_TIME_OUT">40</string>
+    <string name="server_uri">URI</string>
+    <string name="MAX_CONN_RETRY_TIMES">5</string>
+</map>

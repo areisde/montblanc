@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<settings version="169">
+  <setting id="133" name="hidden_api_access_log_sampling_rate" value="512" package="com.google.android.gms" />
+  <setting id="44" name="low_battery_sound_timeout" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="35" name="car_undock_sound" value="/system/media/audio/ui/Undock.ogg" package="android" defaultValue="/system/media/audio/ui/Undock.ogg" defaultSysSet="true" />
+  <setting id="178" name="Phenotype_boot_count" value="2" package="com.google.android.gms" />
+  <setting id="114" name="Phenotype_flags" value="alarm_manager_constants:alarm_manager_dummy_flags:always_on_display_constants:anomaly_config:anomaly_config_version:anomaly_detection_constants:app_idle_constants:app_standby_enabled:backup_agent_timeout_parameters:battery_stats_constants:battery_tip_constants:ble_scan_low_power_interval_ms:ble_scan_low_power_window_ms:blocking_helper_dismiss_to_view_ratio:blocking_helper_streak_limit:device_idle_constants:emergency_call_codes_data:gnss_satellite_blacklist:hidden_api_access_log_sampling_rate:hybrid_sysui_battery_warning_flags:job_scheduler_constants:location_background_throttle_interval_ms:network_watchlist_enabled:night_display_forced_auto_mode_available:notification_snooze_options:phenotype_test_setting:smart_replies_in_notifications_flags:sqlite_compatibility_wal_flags:sys_uidcpupower:text_classifier_constants:ungaze_sleep_enabled:zram_enabled" package="com.google.android.gms" />
+  <setting id="181" name="development_settings_enabled" value="1" package="com.google.android.apps.wearable.settings" defaultValue="1" defaultSysSet="true" />
+  <setting id="10" name="window_animation_scale" value="1.0" package="android" defaultValue="1.0" defaultSysSet="true" />
+  <setting id="147" name="_boot_Phenotype_flags" value="" package="com.google.android.gms" />
+  <setting id="124" name="battery_stats_constants" value="track_cpu_times_by_proc_state=false" package="com.google.android.gms" />
+  <setting id="129" name="blocking_helper_streak_limit" package="com.google.android.gms" />
+  <setting id="171" name="multi_sim_data_call" value="-1" package="com.android.phone" defaultValue="-1" defaultSysSet="true" />
+  <setting id="58" name="show_zen_settings_suggestion" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="103" name="verifier_timeout" value="17000" package="com.google.android.gsf" />
+  <setting id="130" name="device_idle_constants" value="light_after_inactive_to=180000,light_pre_idle_to=180000," package="com.google.android.gms" />
+  <setting id="79" name="mode_ringer" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="39" name="default_install_location" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="24" name="wifi_display_on" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="47" name="device_name" value="Summit 2+" package="android" defaultValue="Summit 2+" defaultSysSet="true" />
+  <setting id="93" name="wifi_networks_available_notification_on" value="0" package="com.google.android.apps.wearable.settings" defaultValue="0" defaultSysSet="true" />
+  <setting id="172" name="zen_settings_updated" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="127" name="ble_scan_low_power_window_ms" value="512" package="com.google.android.gms" />
+  <setting id="31" name="dock_sounds_enabled_when_accessbility" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="166" name="bluetooth_on" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="89" name="low_power_trigger_level" value="0" package="com.google.android.apps.wearable.settings" defaultValue="0" defaultSysSet="true" />
+  <setting id="176" name="text_classifier_constants" value="generate_links_max_text_length=10000" package="com.google.android.gsf" />
+  <setting id="20" name="mobile_data" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="157" name="network_watchlist_last_report_time" value="1635894000000" package="android" defaultValue="1635894000000" defaultSysSet="true" />
+  <setting id="48" name="database_creation_buildid" value="PXEB.210208.001" package="android" defaultValue="PXEB.210208.001" defaultSysSet="true" />
+  <setting id="40" name="emergency_tone" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="99" name="network_watchlist_db_content_url" value="https://www.gstatic.com/android/config_update/16072019-network-watchlist-content.txt" package="com.google.android.gsf" />
+  <setting id="100" name="cert_pin_content_url" value="https://www.gstatic.com/android/config_update/08202014-pins.txt" package="com.google.android.gsf" />
+  <setting id="56" name="max_sound_trigger_detection_service_ops_per_day" value="1000" package="android" defaultValue="1000" defaultSysSet="true" />
+  <setting id="49" name="add_users_when_locked" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="37" name="dock_audio_media_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="119" name="anomaly_config_version" value="10" package="com.google.android.gms" />
+  <setting id="131" name="emergency_call_codes_data" package="com.google.android.gms" />
+  <setting id="73" name="adb_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="27" name="trusted_sound" value="/system/media/audio/ui/Trusted.ogg" package="android" defaultValue="/system/media/audio/ui/Trusted.ogg" defaultSysSet="true" />
+  <setting id="26" name="unlock_sound" value="/system/media/audio/ui/Unlock.ogg" package="android" defaultValue="/system/media/audio/ui/Unlock.ogg" defaultSysSet="true" />
+  <setting id="2" name="airplane_mode_radios" value="cell,bluetooth,wifi,nfc,wimax" package="android" defaultValue="cell,bluetooth,wifi,nfc,wimax" defaultSysSet="true" />
+  <setting id="23" name="wifi_max_dhcp_retry_count" value="9" package="android" defaultValue="9" defaultSysSet="true" />
+  <setting id="3" name="airplane_mode_toggleable_radios" value="bluetooth,wifi,nfc" package="android" defaultValue="bluetooth,wifi,nfc" defaultSysSet="true" />
+  <setting id="146" name="zram_enabled" value="1" package="com.google.android.gms" />
+  <setting id="46" name="heads_up_notifications_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="72" name="low_power" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="135" name="job_scheduler_constants" value="" package="com.google.android.gms" />
+  <setting id="61" name="charging_vibration_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="105" name="sms_short_codes_metadata_url" value="https://www.gstatic.com/android/config_update/06022021-sms-metadata.txt" package="com.google.android.gsf" />
+  <setting id="78" name="zen_mode_ringer_level" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="42" name="preferred_network_mode" value="9" package="android" defaultValue="9" defaultSysSet="true" />
+  <setting id="50" name="bluetooth_disabled_profiles" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="138" name="night_display_forced_auto_mode_available" value="0" package="com.google.android.gms" />
+  <setting id="107" name="send_action_app_error" value="1" package="com.google.android.gsf" />
+  <setting id="134" name="hybrid_sysui_battery_warning_flags" value="" package="com.google.android.gms" />
+  <setting id="33" name="desk_undock_sound" value="/system/media/audio/ui/Undock.ogg" package="android" defaultValue="/system/media/audio/ui/Undock.ogg" defaultSysSet="true" />
+  <setting id="55" name="zen_duration" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="86" name="cw_companion_mccmnc" value="2282" package="com.google.android.wearable.app" />
+  <setting id="53" name="mobile_data_always_on" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="132" name="gnss_satellite_blacklist" value="" package="com.google.android.gms" />
+  <setting id="8" name="wifi_sleep_policy" value="2" package="android" defaultValue="2" defaultSysSet="true" />
+  <setting id="30" name="dock_sounds_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="94" name="charging_sounds_enabled" value="0" package="com.google.android.apps.wearable.settings" defaultValue="0" defaultSysSet="true" />
+  <setting id="45" name="wifi_scan_always_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="69" name="network_recommendations_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="117" name="always_on_display_constants" package="com.google.android.gms" />
+  <setting id="142" name="sqlite_compatibility_wal_flags" value="" package="com.google.android.gms" />
+  <setting id="101" name="smart_selection_metadata_url" value="https://www.gstatic.com/android/text_classifier/p/v611/fr.fb.metadata" package="com.google.android.gsf" />
+  <setting id="34" name="car_dock_sound" value="/system/media/audio/ui/Dock.ogg" package="android" defaultValue="/system/media/audio/ui/Dock.ogg" defaultSysSet="true" />
+  <setting id="75" name="text_message_twinning_state" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="57" name="sound_trigger_detection_service_op_timeout" value="15000" package="android" defaultValue="15000" defaultSysSet="true" />
+  <setting id="116" name="alarm_manager_dummy_flags" package="com.google.android.gms" />
+  <setting id="28" name="power_sounds_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="7" name="stay_on_while_plugged_in" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="136" name="location_background_throttle_interval_ms" value="600000" package="com.google.android.gms" />
+  <setting id="97" name="network_watchlist_db_metadata_url" value="https://www.gstatic.com/android/config_update/16072019-network-watchlist-metadata.txt" package="com.google.android.gsf" />
+  <setting id="76" name="clockwork_sysui_package" value="com.google.android.wearable.app" package="com.google.android.apps.wearable.settings" defaultValue="com.google.android.wearable.app" defaultSysSet="true" />
+  <setting id="111" name="package_verifier_user_consent" value="0" package="com.android.vending" />
+  <setting id="126" name="ble_scan_low_power_interval_ms" value="10240" package="com.google.android.gms" />
+  <setting id="165" name="zen_mode_config_etag" value="-1991396725" package="android" defaultValue="-1991396725" defaultSysSet="true" />
+  <setting id="38" name="set_install_location" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="98" name="network_scoring_ui_enabled" value="1" package="com.google.android.gsf" />
+  <setting id="63" name="zen_mode" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="120" name="anomaly_detection_constants" package="com.google.android.gms" />
+  <setting id="11" name="transition_animation_scale" value="1.0" package="android" defaultValue="1.0" defaultSysSet="true" />
+  <setting id="139" name="notification_snooze_options" package="com.google.android.gms" />
+  <setting id="88" name="multi_cb" value="1" package="com.google.android.gms" />
+  <setting id="16" name="cell_on" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="121" name="app_idle_constants" value="" package="com.google.android.gms" />
+  <setting id="18" name="data_roaming" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="115" name="alarm_manager_constants" value="" package="com.google.android.gms" />
+  <setting id="12" name="package_verifier_enable" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="102" name="smart_selection_content_url" value="https://www.gstatic.com/android/text_classifier/p/v611/fr.fb" package="com.google.android.gsf" />
+  <setting id="90" name="theater_mode_on" value="0" package="com.google.android.apps.wearable.settings" defaultValue="0" defaultSysSet="true" />
+  <setting id="17" name="cdma_cell_broadcast_sms" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="128" name="blocking_helper_dismiss_to_view_ratio" package="com.google.android.gms" />
+  <setting id="145" name="ungaze_sleep_enabled" value="1" package="com.google.android.gms" />
+  <setting id="0" name="airplane_mode_on" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="60" name="zen_settings_suggestion_viewed" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="52" name="default_restrict_background_data" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="29" name="low_battery_sound" value="/system/media/audio/ui/LowBattery.ogg" package="android" defaultValue="/system/media/audio/ui/LowBattery.ogg" defaultSysSet="true" />
+  <setting id="140" name="phenotype_test_setting" value="V15AboveDefault" package="com.google.android.gms" />
+  <setting id="137" name="network_watchlist_enabled" value="" package="com.google.android.gms" />
+  <setting id="21" name="netstats_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="51" name="wifi_wakeup_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="122" name="app_standby_enabled" value="1" package="com.google.android.gms" />
+  <setting id="108" name="cert_pin_metadata_url" value="https://www.gstatic.com/android/config_update/08202014-metadata.txt" package="com.google.android.gsf" />
+  <setting id="74" name="call_twinning_state" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="77" name="clockwork_sysui_main_activity" value="com.google.android.clockwork.home2.activity.HomeActivity2" package="com.google.android.apps.wearable.settings" defaultValue="com.google.android.clockwork.home2.activity.HomeActivity2" defaultSysSet="true" />
+  <setting id="43" name="subscription_mode" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="106" name="sms_short_codes_content_url" value="https://www.gstatic.com/android/config_update/06022021-sms-blacklist.txt" package="com.google.android.gsf" />
+  <setting id="4" name="assisted_gps_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="141" name="smart_replies_in_notifications_flags" value="enabled=true,max_squeeze_remeasure_attempts=3,requires_targeting_p=true" package="com.google.android.gms" />
+  <setting id="25" name="lock_sound" value="/system/media/audio/ui/Lock.ogg" package="android" defaultValue="/system/media/audio/ui/Lock.ogg" defaultSysSet="true" />
+  <setting id="6" name="auto_time_zone" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="180" name="wifi_on" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="54" name="wireless_charging_started_sound" value="/system/media/audio/ui/ChargingStarted.ogg" package="android" defaultValue="/system/media/audio/ui/ChargingStarted.ogg" defaultSysSet="true" />
+  <setting id="110" name="device_provisioned" value="1" package="com.google.android.wearable.setupwizard" defaultValue="1" defaultSysSet="true" />
+  <setting id="118" name="anomaly_config" value="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" package="com.google.android.gms" />
+  <setting id="67" name="emergency_affordance_needed" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="125" name="battery_tip_constants" value="app_restriction_enabled=true" package="com.google.android.gms" />
+  <setting id="92" name="captive_portal_mode" value="2" package="com.google.android.apps.wearable.settings" defaultValue="2" defaultSysSet="true" />
+  <setting id="5" name="auto_time" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="109" name="autofill_compat_mode_allowed_packages" value="com.android.chrome[url_bar]:com.brave.browser[url_bar]:com.brave.browser_beta[url_bar]:com.brave.browser_nightly[url_bar]:com.chrome.beta[url_bar]:com.chrome.dev[url_bar]:com.chrome.canary[url_bar]:com.microsoft.emmx[url_bar]:com.opera.browser[url_field]:com.opera.browser.beta[url_bar]:com.opera.mini.native[url_bar]:com.opera.mini.native.beta[url_bar]:com.sec.android.app.sbrowser[location_bar_edit_text]:com.sec.android.app.sbrowser.beta[location_bar_edit_text]:org.mozilla.fennec_aurora[url_bar]:org.mozilla.firefox[url_bar]:org.mozilla.firefox_beta[url_bar]" package="com.google.android.gsf" />
+  <setting id="22" name="usb_mass_storage_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="143" name="sys_uidcpupower" value="" package="com.google.android.gms" />
+  <setting id="91" name="sys_storage_threshold_max_bytes" value="262144000" package="com.google.android.apps.wearable.settings" defaultValue="262144000" defaultSysSet="true" />
+  <setting id="41" name="call_auto_retry" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="83" name="audio_safe_volume_state" value="3" package="android" defaultValue="3" defaultSysSet="true" />
+  <setting id="174" name="boot_count" value="2" package="android" defaultValue="2" defaultSysSet="true" />
+  <setting id="32" name="desk_dock_sound" value="/system/media/audio/ui/Dock.ogg" package="android" defaultValue="/system/media/audio/ui/Dock.ogg" defaultSysSet="true" />
+  <setting id="123" name="backup_agent_timeout_parameters" value="" package="com.google.android.gms" />
+</settings>

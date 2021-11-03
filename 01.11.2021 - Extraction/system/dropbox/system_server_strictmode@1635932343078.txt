@@ -1,0 +1,35 @@
+Process: unknown
+Build: mbs/coralia/coralia:9/PXEB.210208.001/7132669:userdebug/dev-keys
+System-App: true
+Uptime-Millis: 3905932
+Loop-Violation-Number: 1
+Duration-Millis: 12
+
+android.os.strictmode.ResourceMismatchViolation: TypedValue{t=0x1/d=0x10301ae a=1 r=0x10301ae}
+	at android.os.StrictMode$AndroidBlockGuardPolicy.onResourceMismatch(StrictMode.java:1482)
+	at android.os.StrictMode.noteResourceMismatch(StrictMode.java:2341)
+	at android.content.res.TypedArray.getBoolean(TypedArray.java:343)
+	at com.android.internal.widget.SwipeDismissLayout.init(SwipeDismissLayout.java:117)
+	at com.android.internal.widget.SwipeDismissLayout.<init>(SwipeDismissLayout.java:103)
+	at java.lang.reflect.Constructor.newInstance0(Native Method)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:343)
+	at android.view.LayoutInflater.createView(LayoutInflater.java:647)
+	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:790)
+	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:730)
+	at android.view.LayoutInflater.inflate(LayoutInflater.java:492)
+	at android.view.LayoutInflater.inflate(LayoutInflater.java:423)
+	at android.view.LayoutInflater.inflate(LayoutInflater.java:374)
+	at com.android.internal.policy.DecorView.onResourcesLoaded(DecorView.java:1885)
+	at com.android.internal.policy.PhoneWindow.generateLayout(PhoneWindow.java:2599)
+	at com.android.internal.policy.PhoneWindow.installDecor(PhoneWindow.java:2672)
+	at com.android.internal.policy.PhoneWindow.getDecorView(PhoneWindow.java:2071)
+	at com.android.server.policy.PhoneWindowManager.addSplashScreen(PhoneWindowManager.java:3338)
+	at com.android.server.wm.SplashScreenStartingData.createStartingSurface(SplashScreenStartingData.java:56)
+	at com.android.server.wm.AppWindowContainerController$1.run(AppWindowContainerController.java:151)
+	at android.os.Handler.handleCallback(Handler.java:873)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loop(Looper.java:193)
+	at android.os.HandlerThread.run(HandlerThread.java:65)
+	at com.android.server.ServiceThread.run(ServiceThread.java:44)
+
+TypedValue{t=0x1/d=0x10301ae a=1 r=0x10301ae}

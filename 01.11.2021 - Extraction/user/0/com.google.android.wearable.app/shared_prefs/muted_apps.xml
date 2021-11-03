@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="key_muted_apps">
+        <string>com.android.calendar</string>
+        <string>com.google.android.calendar</string>
+    </set>
+</map>

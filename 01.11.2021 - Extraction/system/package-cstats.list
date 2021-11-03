@@ -1,0 +1,7 @@
+PACKAGE_MANAGER__COMPILER_STATS__1
+com.google.clockwork.wearqxdm
+-WearQXDM.apk:3148
+com.android.shell
+-ClockworkShell.apk:1146
+com.qualcomm.timeservice
+-TimeService.apk:240

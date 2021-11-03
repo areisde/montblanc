@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="launcherorder">Body Energy : fitness.smartwatch.montblanc.bodyresources.ui.activity.main.BodyResourcesActivity : fitness.smartwatch.montblanc.com.fitness&#10;    </string>
+    <string name="history">4&#10;Unified Sensor Test App : com.qualcomm.qti.usta.ui.UnifiedSensorTestActivity : com.qualcomm.qti.usta&#10;Paramètres : com.google.android.clockwork.settings.MainSettingsActivity : com.google.android.apps.wearable.settings&#10;Body Energy : fitness.smartwatch.montblanc.bodyresources.ui.activity.main.BodyResourcesActivity : fitness.smartwatch.montblanc.com.fitness&#10;Stress : fitness.smartwatch.montblanc.stress_new.ui.activity.main.StressActivity : fitness.smartwatch.montblanc.com.fitness&#10;    </string>
+</map>

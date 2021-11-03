@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="file.keyboard_def_cache_fd9c898d13d91ce7966fc066c8f3e5a5">
+        <string>metadata.package_version:1.0.1_100681</string>
+        <string>metadata.delete_on_package_upgrade:true</string>
+        <string>metadata.delete_on_os_upgrade:true</string>
+        <string>metadata.os_version:28_1612819213000</string>
+    </set>
+    <set name="file.keyboard_def_cache_51fc8fa647ce86d0dee456afb5390b8a">
+        <string>metadata.package_version:1.0.1_100681</string>
+        <string>metadata.delete_on_package_upgrade:true</string>
+        <string>metadata.delete_on_os_upgrade:true</string>
+        <string>metadata.os_version:28_1612819213000</string>
+    </set>
+    <set name="file.keyboard_def_cache_5c597c13aef6e3ac5896b95d90b4308f">
+        <string>metadata.package_version:1.0.1_100681</string>
+        <string>metadata.delete_on_package_upgrade:true</string>
+        <string>metadata.delete_on_os_upgrade:true</string>
+        <string>metadata.os_version:28_1612819213000</string>
+    </set>
+</map>

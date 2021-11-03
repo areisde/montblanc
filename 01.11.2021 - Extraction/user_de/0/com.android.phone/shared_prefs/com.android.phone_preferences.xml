@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="build_fingerprint">mbs/coralia/coralia:9/PXEB.210208.001/7132669:userdebug/dev-keys</string>
+    <int name="last_boot_count" value="2" />
+</map>

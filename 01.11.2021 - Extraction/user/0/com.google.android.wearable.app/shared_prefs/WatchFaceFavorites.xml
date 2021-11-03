@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="favorites">com.montblanc.smartwatch.configurator.summit/com.montblanc.smartwatch.configurator.watchface.ConfiguratorWatchfaceService com.montblanc.smartwatch.configurator.chrono390/com.montblanc.smartwatch.configurator.watchface.ConfiguratorWatchfaceService com.montblanc.smart.watch.sportswatchface/com.montblanc.smartwatch.sportswatchface.ui.SportsWatchService com.montblanc.smartwatch.configurator.boheme.date/com.montblanc.smartwatch.configurator.watchface.ConfiguratorWatchfaceService </string>
+    <string name="promoted">com.montblanc.smartwatch.configurator.summit/com.montblanc.smartwatch.configurator.watchface.ConfiguratorWatchfaceService com.montblanc.smartwatch.configurator.chrono390/com.montblanc.smartwatch.configurator.watchface.ConfiguratorWatchfaceService com.montblanc.smart.watch.sportswatchface/com.montblanc.smartwatch.sportswatchface.ui.SportsWatchService com.montblanc.smartwatch.configurator.boheme.date/com.montblanc.smartwatch.configurator.watchface.ConfiguratorWatchfaceService </string>
+    <boolean name="initializedPromoted" value="true" />
+</map>

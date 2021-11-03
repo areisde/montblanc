@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="phone_version_ok" value="true" />
+    <int name="PHONE_CONFIG" value="3" />
+    <int name="recipient_limit" value="2147483647" />
+</map>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <string name="com.android.providers.downloads">Gestionnaire de téléchargement</string>
-    <string name="com.montblanc.smartwatch.toolbox">Toolbox</string>
-    <string name="android">Système Android</string>
-    <string name="com.android.calendar">Agenda</string>
-    <string name="com.google.android.calendar">Agenda</string>
-</map>

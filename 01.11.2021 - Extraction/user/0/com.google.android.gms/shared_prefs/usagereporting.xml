@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <int name="OptInGMSCoreVersion" value="205016071" />
-    <boolean name="CbFromSetupWizard" value="false" />
-    <boolean name="OptInUsageReporting" value="true" />
-</map>

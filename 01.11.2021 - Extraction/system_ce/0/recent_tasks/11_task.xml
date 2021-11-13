@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<task task_id="11" real_activity="com.google.android.googlequicksearchbox/com.google.android.apps.gsa.binaries.clockwork.assistant.AssistantActivity" real_activity_suspended="false" affinity="com.google.android.googlequicksearchbox" root_has_reset="false" auto_remove_recents="false" asked_compat_mode="false" user_id="0" user_setup_complete="true" effective_uid="10021" last_time_moved="1635967998702" never_relinquish_identity="true" task_description_color="ff212121" task_affiliation_color="-14606047" task_affiliation="11" prev_affiliation="-1" next_affiliation="-1" calling_uid="1000" calling_package="android" resize_mode="1" supports_picture_in_picture="false" min_width="-1" min_height="-1" persist_task_version="1">
-<intent action="android.intent.action.VOICE_ASSIST" component="com.google.android.googlequicksearchbox/com.google.android.apps.gsa.binaries.clockwork.assistant.AssistantActivity" flags="10000000" />
-</task>
-

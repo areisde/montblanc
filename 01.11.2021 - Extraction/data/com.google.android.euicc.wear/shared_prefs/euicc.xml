@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <string name="cached_profile_info_json">{}</string>
-    <string name="embedded_sim_eid">89033023424110000000001751924558</string>
-    <boolean name="is_removable_esim_last_time" value="false" />
-</map>

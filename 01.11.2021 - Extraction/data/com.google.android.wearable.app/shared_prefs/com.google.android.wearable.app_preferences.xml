@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <long name="pref_max_gms_and_home_install_timestamp" value="911638" />
-    <boolean name="wet_mode_status" value="false" />
-    <boolean name="pref_suppress_get_watch_faces" value="false" />
-    <int name="oobe_version.OobeService" value="3" />
-    <boolean name="pref_key_paused_for_detail_view" value="false" />
-</map>

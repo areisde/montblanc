@@ -1,0 +1,21 @@
+# Test: Stationary_Bike_Interval - Fitzpatrick: Type II (White) - BMI: Normal (18.5 to 25)- Duration: 20 minutes - Time: 2020-09-11-09-06-05
+# MAE: 15.56 - Noise: 4.44 - ProbabilityOfError: 0.18 - Availability: 100.0%
+# mbs/icefish/icefish:9/PXE1.200905.002.DBW3.002/000098:userdebug/dev-keys
+seconds, wear, bluetooth, confidence
+0, 88, 70, 2
+1, 88, 70, 2
+2, 86, 70, 2
+3, 86, 69, 2
+4, 87, 69, 2
+5, 88, 68, 2
+6, 88, 68, 2
+7, 89, 68, 2
+8, 89, 70, 2
+9, 89, 71, 2
+10, 88, 72, 2
+11, 86, 74, 2
+12, 85, 75, 2
+13, 86, 76, 2
+14, 85, 77, 2
+15, 85, 77, 2
+16, 84, 77, 2

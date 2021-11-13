@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <string name="lm_download_metadata_uri_used">https://www.gstatic.com/android/keyboard/dictionarypack/Bayan/metadata.json</string>
-    <long name="lm_download_service_timestamp_millis" value="1635968217926" />
-</map>

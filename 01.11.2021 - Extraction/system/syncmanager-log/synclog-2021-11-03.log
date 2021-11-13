@@ -1,9 +1,0 @@
-2021-11-03 11:37:52.533 1686 JobStats: FirstLoad: 0/0/0 LastSave: 12/0/0
-2021-11-03 11:37:52.535 1686 Shutting down.
-2021-11-03 20:32:03.913 1679 Loaded 0 items
-2021-11-03 20:32:03.928 1679 Sync manager initialized: mbs/coralia/coralia:9/PXEB.210208.001/7132669:userdebug/dev-keys
-2021-11-03 20:32:04.460 1783 onStartUser: user=0
-2021-11-03 20:32:19.198 1783 onUnlockUser: user=0
-2021-11-03 20:32:19.983 1783 updateRunningAccountsH: []
-2021-11-03 20:32:19.985 1783 Loaded persisted syncs: 0 periodic syncs, 0 oneshot syncs, 5 total system server jobs, JobStats: FirstLoad: 12/0/0 LastSave: -1/-1/-1
-2021-11-03 20:36:49.274 1679 rescheduleSyncs() ep=ALL ACCS/ALL PDRS:u-1 why=network reconnect

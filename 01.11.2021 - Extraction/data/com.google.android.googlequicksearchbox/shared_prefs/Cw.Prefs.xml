@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <boolean name="Cw.Prefs.is_opa_enabled" value="false" />
-    <boolean name="Cw.Prefs.is_opa_eligible" value="false" />
-</map>

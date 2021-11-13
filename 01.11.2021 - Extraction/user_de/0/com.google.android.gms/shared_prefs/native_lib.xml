@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <long name="crc_lib/armeabi-v7a/libwearable-selector.so" value="1653953999" />
-    <long name="crc_lib/armeabi-v7a/libconscrypt_gmscore_jni.so" value="2551158977" />
-    <long name="crc_lib/armeabi-v7a/libleveldbjni.so" value="2070440729" />
-    <long name="crc_lib/armeabi-v7a/libinertial-anchor-jni.so" value="228826228" />
-    <long name="crc_lib/armeabi-v7a/libgmscore.so" value="3551793244" />
-</map>

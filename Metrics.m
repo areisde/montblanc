@@ -1,10 +1,11 @@
 %% Read csv file 
 clear all;
-T = readtable('DataPaper/user_2/Actigraph.csv');
+T = readtable('DataPaper/user_5/Actigraph.csv');
 
 %Extract Heart Rate and Acceleration magnitude
 HR = table2array(T(:,6));
 ACC_Mag = table2array(T(:,11));
+Hour_begin = T(1,13);
 
 
 %% Down sample
@@ -29,7 +30,7 @@ meanHR = mean(HR);
 stdHR = std(HR);
 meanAcc = mean(ACC_Mag);
 stdAcc = std(ACC_Mag);
-N = 3;
+N = 2;
 
 %Donnee superieur a moyenne + 2std, garde temps et valeur HR + ACC
 %StressValues -> Valeur 'anormales' et Timevalues correspondant
@@ -92,29 +93,34 @@ end
 
 X = Peaks_time(1,:);
 
-figure
-title('Mean HR value per stress period')
-xlabel('Time [s]')
-ylabel('HR')
-bar(X,Y1);
+% figure
+% title('Mean HR value per stress period')
+% xlabel('Time [s]')
+% ylabel('HR')
+% bar(X,Y1);
+% 
+% figure
+% bar(X,Y2);
+% title('Length of stress period ')
+% xlabel('Time [s]')
+% ylabel('Length [s]')
 
-figure
-bar(X,Y2);
-title('Length of stress period ')
-xlabel('Time [s]')
-ylabel('Length [s]')
+
 
 
     
 %% Write into excel
 
-%filename = 'HR.xlsx';
-%new_sheet = 'HR_R2';
+filename = 'Data-HR.xlsx';
+new_sheet1 = 'User1-HR';
+new_sheet2 = 'User1-Time';
+new_sheet3 = 'User1-Mean';
 
-%writematrix(HR_R,filename,'Sheet',new_sheet,'Range','B2');
-%writematrix(ACC_mag_R,filename,'Sheet',new_sheet,'Range','C2');
+writematrix(Peaks_HR,filename,'Sheet',new_sheet1,'Range','B2');
+writematrix(X,filename,'Sheet',new_sheet3,'Range','B4');
+writematrix(Y1,filename,'Sheet',new_sheet3,'Range','B2');
+writematrix(Y2,filename,'Sheet',new_sheet3,'Range','B3');
+writetable(Hour_begin,filename,'Sheet',new_sheet3,'Range','B6');
 
-%writematrix(Filter_HR,filename,'Sheet',new_sheet,'Range','E2');
-%writematrix(Filter_Acc,filename,'Sheet',new_sheet,'Range','F2');
 
 

@@ -1,4 +1,4 @@
 com.samsung.health.exercise,1144003,15
 count_type,update_time,decline_distance,end_time,additional,max_rpm,pkg_name,mean_cadence,custom,duration,comment,mean_power,location_data,mean_caloricburn_rate,create_time,altitude_loss,mean_rpm,distance,max_power,count,max_cadence,altitude_gain,max_altitude,exercise_custom_type,vo2_max,datauuid,max_caloricburn_rate,max_heart_rate,mean_speed,max_speed,start_time,calorie,mean_heart_rate,live_data,min_heart_rate,min_altitude,incline_distance,exercise_type,deviceuuid,time_offset
-30001,28.11.2021 à 13:46:56,0.000000,28.11.2021 à 13:46:56,,,com.sec.android.app.shealth,,,10015,,,,,28.11.2021 à 13:46:45,0.000000,,0.000000,,0,,0.000000,-1000.000000,,,4966676e-f66a-4457-9d53-47f10ed0befd,,,0.000000,0.000000,28.11.2021 à 13:46:45,0.000000,,,,-1000.000000,0.000000,1001,NS2ZoYjFXt,3600000,
+30001,28.11.2021 à 22:12:26,0.000000,28.11.2021 à 22:12:26,,,com.sec.android.app.shealth,,,10466957,,,,,28.11.2021 à 13:46:45,0.000000,,0.000000,,291,,0.000000,-1000.000000,,,4966676e-f66a-4457-9d53-47f10ed0befd,,,0.000000,1.202917,28.11.2021 à 13:46:45,1.000000,,,,-1000.000000,0.000000,1001,NS2ZoYjFXt,3600000,
 

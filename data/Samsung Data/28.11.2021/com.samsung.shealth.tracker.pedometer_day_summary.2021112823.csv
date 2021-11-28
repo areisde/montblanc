@@ -1,0 +1,6 @@
+com.samsung.shealth.tracker.pedometer_day_summary,1144003,5
+day_time,speed,update_time,pkg_name,source_info,source_package_name,walk_step_count,binning_data,active_time,achievement,healthy_step,calorie,recommendation,datauuid,deviceuuid,distance,create_time,run_step_count,step_count
+1638057600000,2.504554,28.11.2021 à 22:12:28,com.sec.android.app.shealth,,com.sec.android.app.shealth,1202,6d9f4bbb-65e3-450c-9440-e653711c27f6.binning_data,620963,6d9f4bbb-65e3-450c-9440-e653711c27f6.achievement,0,41.290001,6000,6d9f4bbb-65e3-450c-9440-e653711c27f6,3hCrv0rpUB,919.679993,28.11.2021 à 14:03:04,0,1202,
+1638057600000,1.380408,28.11.2021 à 22:12:28,com.sec.android.app.shealth,,com.sec.android.app.shealth,1278,9fe21f57-d49a-4443-b953-993e19d4f3b6.binning_data,704276,9fe21f57-d49a-4443-b953-993e19d4f3b6.achievement,0,44.525208,6000,9fe21f57-d49a-4443-b953-993e19d4f3b6,VfS0qUERdZ,972.189026,28.11.2021 à 14:03:04,0,1278,
+1638057600000,1.839353,28.11.2021 à 22:12:28,com.sec.android.app.shealth,,com.sec.android.app.shealth,726,0c9216d3-d9af-4056-86dd-91c98a4368a2.binning_data,477000,0c9216d3-d9af-4056-86dd-91c98a4368a2.achievement,0,26.556728,6000,0c9216d3-d9af-4056-86dd-91c98a4368a2,NS2ZoYjFXt,549.919983,28.11.2021 à 14:14:21,0,726,
+

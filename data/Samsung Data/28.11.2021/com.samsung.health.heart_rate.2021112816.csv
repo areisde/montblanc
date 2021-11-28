@@ -1,7 +1,0 @@
-com.samsung.health.heart_rate,1144003,8
-pkg_name,heart_beat_count,time_offset,binning_data,max,heart_rate,comment,start_time,deviceuuid,custom,end_time,datauuid,create_time,update_time,min
-com.sec.android.app.shealth,1,3600000,0e6c83a8-0603-2f81-2759-1b053c8e36d3.binning_data,94.000000,83.000000,,28.11.2021 à 13:00:00,3hCrv0rpUB,,28.11.2021 à 13:59:59,0e6c83a8-0603-2f81-2759-1b053c8e36d3,28.11.2021 à 14:02:57,28.11.2021 à 14:34:23,74.000000,
-com.sec.android.app.shealth,1,3600000,6993dda4-3b5b-ce06-4184-18db6543ab25.binning_data,107.000000,80.000000,,28.11.2021 à 14:00:00,3hCrv0rpUB,,28.11.2021 à 14:59:59,6993dda4-3b5b-ce06-4184-18db6543ab25,28.11.2021 à 15:08:22,28.11.2021 à 15:08:22,67.000000,
-com.sec.android.app.shealth,1,3600000,bceab3f4-da01-f7da-b238-5e46459868b2.binning_data,89.000000,77.000000,,28.11.2021 à 15:00:00,3hCrv0rpUB,,28.11.2021 à 15:59:59,bceab3f4-da01-f7da-b238-5e46459868b2,28.11.2021 à 16:03:32,28.11.2021 à 16:03:32,69.000000,
-com.sec.android.app.shealth,1,3600000,7210109b-b3bf-8a6a-eda4-b412d50cfb56.binning_data,90.000000,76.000000,,28.11.2021 à 16:00:00,3hCrv0rpUB,,28.11.2021 à 16:12:56,7210109b-b3bf-8a6a-eda4-b412d50cfb56,28.11.2021 à 16:12:56,28.11.2021 à 16:12:56,68.000000,
-

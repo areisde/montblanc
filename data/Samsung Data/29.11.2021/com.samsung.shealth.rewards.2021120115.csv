@@ -1,0 +1,112 @@
+com.samsung.shealth.rewards,1144003,4
+is_visible,pkg_name,number_of_streak,time_offset,exercise_type,source_pkg_name,start_time,device_type,program_id,title,deviceuuid,exercise_session_id,controller_id,end_time,extra_data,datauuid,create_time,update_time
+0,com.sec.android.app.shealth,,3600000,,,29.11.2021 à 01:00:00,10009,,tracker_pedometer_reward_target_achieved,NS2ZoYjFXt,,tracker.pedometer,29.11.2021 à 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 8740
+}"",f0f1e3d4-9321-41f9-8f26-4b8d0524ddd1,29.11.2021 à 17:56:16,01.12.2021 à 15:00:18,
+0,com.sec.android.app.shealth,,3600000,,,29.11.2021 à 01:00:00,100003,,tracker_pedometer_reward_target_achieved,NS2ZoYjFXt,,tracker.pedometer,29.11.2021 à 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 10293
+}"",0a4b4a7d-53ef-4bad-a36e-824cebcc5c3e,29.11.2021 à 17:56:21,01.12.2021 à 15:00:18,
+0,com.sec.android.app.shealth,,3600000,,,29.11.2021 à 01:00:00,1399999,,tracker_pedometer_reward_target_achieved,NS2ZoYjFXt,,tracker.pedometer,29.11.2021 à 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 8541
+}"",c8244a34-fba3-4dcc-8af2-46d80ccc8bc6,29.11.2021 à 18:05:39,01.12.2021 à 15:00:18,
+1,com.sec.android.app.shealth,,3600000,,,29.11.2021 à 00:00:00,,,goal_activity_reward_goal_achieved,NS2ZoYjFXt,,goal.activity,29.11.2021 à 00:00:00,""{
+  "mValue2" : 60,
+  "mValue" : 71,
+  "mIsCompleted" : false
+}"",4538334c-d556-40b3-8cfc-e78a9115fe2c,29.11.2021 à 18:05:39,29.11.2021 à 18:06:50,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,10009,,tracker_pedometer_reward_target_achieved,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 11130
+}"",e73ff626-942c-437f-8d4c-5ce1601ebb4a,30.11.2021 à 16:30:04,01.12.2021 à 15:00:18,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,100003,,tracker_pedometer_reward_target_achieved,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 00:00:00,""{
+  "mTarget" : 6000,
+  "mValue" : 11130
+}"",3bc5d989-01e8-4c6e-8422-ac96ca32da5c,30.11.2021 à 16:30:09,01.12.2021 à 15:00:18,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,10009,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 20:56:18,""{
+  "mTarget" : -1,
+  "mValue" : 11000
+}"",0fc91565-53c6-462c-8d07-f458fd7cda0d,30.11.2021 à 20:56:18,30.11.2021 à 20:56:18,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,10009,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 01:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 11000
+}"",8cbcfcc6-a632-4be1-b7ee-eb4a9eec3e5d,30.11.2021 à 20:56:23,30.11.2021 à 20:56:23,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,100003,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 00:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 11000
+}"",5b99a4aa-e704-469d-8102-e9dc603285e6,30.11.2021 à 20:56:23,30.11.2021 à 20:56:23,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,100003,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 01:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 11130
+}"",5bc8d3d6-c3ea-4769-a212-97e2b4432378,30.11.2021 à 20:56:23,30.11.2021 à 23:56:11,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,10009,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 20:56:23,""{
+  "mTarget" : -1,
+  "mValue" : 11000
+}"",156f8253-0592-44f0-a314-023b15bd6450,30.11.2021 à 20:56:23,30.11.2021 à 20:56:23,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,10009,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 23:56:02,""{
+  "mTarget" : -1,
+  "mValue" : 11130
+}"",4a485370-a04d-4442-8a77-fcda6d9077a4,30.11.2021 à 23:56:02,30.11.2021 à 23:56:02,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,10009,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 23:56:03,""{
+  "mTarget" : -1,
+  "mValue" : 11130
+}"",e4f555b4-931a-4ce9-845f-d7bf0968539d,30.11.2021 à 23:56:03,30.11.2021 à 23:56:03,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,10009,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 01:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 11130
+}"",6b3ad3d2-e273-4d07-8a44-af740affd23c,30.11.2021 à 23:56:08,30.11.2021 à 23:56:08,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,100003,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 00:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 11130
+}"",7b205dd6-5eca-4aac-a573-ad3679017f81,30.11.2021 à 23:56:09,30.11.2021 à 23:56:09,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,10009,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 23:56:10,""{
+  "mTarget" : -1,
+  "mValue" : 11130
+}"",bae3f539-b7d2-4204-9047-b52ca317d8d8,30.11.2021 à 23:56:10,30.11.2021 à 23:56:10,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,10009,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 01:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 11130
+}"",92ed2b84-22d4-456e-a2da-4ab52d1002da,01.12.2021 à 02:57:13,01.12.2021 à 02:57:13,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,10009,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 01:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 11130
+}"",86f095cf-c40d-44a1-8226-12572f95fdcd,01.12.2021 à 05:55:00,01.12.2021 à 05:55:00,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,10009,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 01:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 11130
+}"",67fe4560-2653-4876-bf37-b865c9d2f58b,01.12.2021 à 08:54:43,01.12.2021 à 08:54:43,
+0,com.sec.android.app.shealth,,3600000,,,29.11.2021 à 01:00:00,100003,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,29.11.2021 à 01:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10293
+}"",1aee3c46-84a9-400c-b0a3-47301da8f27f,01.12.2021 à 10:56:26,01.12.2021 à 10:56:26,
+0,com.sec.android.app.shealth,,3600000,,,29.11.2021 à 01:00:00,100003,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,29.11.2021 à 01:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10293
+}"",34584051-5528-4718-a47d-ca08783e90fd,01.12.2021 à 10:56:28,01.12.2021 à 10:56:28,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,10009,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 01:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 11130
+}"",810f24e4-1a6f-49aa-b368-69414bb49b28,01.12.2021 à 14:59:32,01.12.2021 à 14:59:32,
+0,com.sec.android.app.shealth,,3600000,,,29.11.2021 à 01:00:00,100003,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,29.11.2021 à 01:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10293
+}"",e7ef301e-f5f3-4d6e-a74a-623b87343146,01.12.2021 à 14:59:32,01.12.2021 à 14:59:32,
+0,com.sec.android.app.shealth,,3600000,,,29.11.2021 à 01:00:00,100003,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,29.11.2021 à 01:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10293
+}"",1a961f35-9115-4d1c-8d0f-33012051544d,01.12.2021 à 14:59:36,01.12.2021 à 14:59:36,
+0,com.sec.android.app.shealth,,3600000,,,29.11.2021 à 01:00:00,100003,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,29.11.2021 à 01:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10293
+}"",a77f9bf1-91e4-467d-9ee1-a69e49ee5860,01.12.2021 à 14:59:37,01.12.2021 à 14:59:37,
+0,com.sec.android.app.shealth,,3600000,,,30.11.2021 à 01:00:00,10009,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,30.11.2021 à 01:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 11130
+}"",fa774e1b-8890-4f19-946b-5c3a2100b75d,01.12.2021 à 15:00:18,01.12.2021 à 15:00:18,
+0,com.sec.android.app.shealth,,3600000,,,29.11.2021 à 01:00:00,100003,,tracker_pedometer_reward_most_walking_day,NS2ZoYjFXt,,tracker.pedometer,29.11.2021 à 01:00:00,""{
+  "mTarget" : -1,
+  "mValue" : 10293
+}"",9a6caad4-fd47-431a-a568-d52658fb964f,01.12.2021 à 15:00:18,01.12.2021 à 15:00:18,
+

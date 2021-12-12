@@ -1,0 +1,246 @@
+{
+  "mPeriod" : "28 novembre - 4 décembre",
+  "mNoData" : "Aucune donnée",
+  "mSummaryWeight" : {
+    "title" : "Poids",
+    "items" : [
+
+    ]
+  },
+  "mSummaryFood" : {
+    "title" : "Détails d'activité",
+    "subtitle" : "Aliment",
+    "items" : [
+
+    ]
+  },
+  "mAvgGoalPerformance" : {
+    "food" : {
+      "validDaysOfTwoWeeks" : 2147483647,
+      "evaluationValueOfPrevious" : 2147483647,
+      "evaluationValue" : 2147483647,
+      "valueOneWeekAgo" : 3.4028234663852886e+38,
+      "validDaysOfPrevious" : 2147483647,
+      "validDays" : 2147483647,
+      "valueTwoWeeksAgo" : 3.4028234663852886e+38,
+      "differenceValue" : 2147483647
+    },
+    "avgGoalPerfTitle" : "Moyenne des performances des objectifs",
+    "sleep" : {
+      "validDaysOfTwoWeeks" : 2147483647,
+      "evaluationValueOfPrevious" : 2147483647,
+      "evaluationValue" : 2147483647,
+      "valueOneWeekAgo" : 3.4028234663852886e+38,
+      "validDaysOfPrevious" : 2147483647,
+      "validDays" : 2147483647,
+      "valueTwoWeeksAgo" : 3.4028234663852886e+38,
+      "differenceValue" : 2147483647
+    },
+    "subtitle" : "28 novembre - 4 décembre",
+    "avgActivityPerfTitle" : "Activité moyenne",
+    "step" : {
+      "validDaysOfTwoWeeks" : 2147483647,
+      "evaluation" : "8337Pas",
+      "evaluationValueOfPrevious" : 2147483647,
+      "evaluationValue" : 8337,
+      "valueOneWeekAgo" : 58363,
+      "validDaysOfPrevious" : 7,
+      "difference" : "Aucun(e)",
+      "unit" : "Pas",
+      "validDays" : 7,
+      "valueTwoWeeksAgo" : 3.4028234663852886e+38,
+      "differenceValue" : 2147483647
+    }
+  },
+  "mGroupComparison" : {
+    "subtitle" : "Vous par rapport à Groupe",
+    "title" : "Comparaison avec le groupe",
+    "groupComparisonItems" : [
+      {
+        "unit" : "pas",
+        "groupKey" : "Groupe",
+        "valueMineString" : "8337 Pas",
+        "valueOtherString" : "4786 Pas",
+        "valueOther" : 4786,
+        "groupDescription" : "Groupe : Hommes qui utilisent Samsung Health",
+        "title" : "Moyenne du nombre de pas quotidiens",
+        "valueMine" : 8337,
+        "type" : "AvgDailySteps",
+        "myKey" : "Moi"
+      }
+    ]
+  },
+  "mComparingPeriod" : "28 novembre - 4 décembre",
+  "mSummarySleep" : {
+    "title" : "Détails d'activité",
+    "subtitle" : "Sommeil",
+    "items" : [
+
+    ]
+  },
+  "mSummaryStep" : {
+    "dailyUnit" : "Pas",
+    "title" : "Détails d'activité",
+    "items" : [
+      {
+        "value" : 58363,
+        "key" : "TotalSteps",
+        "keyString" : "Total de pas",
+        "valueString" : "58363"
+      },
+      {
+        "value" : 6.7581381797790527,
+        "key" : "AvgDistance",
+        "keyString" : "Distance moyenne",
+        "valueString" : "6.8 km"
+      },
+      {
+        "value" : 47.306968688964844,
+        "key" : "TotalDistance",
+        "keyString" : "Distance totale",
+        "valueString" : "47.3 km"
+      },
+      {
+        "value" : 308,
+        "key" : "AvgCaloriesBurned",
+        "keyString" : "Moyenne de calories brûlées",
+        "valueString" : "308 kcal"
+      },
+      {
+        "value" : 2159,
+        "key" : "TotalCaloriesBurned",
+        "keyString" : "Nombre total de calories brûlées",
+        "valueString" : "2159 kcal"
+      }
+    ],
+    "subtitle" : "Pas",
+    "dailyValues" : [
+      {
+        "value" : 1395,
+        "goal" : 6000
+      },
+      {
+        "value" : 10293,
+        "goal" : 6000
+      },
+      {
+        "value" : 11130,
+        "goal" : 6000
+      },
+      {
+        "value" : 9634,
+        "goal" : 6000
+      },
+      {
+        "value" : 6524,
+        "goal" : 6000
+      },
+      {
+        "value" : 10656,
+        "goal" : 6000
+      },
+      {
+        "value" : 8731,
+        "goal" : 6000
+      }
+    ]
+  },
+  "mRequestIdMap" : {
+    "tracker.sleep" : 1,
+    "tracker.food" : 1,
+    "tracker.heartrate" : 1,
+    "tracker.pedometer" : 1,
+    "tracker.weight" : 1
+  },
+  "mLocaleId" : "fr_CH",
+  "mWeekDay" : {
+    "days" : [
+      "D",
+      "L",
+      "M",
+      "M",
+      "J",
+      "V",
+      "S"
+    ]
+  },
+  "mTitle" : "Rapport hebdomadaire",
+  "mSummaryCare" : {
+    "subtitleAllStatusHR" : "Tous les tags",
+    "restingHR" : [
+      {
+        "value" : 59,
+        "key" : "RestingHRAvg",
+        "keyString" : "Moyen",
+        "valueString" : "59.0 bpm"
+      },
+      {
+        "value" : 59,
+        "key" : "RestingHRHighest",
+        "keyString" : "Le plus élevé",
+        "valueString" : "59.0 bpm"
+      },
+      {
+        "value" : 59,
+        "key" : "RestingHRLowest",
+        "keyString" : "Le plus bas",
+        "valueString" : "59.0 bpm"
+      }
+    ],
+    "subtiltlePostmealBG" : "Après repas",
+    "pulseRate" : [
+
+    ],
+    "allStatusBG" : [
+
+    ],
+    "systolic" : [
+
+    ],
+    "subtitlePulseRate" : "Rythme cardiaque",
+    "subtiltlePremealBG" : "Avant repas",
+    "subtitleDiastolic" : "Pression diastolique",
+    "subtitleRestingHR" : "Fréquence cardiaque au repos",
+    "subtitleBP" : "Pression artérielle",
+    "subtitleSystolic" : "Pression systolique",
+    "subtitleHR" : "Fréqu. Card.",
+    "subtitleBG" : "Glycémie",
+    "premealBG" : [
+
+    ],
+    "AllStatusHR" : [
+      {
+        "value" : 84,
+        "key" : "HRAvg",
+        "keyString" : "Moyen",
+        "valueString" : "84.0 bpm"
+      },
+      {
+        "value" : 101,
+        "key" : "HRHighest",
+        "keyString" : "Le plus élevé",
+        "valueString" : "101.0 bpm"
+      },
+      {
+        "value" : 59,
+        "key" : "HRLowest",
+        "keyString" : "Le plus bas",
+        "valueString" : "59.0 bpm"
+      }
+    ],
+    "subtitleAllStatusBG" : "Tous les tags",
+    "postmealBG" : [
+
+    ],
+    "diastolic" : [
+
+    ],
+    "fastingBG" : [
+
+    ],
+    "subtitleFastingBG" : "À jeun",
+    "bpLastReading" : [
+
+    ]
+  }
+}

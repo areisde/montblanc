@@ -1,0 +1,6 @@
+com.samsung.health.device_profile,1144003,6
+create_time,capability,update_time,pkg_name,providing_step_goal,step_source_group,device_type,backsync_step_goal,deviceuuid,manufacturer,connectivity_type,datauuid,device_group,model,fixed_name,name
+28.11.2021 à 13:33:36,,28.11.2021 à 13:33:36,com.sec.android.app.shealth,,,,,VfS0qUERdZ,Combined,,37616639-3732-3263-6364-393930376237,0,Combined,,Combined,
+28.11.2021 à 13:39:59,39306264-6163-3732-3265-323364396438.capability,28.11.2021 à 13:39:59,com.sec.android.app.shealth,1,13,10038,1,3hCrv0rpUB,Samsung Electronics,,39306264-6163-3732-3265-323364396438,360003,SM-R760,,Gear S3,
+28.11.2021 à 14:14:24,,28.11.2021 à 14:14:24,com.sec.android.app.shealth,,,,,NS2ZoYjFXt,Apple,,35376334-6331-3230-3339-306636646237,360001,iPhone 6,iPhone 6,My Device,
+

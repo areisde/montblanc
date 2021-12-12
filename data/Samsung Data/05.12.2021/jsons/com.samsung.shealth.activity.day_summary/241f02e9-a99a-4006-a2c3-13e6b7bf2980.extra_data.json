@@ -1,0 +1,46 @@
+{
+  "mMostActiveMinutes" : 0,
+  "mActivityList" : [
+
+  ],
+  "mIsMostActiveAchieved" : false,
+  "mUnitDataList" : [
+    {
+      "mCalorie" : 0,
+      "walkStep" : 9,
+      "distance" : 7,
+      "runStep" : 0,
+      "mWalkTime" : 6003,
+      "mTimeUnit" : 600000,
+      "mRunTime" : 0,
+      "mStartTime" : 600000,
+      "mOthersTime" : 0
+    },
+    {
+      "mCalorie" : 0,
+      "walkStep" : 6,
+      "distance" : 4,
+      "runStep" : 0,
+      "mWalkTime" : 4002,
+      "mTimeUnit" : 600000,
+      "mRunTime" : 0,
+      "mStartTime" : 30600000,
+      "mOthersTime" : 0
+    },
+    {
+      "mCalorie" : 0,
+      "walkStep" : 23,
+      "distance" : 18,
+      "runStep" : 0,
+      "mWalkTime" : 15341,
+      "mTimeUnit" : 600000,
+      "mRunTime" : 0,
+      "mStartTime" : 34200000,
+      "mOthersTime" : 0
+    }
+  ],
+  "version" : 1,
+  "mIsGoalAchieved" : false,
+  "mStreakDayCount" : 0,
+  "mAdaptiveGoal" : 0
+}
